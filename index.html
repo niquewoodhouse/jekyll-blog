@@ -18,3 +18,22 @@ body-class: wider
 </div>		 
 
 
+<ul>
+	{% for post in site.posts limit:2 %}
+	<li style="background-image: url('{{post.img}}');">
+		<a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a>
+		<p>{{post.meta}}</p>
+
+	</li>
+	{% endfor %}
+</ul>
+
+
+<!--
+<div class="wider ligGreyToWhite">
+		<div class="grid">
+		        <h1 class="bigGapTop">Wirewax</h1>
+		        <p class="lead">Responsive video editing platform.</p>			
+		 </div>
+</div>	
+-->	 
