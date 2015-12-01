@@ -14,7 +14,7 @@ layout: default
 <ul>
 	{% for post in site.posts limit:2 %}
 	<li style="background-image: url('{{post.img}}');">
-		<a href="{{ site.baseurl }}/{{post.url}}">{{post.title}}</a>
+		<a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a>
 		<p>{{post.meta}}</p>
 
 	</li>
