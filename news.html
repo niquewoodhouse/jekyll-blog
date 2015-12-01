@@ -2,4 +2,23 @@
 layout: default
 ---
 
-<h1>news</h1>
+<h1>Boomg</h1>
+
+<nav>
+	<ul>
+		<li>Share</li>
+		<li>Follow</li>
+	</ul>
+</nav>
+
+<ul>
+	{% for post in site.posts limit:2 %}
+	<li style="background-image: url('{{post.img}}');">
+		<a href="">{{post.title}}</a>
+		<p>{{post.meta}}</p>
+
+	</li>
+	{% endfor %}
+</ul>
+
+{{content}}
