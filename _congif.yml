@@ -1,7 +1,9 @@
 markdown: redcarpet
+title: Nique Woodhouse
 baseurl: /jekyll-blog
 exclude: ['README.md']
 permalink: pretty
+email: nique.shjm.woodhouse@gmail.com
 gems:
 - jekyll-mentions
 - jemoji
