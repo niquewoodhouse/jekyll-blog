@@ -2,4 +2,8 @@ markdown: redcarpet
 baseurl: /jekyll-blog
 exclude: ['README.md']
 permalink: pretty
-gems:  - jekyll-sitemap
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
