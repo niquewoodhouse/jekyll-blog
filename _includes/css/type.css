@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Univers";
+	src: url('../fonts/Univers CE 45 Light.ttf') format('truetype');
+}
+
+h1 {
+	font: 2rem "Univers", Arial, sans-serif;
+}
