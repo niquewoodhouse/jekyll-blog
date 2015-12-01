@@ -3,7 +3,6 @@ html {
 	font: normal 100%/1.4 Georgia,serif;
 }
 
-.wFull {width:100%;margin: 0 auto;}
 
 /*
  * Gridism
@@ -56,6 +55,7 @@ html {
 /* Width classes also have shorthand versions numbered as fractions
  * For example: for a grid unit 1/3 (one third) of the parent width,
  * simply apply class="w-1-3" to the element. */
+
 .grid .whole,          .grid .w-1-1 { width: 100%; }
 .grid .half,           .grid .w-1-2 { width: 50%; }
 .grid .one-third,      .grid .w-1-3 { width: 33.3332%; }
@@ -129,14 +129,6 @@ html {
   }
 }
 
-/* Expand the wrap a bit further on larger screens */
-@media screen and (min-width: 1200px) {
-  .wider .grid,
-  .grid.wider {
-    width: 100%;
-    margin: 0 auto;
-  }
-}
 
 
 a.tweetuh {font-size:90rem;}
