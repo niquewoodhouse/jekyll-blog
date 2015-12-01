@@ -130,6 +130,14 @@ html {
 }
 
 
+/* Expand the wrap a bit further on larger screens */
+@media screen and (min-width: 1180px) {
+  .wider .grid,
+  .grid.wider {
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+}
 
 a.tweetuh {font-size:90rem;}
 
