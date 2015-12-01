@@ -1,8 +1,17 @@
+
 @font-face {
-	font-family: "Univers";
-	src: url('http://niquewoodhouse.github.io/jekyll-blog/fonts/UniversCE45Light.ttf') format('truetype');
+    font-family: 'univers_ce_45_lightregular';
+    src: url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.eot');
+    src: url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.woff2') format('woff2'),
+         url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.woff') format('woff'),
+         url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.ttf') format('truetype'),
+         url('http://niquewoodhouse.github.io/jekyll-blog/fonts/universce45light-webfont.svg#univers_ce_45_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 h1 {
-	font: 2rem "Univers", Helvetica, Arial, sans-serif;
+	font: 2rem "univers_ce_45_lightregular", Helvetica, Arial, sans-serif;
 }
