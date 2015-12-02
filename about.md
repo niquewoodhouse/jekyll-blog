@@ -36,7 +36,7 @@ layout: default
 
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop ghost">Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+		        <h1 class="bigGapTop mediumGapBott ghost">Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		      </div>
 		 </div>
@@ -68,7 +68,7 @@ layout: default
 		</div>		 
 
 
-		<div class="grid ghost">
+		<div class="grid ghost mediumGapBott">
 	      <div class="unit half">
 	        <ul class="blockLi list">
 	        	<li>Focus</li>
