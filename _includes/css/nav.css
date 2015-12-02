@@ -1,4 +1,4 @@
-nav.header {background:white;}
+nav.header {}
 
 a.current {
 	color:#c69c6d;
@@ -15,7 +15,6 @@ a.current:after {
 
 .nav-header {
 	font-size:1.25rem;
-
 }
 
 

@@ -21,3 +21,7 @@
   background: -ms-linear-gradient(top, #0c77f8 0%, #3474FB 60%, #826cff 100%);
   background: linear-gradient(to bottom, #0c77f8 0%, #3474FB 60%, #826cff 100%);
 }
+
+/* Backgrounds */
+
+.ghostBg {background:#fafafa;}
