@@ -23,7 +23,7 @@ nav.header a.logo {
 	float:left;
 }
 
-nav.header ul {
+nav.header ul.nav {
 	float:right;
 }
 
