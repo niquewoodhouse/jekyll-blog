@@ -72,7 +72,7 @@ layout: default
 
 <div class="wider">
 
-		<script type="text/javascript" src="js/instafeed.min.js"></script>  
+		<script type="text/javascript" src="instafeed.js/instafeed.min.js"></script>  
   	<script type="text/javascript">
 		var feed = new Instafeed({
 		  get: 'user',
