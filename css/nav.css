@@ -1,8 +1,8 @@
-.current {
+a.current {
 	color:#c69c6d;
 }
 
-.current:after {
+a.current:after {
 	content:"";
 	height:3px;
 	display:block;
