@@ -34,6 +34,6 @@ ul.recentWork li:after {
 	height:3px;
 	display:block;
 	width:100%;
-	border-top:1px solid green;
+	border-top:1px solid rgba(255, 255, 255, .2);
 }
 
