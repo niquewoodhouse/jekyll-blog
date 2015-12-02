@@ -28,6 +28,10 @@ ul.list li:first-child {
 	margin:0 0 15px 0;
 }
 
+ul.list li {
+	line-height:2em;
+}
+
 ul li {
 	display:inline-block;
 	list-style: none;
