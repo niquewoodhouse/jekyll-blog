@@ -26,7 +26,7 @@ layout: default
 		        	Starting today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
 		        </p>
 		        <p>
-
+		        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
 		        </p>
 		      </div>
 		</div>		 
@@ -35,7 +35,7 @@ layout: default
 	      <div class="unit one-third">
 	        Focuses
 	      </div>
-	      <div class="unit two-thirds">
+	      <div class="unit one-third">
 	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -45,6 +45,18 @@ layout: default
 	        	<li>Identity</li>
 	        </ul>
 	      </div>
+	      <div class="unit one-third">
+	        <ul class="blockLi">
+	        	<li>User centered product design</li>
+	        	<li>User research &amp; testing</li>
+	        	<li>Data visualisation</li>
+	        	<li>User interfaces</li>
+	        	<li>Responsive design</li>
+	        	<li>Identity</li>
+	        </ul>
+	      </div>
+
+
 	    </div>
 
 </div>		
