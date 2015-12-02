@@ -23,9 +23,15 @@ body {
 }
  
 ul.recentWork span.title {
-    font-size: 3rem;
+    font-size: 2rem;
+    display:block;
+    margin:20px 0 30px 0;
 }
 
 ul.recentWork span.subtitle {
     font-size:1rem;
+}
+
+ul.recentWork a {
+    text-decoation:none;
 }
