@@ -34,6 +34,10 @@ body {
 }
 
 a {text-decoration: none;}
+
+ul.nav a {
+    font-size:1em;
+}
  
 ul.recentWork span.title {
     font-size: 2rem;
