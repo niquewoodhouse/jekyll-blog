@@ -79,7 +79,7 @@ ul.recentWork li a {
 
 ul.recentWork li a:after {
 	content:"";
-	height:3px;
+	height:15px;
 	display:block;
 	width:100%;
 	border-bottom:1px solid rgba(35, 35, 35, .1);
