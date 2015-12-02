@@ -40,12 +40,12 @@ layout: default
 
 
 		<div class="grid ghost">
-	      <div class="unit one-third">
+	      <div class="unit one-quarter">
 	      	<p>
 	      		Focused on
 	      	</p>
 	      </div>
-	      <div class="unit two-thirds">
+	      <div class="unit one-quarter">
 	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -55,15 +55,12 @@ layout: default
 	        	<li>Identity</li>
 	        </ul>
 	      </div>
-	    </div>
-
-		<div class="grid ghost">
-	      <div class="unit one-third">
+	      <div class="unit one-quarter">
 	      	<p>
 	      		Focused on
 	      	</p>
 	      </div>
-	      <div class="unit two-thirds">
+	      <div class="unit one-quarter">
 	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -71,6 +68,23 @@ layout: default
 	        	<li>User interfaces</li>
 	        	<li>Responsive design</li>
 	        	<li>Identity</li>
+	        </ul>
+	      </div>	      	      
+	    </div>
+
+		<div class="grid ghost">
+	      <div class="unit one-third">
+	      	<p>
+	      		Awards
+	      	</p>
+	      </div>
+	      <div class="unit two-thirds">
+	        <ul class="blockLi">
+	        	<li>1x Awwwards Honorable Mention</li>
+	        	<li>1x OnePage Most Loved of the Year</li>
+	        	<li>1x Linkage Site of the week </li>
+	        	<li>1x CSS Design Awards Design of the day</li>
+
 	        </ul>
 	      </div>
 	    </div>
