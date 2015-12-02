@@ -15,7 +15,10 @@ layout: default
 		<div class="grid ghost">
 		      <div class="unit half">
 		        <p class="w80">
-		        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim. I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by esteemed brands such as Spotify, NBC Universal, Nike &amp; BBC.  
+		        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.
+		        </p>
+		        <p class="w80">
+		        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by esteemed brands such as Spotify, NBC Universal, Nike &amp; BBC.  
 				</p>
 				<p class="w80">
 		        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in 2 years. 
