@@ -13,10 +13,15 @@ a.tweetuh {font-size:90rem;}
 .bigGapTop {
 	margin-top:200px !important;
 }
+.bigGapBott {
+	margin-bottom:200px !important;
+}
 
 .mediumGapBott {
 	margin-bottom:100px !important;
 }
+
+
 
 /* Positions */
 
