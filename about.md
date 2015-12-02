@@ -28,20 +28,13 @@ layout: default
 		        <p class="w80">
 		        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
 		        </p>
+		        <p class="w80">
+		        	<a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>, <a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a>, <a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a>
+		        </p>
+
 		      </div>
 		</div>		 
 
-		<div class="grid">
-			<div class="unit one-third">
-				<a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>
-			</div>
-			<div class="unit one-third">
-				<a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a>
-			</div>
-			<div class="unit one-third">
-				<a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a>
-			</div>						
-		</div>		
 
 		<div class="grid">
 	      <div class="unit one-third">
