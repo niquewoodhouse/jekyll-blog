@@ -17,6 +17,15 @@ h1 {
     font-weight: 600;
 }
 
+h4 {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Safari */
+    transform: rotate(90deg); /* Standard syntax */
+    text-transform: uppercase;
+    font-size: 1em;
+    line-height: 1.2em;
+}
+
 body {
     font-family:"univers_ce_45_lightregular", Helvetica, Arial, sans-serif;
     font-weight:600;
@@ -35,3 +44,4 @@ ul.recentWork span.subtitle {
 ul.recentWork a {
     text-decoration:none !important;
 }
+
