@@ -1,4 +1,6 @@
-nav.header {}
+nav.header {
+	padding:15px 15px;
+}
 
 a.current {
 	color:#c69c6d;
