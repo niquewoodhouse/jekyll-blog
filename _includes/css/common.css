@@ -14,13 +14,19 @@ a.tweetuh {font-size:90rem;}
 	margin:200px 0 100px 0 !important;
 }
 
+/* Positions */
+
+.fixed {
+	position:fixed;
+}
+
 /* uls */
 
 ul {
 	padding:20px;
 }
 
-ul.list {
+ul.list, nav.header ul.nav {
 	padding:0px;
 }
 
