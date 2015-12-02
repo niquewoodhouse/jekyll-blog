@@ -7,32 +7,7 @@ layout: default
 
 <div class="wider DeepBlueToBrightPurp">
 
-	<script type="text/javascript" src="js/instafeed.min.js"></script>  
-  	<script type="text/javascript">
-		var feed = new Instafeed({
-		  get: 'user',
-		  clientId: '467ede5a6b9b48ae8e03f4e2582aeeb3',
-		  userId: 13563994,
-		  accessToken: '13563994.467ede5.bfe0ac4ed0fa4d9a84b943687922a92d',
-		  resolution: 'standard_resolution',
-		  limit: 9,
-		  after: function () {
-		    var images = $("#instafeed").find('a');
-		    $.each(images, function(index, image) {
-		      var delay = (index * 75) + 'ms';
-		      $(image).css('-webkit-animation-delay', delay);
-		      $(image).css('-moz-animation-delay', delay);
-		      $(image).css('-ms-animation-delay', delay);
-		      $(image).css('-o-animation-delay', delay);
-		      $(image).css('animation-delay', delay);
-		      //$(image).addClass('animated flipInX');
-		    });
-		  },
-		  template: '<a href="{{link}}" target="_blank" class="instagramImg"><img src="{{image}}" /><span class="likes">&hearts; {{likes}}</span></a>'
-		});
-		feed.run();
-		setTimeout(function(){ $('#instafeed a').attr("target","_blank"); }, 1000);
-	</script>
+
 
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
@@ -50,7 +25,7 @@ layout: default
 		        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by esteemed brands such as Spotify, NBC Universal, Nike &amp; BBC.  
 				</p>
 				<p class="w80">
-		        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in 2 years. 
+		        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 		        </p>
 		      </div>
 		      <div class="unit half">
@@ -96,6 +71,33 @@ layout: default
 </div>		
 
 <div class="wider">
+
+		<script type="text/javascript" src="js/instafeed.min.js"></script>  
+  	<script type="text/javascript">
+		var feed = new Instafeed({
+		  get: 'user',
+		  clientId: '467ede5a6b9b48ae8e03f4e2582aeeb3',
+		  userId: 13563994,
+		  accessToken: '13563994.467ede5.bfe0ac4ed0fa4d9a84b943687922a92d',
+		  resolution: 'standard_resolution',
+		  limit: 9,
+		  after: function () {
+		    var images = $("#instafeed").find('a');
+		    $.each(images, function(index, image) {
+		      var delay = (index * 75) + 'ms';
+		      $(image).css('-webkit-animation-delay', delay);
+		      $(image).css('-moz-animation-delay', delay);
+		      $(image).css('-ms-animation-delay', delay);
+		      $(image).css('-o-animation-delay', delay);
+		      $(image).css('animation-delay', delay);
+		      //$(image).addClass('animated flipInX');
+		    });
+		  },
+		  template: '<a href="{{link}}" target="_blank" class="instagramImg"><img src="{{image}}" /><span class="likes">&hearts; {{likes}}</span></a>'
+		});
+		feed.run();
+		setTimeout(function(){ $('#instafeed a').attr("target","_blank"); }, 1000);
+	</script>
 				<div id="instafeed" class="wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
 				<h1 class="intro-heading tCenter">Instagram</h1>
 			</div>
