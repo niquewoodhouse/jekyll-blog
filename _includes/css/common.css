@@ -73,8 +73,8 @@ ul.recentWork li {
 	margin:40px 0 40px 0;
 }
 
-ul.recentWork li a {
-
+ul.recentWork li a:hover span.title {
+	text-decoration: underline;
 }
 
 ul.recentWork li a:after {
@@ -84,6 +84,7 @@ ul.recentWork li a:after {
 	width:100%;
 	border-bottom:1px solid rgba(35, 35, 35, .1);
 }
+
 
 
 
