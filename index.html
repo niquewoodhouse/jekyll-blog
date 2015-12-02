@@ -15,6 +15,7 @@ body-class: wider
 <div class="wider midnight">
 		<div class="grid">
 			<ul class="recentWork">
+				<li>Recent work</li>
 				{% for post in site.categories.work limit:3 %}
 				<li class="block">
 					<a href="{{site.baseurl}}/{{post.url}}">
@@ -28,32 +29,4 @@ body-class: wider
 		 </div>
 </div>	
 
-<div class="wider midnight">
-	<div class="grid">
-	      <div class="unit one-fifth">
-	        <h4>Recent work</h4>
-	      </div>
-	      <div class="unit four-fifths">
-		        <ul class="recentWork">
-					{% for post in site.categories.work limit:3 %}
-					<li class="block">
-						<a href="{{site.baseurl}}/{{post.url}}">
-							<span class="title">{{post.title}}</span>
-							<span class="subtitle">{{post.subtitle}}</span>
-						</a>
 
-					</li>
-					{% endfor %}
-				</ul>
-	      </div>
-	    </div>
-</div>    
-
-<!--
-<div class="wider ligGreyToWhite">
-		<div class="grid">
-		        <h1 class="bigGapTop">Wirewax</h1>
-		        <p class="lead">Responsive video editing platform.</p>			
-		 </div>
-</div>	
--->	 
