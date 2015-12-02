@@ -41,6 +41,10 @@ ul.blockLi li, ul.recentWork li {
 	display:block;
 }
 
+nav.header ul.nav {
+	display:inline;
+}
+
 ul.recentWork li {
 	margin:40px 0 40px 0;
 }
