@@ -24,4 +24,6 @@ ul li {
 	list-style: none;
 } 
 
-ul.recentWork li 
+ul.recentWork li {
+	display:block;
+}
