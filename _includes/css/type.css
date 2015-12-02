@@ -32,6 +32,8 @@ body {
     font-family:"univers_ce_45_lightregular", Helvetica, Arial, sans-serif;
     font-weight:300;
 }
+
+a {text-decoration: none;}
  
 ul.recentWork span.title {
     font-size: 2rem;
