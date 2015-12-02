@@ -68,11 +68,17 @@ ul.recentWork li {
 	margin:40px 0 40px 0;
 }
 
+ul.recentWork li a {
+
+}
+
 ul.recentWork li:after {
 	content:"";
 	height:3px;
 	display:block;
 	width:100%;
-	border-top:1px solid rgba(255, 255, 255, .2);
+	border-top:1px solid rgba(35, 35, 35, .2);
 }
+
+
 
