@@ -36,7 +36,7 @@ layout: default
 	        Focuses
 	      </div>
 	      <div class="unit two-thirds">
-	        <ul>
+	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation</li>

@@ -24,8 +24,11 @@ ul li {
 	list-style: none;
 } 
 
-ul.recentWork li {
+ul.blockLi li, ul.recentWork li {
 	display:block;
+}
+
+ul.recentWork li {
 	margin:40px 0 40px 0;
 }
 
