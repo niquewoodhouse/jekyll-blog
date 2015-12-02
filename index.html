@@ -6,9 +6,8 @@ body-class: wider
 <div class="wider ligGreyToWhite">
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
+		        <h1 class="bigGapTop mediumGapBott">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
 		        <p class="lead">Independent designer focusing on making products work, feel simple &amp; a little fun. <a href="/profile">More about me</a>.</p>
-
 		      </div>
 		 </div>
 </div>		 
@@ -16,11 +15,11 @@ body-class: wider
 <div class="wider midnight">
 		<div class="grid">
 			<ul class="recentWork">
-				{% for page in site.categories.work limit:3 %}
+				{% for post in site.categories.work limit:3 %}
 				<li class="block">
-					<a href="{{site.baseurl}}/{{page.url}}">
-						<span class="title">{{page.title}}</span>
-						<span class="subtitle">{{page.subtitle}}</span>
+					<a href="{{site.baseurl}}/{{post.url}}">
+						<span class="title">{{post.title}}</span>
+						<span class="subtitle">{{post.subtitle}}</span>
 					</a>
 
 				</li>
