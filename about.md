@@ -32,11 +32,25 @@ layout: default
 		</div>		 
 
 		<div class="grid">
+			<div class="unit one-third">
+				<a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>
+			</div>
+			<div class="unit one-third">
+				<a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a>
+			</div>
+			<div class="unit one-third">
+				<a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a>
+			</div>						
+		</div>		
+
+		<div class="grid">
 	      <div class="unit one-third">
-	        <li>Follow</li>
-	        <li>Twitter</li>
-	        <li>Instagram</li>
-	        <li>Github</li>
+	      	<ul>
+		        <li>Follow</li>
+		        <li>Twitter</li>
+		        <li>Instagram</li>
+		        <li>Github</li>
+		    </ul>    
 	      </div>
 	      <div class="unit one-third">
 	        <ul class="blockLi">
@@ -50,7 +64,9 @@ layout: default
 	      </div>
 	      <div class="unit one-third">
 	        <ul class="blockLi">
-	        	<li>User centered product design</li>
+	        	<li>Follow</li>
+	        	<li>Twitter</li>
+	        	<li></li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation</li>
 	        	<li>User interfaces</li>
