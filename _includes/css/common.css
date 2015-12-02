@@ -11,7 +11,11 @@ a.tweetuh {font-size:90rem;}
 /* Specific Margins */
 
 .bigGapTop {
-	margin:200px 0 100px 0 !important;
+	margin-top:200px !important;
+}
+
+.mediumGapBott {
+	margin-bottom:100px !important;
 }
 
 /* Positions */

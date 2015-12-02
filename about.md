@@ -41,7 +41,7 @@ layout: default
 		      </div>
 		 </div>
 
-		<div class="grid ghost">
+		<div class="grid ghost mediumGapBott">
 		      <div class="unit half">
 		        <p class="w80">
 		        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.
