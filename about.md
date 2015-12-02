@@ -40,13 +40,9 @@ layout: default
 
 
 		<div class="grid ghost">
-	      <div class="unit one-quarter">
-	      	<p class="w80">
-	      		Focus
-	      	</p>
-	      </div>
-	      <div class="unit one-quarter">
+	      <div class="unit half">
 	        <ul class="blockLi">
+	        	<li>Focus</li>
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation </li>
@@ -55,13 +51,9 @@ layout: default
 	        	<li>Identity &amp; branding</li>
 	        </ul>
 	      </div>
-	      <div class="unit one-quarter">
-	      	<p class="w80">
-	      		Awards
-	      	</p>
-	      </div>
-	      <div class="unit one-quarter">
+	      <div class="unit half">
 	        <ul class="blockLi">
+	        	<li>Awards</li>
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>
 	        	<li>1x Linkage Site of the week </li>
