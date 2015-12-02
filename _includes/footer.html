@@ -1,5 +1,32 @@
 <footer>
 	{% include nav.html navclass='nav-footer' %}
 
+	<script type="text/javascript" src="js/instafeed.min.js"></script>  
+  	<script type="text/javascript">
+		var feed = new Instafeed({
+		  get: 'user',
+		  clientId: '467ede5a6b9b48ae8e03f4e2582aeeb3',
+		  userId: 13563994,
+		  accessToken: '13563994.467ede5.bfe0ac4ed0fa4d9a84b943687922a92d',
+		  resolution: 'standard_resolution',
+		  limit: 9,
+		  after: function () {
+		    var images = $("#instafeed").find('a');
+		    $.each(images, function(index, image) {
+		      var delay = (index * 75) + 'ms';
+		      $(image).css('-webkit-animation-delay', delay);
+		      $(image).css('-moz-animation-delay', delay);
+		      $(image).css('-ms-animation-delay', delay);
+		      $(image).css('-o-animation-delay', delay);
+		      $(image).css('animation-delay', delay);
+		      //$(image).addClass('animated flipInX');
+		    });
+		  },
+		  template: '<a href="{{link}}" target="_blank" class="instagramImg"><img src="{{image}}" /><span class="likes">&hearts; {{likes}}</span></a>'
+		});
+		feed.run();
+		setTimeout(function(){ $('#instafeed a').attr("target","_blank"); }, 1000);
+	</script>
+
 	<a href="http://twitter.com/niquewoodhouse" class="tweetuh">@niquewoodhouse</a>
 </footer>

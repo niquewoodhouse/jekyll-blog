@@ -47,7 +47,7 @@ layout: default
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation </li>
 	        	<li>Interfaces &amp; interaction </li>
-	        	<li>Responsive &anp; native design</li>
+	        	<li>Responsive &amp; native design</li>
 	        	<li>Identity &amp; branding</li>
 	        </ul>
 	      </div>
@@ -64,7 +64,10 @@ layout: default
 	      </div>	      	      
 	    </div>
 
-
-
-
 </div>		
+
+<div class="wider">
+				<div id="instafeed" class="wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+				<h1 class="intro-heading tCenter">Instagram</h1>
+			</div>
+</div>
