@@ -13,11 +13,9 @@ a.current:after {
 
 .nav-header {
 	font-size:1.25rem;
+	
 }
 
-nav {
-	font-size:5rem;
-}
 
 nav.header a.logo {
 	float:left;
@@ -31,4 +29,3 @@ nav.header ul li {
 	margin:0 25px 0 0;
 }
 
-nav
