@@ -26,7 +26,7 @@ layout: default
 		      </div>
 		      <div class="unit half">
 		        <p class="w80">
-		        	Starting today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
+		        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
 		        </p>
 		        <p class="w80">
 		        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
@@ -41,7 +41,7 @@ layout: default
 
 		<div class="grid ghost">
 	      <div class="unit half">
-	        <ul class="blockLi">
+	        <ul class="blockLi list">
 	        	<li>Focus</li>
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -52,7 +52,7 @@ layout: default
 	        </ul>
 	      </div>
 	      <div class="unit half">
-	        <ul class="blockLi">
+	        <ul class="blockLi list">
 	        	<li>Awards</li>
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>

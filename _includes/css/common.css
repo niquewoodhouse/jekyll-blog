@@ -20,6 +20,14 @@ ul {
 	padding:20px;
 }
 
+ul.list {
+	padding:0px;
+}
+
+ul.list li:first-child {
+	margin:0 0 15px 0;
+}
+
 ul li {
 	display:inline-block;
 	list-style: none;
