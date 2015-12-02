@@ -43,9 +43,9 @@ layout: default
 		</div>		 
 
 
-		<div class="grid ghost mediumGapBott">
+		<div class="grid ghost">
 	      <div class="unit half">
-	        <ul class="blockLi list">
+	        <ul class="blockLi list mediumGapBott">
 	        	<li>Focus</li>
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -56,7 +56,7 @@ layout: default
 	        </ul>
 	      </div>
 	      <div class="unit half">
-	        <ul class="blockLi list">
+	        <ul class="blockLi list mediumGapBott">
 	        	<li>Awards</li>
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>

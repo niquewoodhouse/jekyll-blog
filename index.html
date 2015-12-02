@@ -16,7 +16,7 @@ body-class: wider
 		<div class="grid">
 			<ul class="recentWork">
 				<li>Recent work</li>
-				{% for post in site.categories.work limit:3 %}
+				{% for post in site.categories.work limit:5 %}
 				<li class="block">
 					<a class="midnight" href="{{site.baseurl}}/{{post.url}}">
 						<span class="title">{{post.title}}</span>
