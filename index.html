@@ -17,17 +17,19 @@ body-class: wider
 		 </div>
 </div>		 
 
+<div class="wider ligGreyToWhite">
+		<div class="grid">
+			<ul class="recentWork">
+				{% for post in site.posts limit:3 %}
+				<li>
+					<a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a>
+					<p>{{post.subtitle}}</p>
 
-<ul>
-	{% for post in site.posts limit:2 %}
-	<li style="background-image: url('{{post.img}}');">
-		<a href="{{site.baseurl}}/{{post.url}}">{{post.title}}</a>
-		<p>{{post.meta}}</p>
-
-	</li>
-	{% endfor %}
-</ul>
-
+				</li>
+				{% endfor %}
+			</ul>
+		 </div>
+</div>	
 
 <!--
 <div class="wider ligGreyToWhite">
