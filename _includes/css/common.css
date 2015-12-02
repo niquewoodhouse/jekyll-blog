@@ -26,4 +26,14 @@ ul li {
 
 ul.recentWork li {
 	display:block;
+	margin:40px 0 40px 0;
 }
+
+ul.recentWork li:after {
+	content:"";
+	height:3px;
+	display:block;
+	width:100%;
+	border-top:1px solid green;
+}
+
