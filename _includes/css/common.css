@@ -20,6 +20,14 @@ a.tweetuh {font-size:90rem;}
 	position:fixed;
 }
 
+.fRight {
+	float:right;
+}
+
+.fLeft {
+	float:left;
+}
+
 /* uls */
 
 ul {

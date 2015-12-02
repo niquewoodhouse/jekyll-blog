@@ -1,6 +1,14 @@
 .current {
-	background:red;
-	color:white;
+	color:#c69c6d;
+}
+
+.current:after {
+	content:"";
+	height:3px;
+	display:block;
+	width:100%;
+	border-top:1px solid #c69c6d);
+
 }
 
 .nav-header {
