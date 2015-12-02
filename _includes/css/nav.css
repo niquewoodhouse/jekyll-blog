@@ -1,8 +1,34 @@
-.current {
-	background:red;
-	color:white;
+a.current {
+	color:#c69c6d;
+}
+
+a.current:after {
+	content:"";
+	height:3px;
+	display:block;
+	width:100%;
+	border-top:1px solid #c69c6d;
+
 }
 
 .nav-header {
 	font-size:1.25rem;
 }
+
+nav {
+	font-size:5rem;
+}
+
+nav.header a.logo {
+	float:left;
+}
+
+nav.header ul.nav {
+	float:right;
+}
+
+nav.header ul li {
+	margin:0 25px 0 0;
+}
+
+nav
