@@ -39,16 +39,13 @@ layout: default
 		</div>		 
 
 
-		<div class="grid">
+		<div class="grid ghost">
 	      <div class="unit one-third">
-	      	<ul>
-		        <li>Follow</li>
-		        <li>Twitter</li>
-		        <li>Instagram</li>
-		        <li>Github</li>
-		    </ul>    
+	      	<p>
+	      		Focused on
+	      	</p>
 	      </div>
-	      <div class="unit one-third">
+	      <div class="unit two-thirds">
 	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
@@ -58,11 +55,17 @@ layout: default
 	        	<li>Identity</li>
 	        </ul>
 	      </div>
+	    </div>
+
+		<div class="grid ghost">
 	      <div class="unit one-third">
+	      	<p>
+	      		Focused on
+	      	</p>
+	      </div>
+	      <div class="unit two-thirds">
 	        <ul class="blockLi">
-	        	<li>Follow</li>
-	        	<li>Twitter</li>
-	        	<li></li>
+	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation</li>
 	        	<li>User interfaces</li>
@@ -70,8 +73,7 @@ layout: default
 	        	<li>Identity</li>
 	        </ul>
 	      </div>
-
-
 	    </div>
+
 
 </div>		
