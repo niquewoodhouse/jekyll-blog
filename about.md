@@ -41,53 +41,38 @@ layout: default
 
 		<div class="grid ghost">
 	      <div class="unit one-quarter">
-	      	<p>
-	      		Focused on
+	      	<p class="w80">
+	      		Focus
 	      	</p>
 	      </div>
 	      <div class="unit one-quarter">
 	        <ul class="blockLi">
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
-	        	<li>Data visualisation</li>
-	        	<li>User interfaces</li>
-	        	<li>Responsive design</li>
-	        	<li>Identity</li>
+	        	<li>Data visualisation </li>
+	        	<li>Interfaces &amp; interaction </li>
+	        	<li>Responsive &anp; native design</li>
+	        	<li>Identity &amp; branding</li>
 	        </ul>
 	      </div>
 	      <div class="unit one-quarter">
-	      	<p>
-	      		Focused on
-	      	</p>
-	      </div>
-	      <div class="unit one-quarter">
-	        <ul class="blockLi">
-	        	<li>User centered product design</li>
-	        	<li>User research &amp; testing</li>
-	        	<li>Data visualisation</li>
-	        	<li>User interfaces</li>
-	        	<li>Responsive design</li>
-	        	<li>Identity</li>
-	        </ul>
-	      </div>	      	      
-	    </div>
-
-		<div class="grid ghost">
-	      <div class="unit one-third">
-	      	<p>
+	      	<p class="w80">
 	      		Awards
 	      	</p>
 	      </div>
-	      <div class="unit two-thirds">
+	      <div class="unit one-quarter">
 	        <ul class="blockLi">
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>
 	        	<li>1x Linkage Site of the week </li>
 	        	<li>1x CSS Design Awards Design of the day</li>
-
+	        	<li>1x IAB Best Digital Creative</li>
+	        	<li>1x Mashie</li>
 	        </ul>
-	      </div>
+	      </div>	      	      
 	    </div>
+
+
 
 
 </div>		
