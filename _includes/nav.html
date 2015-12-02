@@ -1,6 +1,19 @@
-		<nav>
-			<ul class="nav {{include.navclass}}">
-				<li><a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">Home</a></li>
-				<li><a href="{{site.baseurl}}/news/" class="{% if page.url contains 'news' or page.url contains 'travel' %}current{% endif %}">News</a></li>
+		<nav class="header fixed {{include.navclass}}">
+
+			<a href="{{site.baseurl}}" class="logo">
+				logo
+			</a>
+
+			<ul class="nav">
+				<li>
+					<a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">
+						Work
+					</a>
+				</li>
+				<li>
+					<a href="{{site.baseurl}}/news/" class="{% if page.url contains 'news' or page.url contains 'travel' %}current{% endif %}">
+						Profile
+					</a>
+				</li>
 			</ul>
 		</nav>
