@@ -77,7 +77,7 @@ ul.recentWork li a:after {
 	height:3px;
 	display:block;
 	width:100%;
-	border-top:1px solid rgba(35, 35, 35, .2);
+	border-bottom:1px solid rgba(35, 35, 35, .1);
 }
 
 
