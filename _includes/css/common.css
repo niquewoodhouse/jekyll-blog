@@ -72,7 +72,7 @@ ul.recentWork li a {
 
 }
 
-ul.recentWork li:after {
+ul.recentWork li a:after {
 	content:"";
 	height:3px;
 	display:block;
