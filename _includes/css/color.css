@@ -1,7 +1,7 @@
 /* Fills */
 
 .gold {color:#c69c6d}
-.midnight {color:#232323;}
+.midnight, nav.header ul li a {color:#232323;}
 .ghost {color:#fafafa;}
 .ghost a {color:#fafafa;}
 
