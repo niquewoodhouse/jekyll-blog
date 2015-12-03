@@ -2,7 +2,7 @@
 
 .gold, p.lead a, a {color:#c69c6d}
 
-a.current:after {
+a:after {
 	content:"";
 	height:23px;
 	display:block;
