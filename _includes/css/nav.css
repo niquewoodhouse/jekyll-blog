@@ -8,15 +8,6 @@ a.current {
 	color:#c69c6d;
 }
 
-a.current:after {
-	content:"";
-	height:3px;
-	display:block;
-	width:100%;
-	border-top:1px solid #c69c6d;
-
-}
-
 .nav-header {
 	font-size:1.25rem;
 }
