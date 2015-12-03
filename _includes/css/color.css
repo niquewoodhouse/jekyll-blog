@@ -2,14 +2,6 @@
 
 .gold, p.lead a, a {color:#c69c6d}
 
-a:after {
-	content:"";
-	height:23px;
-	display:block;
-	width:100%;
-	border-top:1px solid #c69c6d;
-
-}
 
 .midnight, nav.header ul li a {color:#232323;}
 .ghost {color:#fafafa;}
