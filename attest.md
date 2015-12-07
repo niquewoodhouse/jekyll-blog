@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: test
 title: Wirewax
 meta: Responsive video editing platform
 subtitle: Responsive video editing platform
 categories: work case
-longTitle: The first ever free HTML5 video editor that makes anything in any video interactive. 
-year: 2015
+longTitle: Design Exercise - Fish Box Market Identification 
+year: 1hr
 role: Creative Director
 skills: UI, UX, Art direction
 img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
@@ -15,11 +15,11 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 <div class="wider">
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit whole">
-		        	<h2>Responsive design pattern</h2>
+		        	<h2>1. Question &amp; Answer</h2>
 		      </div>
 		      <div class="unit two-thirds">
 			        <p class="lead">
-			        	Today, videos can be made on virtually any device, at any size.  So I placed videos into a card interface to give both new users a frame for understanding the product, & the more experienced quick access to the tools they regularly need.
+			        	
 			        </p>
 		       </div>
 		 </div>
@@ -27,8 +27,8 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
-			        	<li>"A beautiful free platform"</li>
-			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" target="_blank">@tiffy</a></li>
+			        	<li>Avoid</li>
+			        	
 			        </ul>
 		       </div>
 		      <div class="unit one-quarter">
