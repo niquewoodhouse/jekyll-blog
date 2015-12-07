@@ -16,6 +16,8 @@ a {
 
 a:hover {
 	padding-bottom:0px;
+	-webkit-transition: width 0.3s; /* Safari */
+    transition: width 0.3s;
 }
 
 /* Specific Margins */
