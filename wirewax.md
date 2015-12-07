@@ -134,6 +134,6 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 </div>
 
 
-
-
-{% include disclaimer.html %}
+<div class="grid bigGapBott bigGapTop">
+	{% include disclaimer.html %}
+</div>
