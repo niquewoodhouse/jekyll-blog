@@ -14,6 +14,10 @@ a {
 	padding-bottom: 1px;
 }
 
+a:hover {
+	padding-bottom:0px;
+}
+
 /* Specific Margins */
 
 .bigGapTop {
