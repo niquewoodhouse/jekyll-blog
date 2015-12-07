@@ -16,8 +16,8 @@ a {
 
 a:hover {
 	padding-bottom:0px;
-	-webkit-transition: padding-bottom 0.3s; /* Safari */
-    transition: padding-bottom 0.3s;
+	-webkit-transition: padding-bottom ease-in-out 0.3s; /* Safari */
+    transition: padding-bottom ease-in-out 0.3s;
 }
 
 /* Specific Margins */
