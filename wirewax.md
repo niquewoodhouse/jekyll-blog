@@ -133,7 +133,8 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>
 </div>
 
-
-<div class="grid bigGapBott bigGapTop">
-	{% include disclaimer.html %}
+<div class="wider">
+	<div class="grid bigGapBott bigGapTop">
+		{% include disclaimer.html %}
+	</div>
 </div>
