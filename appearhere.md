@@ -9,7 +9,7 @@ longTitle: Showcasing the highs of 2015 & inspiring for 2016
 year: 2015
 role: Designer
 jobRole: UX/UI, Motion Prototypes
-jobOutput: Responsive website mockups
+jobOutput: Responsive design, Video
 ---
 
 <div class="wider">
@@ -17,3 +17,21 @@ jobOutput: Responsive website mockups
 		{% include disclaimer.html %}
 	</div>
 </div>
+
+
+<div class="wider">
+		<div class="grid bigGapBott bigGapTop">
+		      <div class="unit whole">
+		        	<h2>Responsive design pattern</h2>
+		      </div>
+		      <div class="unit one-half">
+			        <p class="lead">
+			        	One of the most best start ups I've had the pleasure of meeting, Appear Here is winning awards for its business success &amp; awesome CEO, Ross Bailey. 
+			        </p>
+		       </div>
+		      <div class="unit one-half">
+			        <p class="lead">
+			        	I spent a couple of days in their London HQ, working on some concepts for an 'end of year' microsite, &amp; improvements to their search page.
+			        </p>
+		       </div>		       
+		 </div>
