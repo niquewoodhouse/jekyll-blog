@@ -24,14 +24,14 @@ jobOutput: Responsive design, Video
 		      <div class="unit whole">
 		        	<h2>Responsive design pattern</h2>
 		      </div>
-		      <div class="unit one-half">
+		      <div class="unit half">
 			        <p class="lead">
 			        	One of the most best start ups I've had the pleasure of meeting, Appear Here is winning awards for its business success &amp; awesome CEO, Ross Bailey. 
 			        </p>
 		       </div>
-		      <div class="unit one-half">
+		      <div class="unit half">
 			        <p class="lead">
-			        	I spent a couple of days in their London HQ, working on some concepts for an 'end of year' microsite, &amp; improvements to their search page.
+			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; improvements to their existing search page.
 			        </p>
 		       </div>		       
 		 </div>
