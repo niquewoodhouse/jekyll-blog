@@ -28,7 +28,14 @@ jobOutput: Responsive design, Video
 		       </div>
 		      <div class="unit half">
 			        <p class="lead w80">
-			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; improvements to their existing product.
+			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; minor improvements to their existing website.
 			        </p>
-		       </div>		       
+		       </div>		     
 		 </div>
+
+
+
+
+
+
+</div>
