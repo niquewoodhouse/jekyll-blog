@@ -10,12 +10,33 @@ body-class: wider
 		        <p class="lead">Independent designer focusing on making products work, feel simple &amp; a little fun. <a href="/profile">More about me</a></p>
 		      </div>
 		 </div>
-</div>		 
+</div>	
 
 <div class="wider midnight ligGreyToWhite">
 		<div class="grid">
 			<ul class="recentWork">
-				<li>Recent work</li>
+				<li>Selected work</li>
+
+				{% for page in site.categories.work limit:5 %}
+				<li class="block">
+					<a class="midnight" href="{{site.baseurl}}/jekyll-blog/{{post.url}}">
+						<span class="title">{{post.title}}</span>
+						<span class="subtitle">{{post.subtitle}}</span>
+					</a>
+
+				</li>
+				{% endfor %}
+			</ul>
+		 </div>
+</div>	
+
+
+
+<!--
+<div class="wider midnight ligGreyToWhite">
+		<div class="grid">
+			<ul class="recentWork">
+				<li>Selected work 2010-2015</li>
 				{% for post in site.categories.work limit:5 %}
 				<li class="block">
 					<a class="midnight" href="{{site.baseurl}}/{{post.url}}">
@@ -28,5 +49,5 @@ body-class: wider
 			</ul>
 		 </div>
 </div>	
-
+-->
 
