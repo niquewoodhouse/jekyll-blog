@@ -19,9 +19,9 @@ body-class: wider
 
 				{% for page in site.categories.work limit:5 %}
 				<li class="block">
-					<a class="midnight" href="{{site.baseurl}}/jekyll-blog/{{post.url}}">
-						<span class="title">{{post.title}}</span>
-						<span class="subtitle">{{post.subtitle}}</span>
+					<a class="midnight" href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
+						<span class="title">{{page.title}}</span>
+						<span class="subtitle">{{page.subtitle}}</span>
 					</a>
 
 				</li>
