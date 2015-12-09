@@ -16,3 +16,11 @@ jobOutput: Responsive website
 <div>
 wdwdwdwd
 	</div>
+
+
+
+<div class="wider">
+	<div class="grid bigGapBott bigGapTop">
+		{% include disclaimer.html %}
+	</div>
+</div>
