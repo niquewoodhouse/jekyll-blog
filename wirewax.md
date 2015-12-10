@@ -31,17 +31,6 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>
 
 
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit one-third">
-		        	<h2>Responsive design pattern</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-			        	Today, videos can be made on virtually any device, at any size.  So I placed videos into a card interface to give both new users a frame for understanding the product, &amp; the more experienced quick access to the tools they regularly need.
-			        </p>
-		       </div>
-		 </div>
-
 
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-quarter">
@@ -106,7 +95,18 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		       </div>		       	            
 		 </div>	 
 
-
+		<div class="grid bigGapBott bigGapTop">
+		      <div class="unit one-third">
+		        	<h2>Waterfalls &mp; Agile</h2>
+		      </div>
+		      <div class="unit two-thirds">
+			        <p class="lead">
+			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  At first, an MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+			        </p>
+			        <p>I followed by designing the next features in the pipeline, whilst also working with my own platform engineering teams to execute the currently developed feature through to completion.
+			        </p>
+		       </div>
+		 </div>
 
 
 		<div class="grid">
