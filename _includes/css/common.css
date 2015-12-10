@@ -22,9 +22,9 @@ a:hover {
 
 /* Shadows */
 .shadowDowniPad {
-	  -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
-     -moz-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
-          box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
+	  -webkit-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
+     -moz-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
+          box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
           border-radius: 75px;
 }
 
