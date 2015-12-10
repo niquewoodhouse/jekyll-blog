@@ -20,19 +20,21 @@ a:hover {
     transition: padding-bottom ease-in-out 0.3s;
 }
 
-/* Shadows */
-.shadowDowniPad {
-	  -webkit-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
+
+
+
+/* Devices */
+
+.iPad {
+	background: transparent url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') no-repeat left top;
+		  -webkit-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
      -moz-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
           box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
           border-radius: 75px;
 }
 
-
-/* Backgrounds */
-
-.iPad {
-	background: transparent url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') no-repeat right top;
+.iPad img {
+	padding:45px;
 }
 
 

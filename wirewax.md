@@ -49,13 +49,17 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		       </div>			       		      		 	
 		 </div>
 
+		<div class="grid">
+			<div class="unit whole">
+				 <div class="iPad" style="width:100%;height:100%;">
+
+				 </div>
+			</div>
+		</div>
+
+		 
 
 
-		 <img class="shadowDowniPad" src="{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png"/>
-
-		 <div class="iPad" style="width:900px;height:900px;">
-
-		 </div>
 
 
 		<div class="grid"> 
