@@ -32,8 +32,8 @@ a:hover {
 /* Backgrounds */
 
 .iPad {
-	background-image: url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') no-repeat top left;
-	
+	background-image: url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') #ffffff no-repeat top left;
+
 }
 
 
