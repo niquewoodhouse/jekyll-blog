@@ -13,7 +13,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 ---
 
 
-<div class="wider">
+<div class="wider lightGreytoMidGrey">
 
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-third">
@@ -50,7 +50,6 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>
 
 
-
 		<div class="grid"> 
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
@@ -67,11 +66,14 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>	 
 
 
+
+
+
+
+
 		<div class="grid bigGapTop">
-
-
 		      <div class="unit one-third">
-		      		<h5>Vision &amp; communication</h5>
+		      		<h5>Internal communication</h5>
 		       </div>
 		       <div class="unit two-thirds">
 		       		<p class="lead">
