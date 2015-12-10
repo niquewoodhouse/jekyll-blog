@@ -50,6 +50,10 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>
 
 
+
+		 <img src="{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png"/>
+
+
 		<div class="grid"> 
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
