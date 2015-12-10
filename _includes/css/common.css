@@ -29,6 +29,13 @@ a:hover {
 }
 
 
+/* Backgrounds */
+
+.iPad {
+	background-image: url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') no-repeat top left;
+	
+}
+
 
 /* Specific Margins */
 
