@@ -97,7 +97,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-third">
-		        	<h2>Waterfalls &mp; Agile</h2>
+		        	<h2>Agile waterfalls</h2>
 		      </div>
 		      <div class="unit two-thirds">
 			        <p class="lead">
