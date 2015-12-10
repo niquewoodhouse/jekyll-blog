@@ -66,9 +66,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		      <div class="unit one-third">
 					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg1.png"/>
 		       </div>		  
-		      <div class="unit one-third">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg2.png"/>
-		       </div>		
+	
 		      <div class="unit one-third">
 					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg3.png"/>
 		       </div>
@@ -78,9 +76,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		      <div class="unit one-third">
 					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg5.png"/>
 		       </div>		
-		      <div class="unit one-third">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg6.png"/>
-		       </div>			       			       	            
+		       			       	            
 		 </div>	 
 
 		<div class="grid bigGapBott bigGapTop">
