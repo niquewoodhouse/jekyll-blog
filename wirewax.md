@@ -49,7 +49,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		      <div class="unit one-third">
 		      		<h5>Vision &amp; communication</h5>
 			        <p class="lead">
-			        	I worked closely with the CEO &amp; Head of Sales to gain buy-in from senior stakeholders.  
+			        	I worked closely with the CEO &amp; Head of Sales to gain buy-in from stakeholders to ensure a consistent execution across the brand &amp; product.
 			        </p>
 			        <p>
 			        	At each company retreat I would present all staff with the vision for the next product cycle, to help drive decision making &amp; build consensus.
