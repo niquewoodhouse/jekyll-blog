@@ -14,13 +14,28 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 
 
 <div class="wider">
+
+		<div class="grid bigGapBott bigGapTop">
+		      <div class="unit whole">
+		        	<h2>One in a million</h2>
+		      </div>
+		      <div class="unit two-thirds">
+			        <p class="lead">
+			        	In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  I've had the priveledge of designing a product trusted by some of the world's most renowned brands.
+			        </p>
+
+			        <img src="http://niquewoodhouse.github.io/jekyll-blog/assets/wirewax/logos/wirewaxGroup.svg"/>
+		       </div>
+		 </div>
+
+
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit whole">
 		        	<h2>Responsive design pattern</h2>
 		      </div>
 		      <div class="unit two-thirds">
 			        <p class="lead">
-			        	Today, videos can be made on virtually any device, at any size.  So I placed videos into a card interface to give both new users a frame for understanding the product, & the more experienced quick access to the tools they regularly need.
+			        	Today, videos can be made on virtually any device, at any size.  So I placed videos into a card interface to give both new users a frame for understanding the product, &amp; the more experienced quick access to the tools they regularly need.
 			        </p>
 		       </div>
 		 </div>
