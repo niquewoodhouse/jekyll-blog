@@ -57,7 +57,8 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 			        	At each company retreat I would present all staff with the vision for the next product cycle, to help drive decision making &amp; build consensus.
 			        </p>
 		       </div>
-	  
+	  </div>
+	  <div class="grid">
 	
 		      <div class="unit one-third fRight">
 					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg3.png"/>
