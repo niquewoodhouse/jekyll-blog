@@ -51,7 +51,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 
 		<div class="grid">
 			<div class="unit whole">
-				 <div class="iPad" style="width:100%;height:100%;">
+				 <div class="iPad" style="width:900px;height:900px;">
 
 				 </div>
 			</div>
