@@ -23,12 +23,12 @@ jobOutput: Responsive design, Video
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit half">
 			        <p class="lead w80">
-			        	One of the best start ups I've ever met, <a href="http://www.appearhere.co.uk" target="_blank">Appear Here</a> is constantly winning awards for both its business success &amp; awesome CEO. 
+			        	One of the best start ups I've ever met, <a href="http://www.appearhere.co.uk" target="_blank">Appear Here</a> is constantly winning awards for both its business success &amp; awesome CEO.  Airbnb for pop-up shops/special events.
 			        </p>
 		       </div>
 		      <div class="unit half">
 			        <p class="lead w80">
-			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; minor improvements to their existing website.
+			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; to address pain‐points related to the browse &amp; discovery experience.
 			        </p>
 		       </div>		     
 		 </div>
