@@ -49,7 +49,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		      <div class="unit one-third">
 		      		<h5>Vision &amp; communication</h5>
 		       </div>
-		       <div class="unit one-third">
+		       <div class="unit two-thirds">
 		       		<p class="lead">
 			        	I worked closely with the senior stakeholders to ensure a consistent execution across the brand &amp; product.
 			        </p>
