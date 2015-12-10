@@ -41,11 +41,11 @@ a:hover {
 }
 
 .fRight {
-	float:right;
+	float:right !important;
 }
 
 .fLeft {
-	float:left;
+	float:left !important;
 }
 
 /* uls */
