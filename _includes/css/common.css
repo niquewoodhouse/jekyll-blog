@@ -21,11 +21,11 @@ a:hover {
 }
 
 /* Shadows */
-.shadowDown {
-	  -webkit-box-shadow: 0 8px 6px -6px black;
-     -moz-box-shadow: 0 8px 6px -6px black;
-          box-shadow: 0 8px 6px -6px black;
-          border-radius: 50px;
+.shadowDowniPad {
+	  -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
+     -moz-box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
+          box-shadow: 0 8px 6px -6px rgba(0,0,0,0.45);
+          border-radius: 75px;
 }
 
 
