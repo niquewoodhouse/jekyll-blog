@@ -31,35 +31,40 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		 </div>
 
 
-
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit one-quarter">
+		 <div class="grid bigGapBott bigGapTop">
+		      <div class="unit one-third">
+		        	<h2>Praise</h2>
+		      </div>
+		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"A beautiful free platform"</li>
 			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" target="_blank">@tiffy</a></li>
 			        </ul>
 		       </div>
-		      <div class="unit one-quarter">
+		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"Really easy to use"</li>
-			        	<li><a href="https://twitter.com/vipint7/status/565885441098797056" target="_blank">@vipint</a></li>
-			        </ul>		      	
-		       </div>
-		      <div class="unit one-quarter">
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" target="_blank">@tiffy</a></li>
+			        </ul>
+		       </div>			       		      		 	
+		 </div>
+
+
+
+		<div class="grid"> 
+		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"In awe of the possibilities"</li>
 			        	<li><a href="https://twitter.com/showloveworld/status/571021022301954048" target="_blank">@showloveworld</a></li>
-			        </ul>		      	
-		       </div>
-		      <div class="unit one-quarter">
+			        </ul>	
+		       </div>		
+		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"Really cool technology"</li>
 			        	<li><a href="https://twitter.com/KiraOConnor/status/557991587947368448" target="_blank">@Kira</a></li>
-			        </ul>			      	
-		       </div>		       		       
-		 </div>	
-
-
+			        </ul>
+		       </div>		       	            
+		 </div>	 
 
 
 		<div class="grid bigGapTop">
@@ -85,8 +90,7 @@ img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4
 		       </div>		  
 		</div>
 
-		<div class="grid">
-		       
+		<div class="grid"> 
 		      <div class="unit one-third fRight">
 					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg5.png"/>
 		       </div>		
