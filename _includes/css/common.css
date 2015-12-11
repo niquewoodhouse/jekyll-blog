@@ -30,7 +30,8 @@ a:hover {
 		  -webkit-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
      -moz-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
           box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
-          border-radius: 75px;
+          border-radius: 46px;
+          background-size:100%;
 }
 
 .iPad img {
