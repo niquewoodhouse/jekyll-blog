@@ -158,6 +158,8 @@ tags:
 			  </div>
 		      <div class="unit three-quarters">
 					<div class="iPad">
+						<div class="iPadDot">
+						</div>
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 	</div>
 		       </div>	

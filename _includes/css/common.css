@@ -37,11 +37,24 @@ a:hover {
           background-size:100%;
           width:844px;
           height:590px;
-
 }
 
 .iPad img {
 	padding:45px;
+	width:645px;
+	height:300px;
+}
+
+.iPad .iPadDot {
+	width: 20px;
+	height: 20px;
+	background: red;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
+    -moz-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
+    box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);	
 }
 
 
