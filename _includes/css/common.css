@@ -144,6 +144,6 @@ ul.recentWork li a:after {
 	height:15px;
 	display:block;
 	width:30px;
-	margin:20px 0;
+	margin:20px 10px;
 	border-bottom:5px solid rgba(255, 255, 255, 1);
 }
