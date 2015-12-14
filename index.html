@@ -52,14 +52,16 @@ body-class: wider
 					{% if tag == "work" and counter < '5' %}
 					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
-					 	<div class="grid">
-					 			<div class="unit whole" style="background:url('{{page.featureImg}}') no-repeat 0px 0px;">
-									<span class="counter fLeft">{{ counter }}</span>
-									<span class="title">{{page.title}}</span>
-									<span class="subtitle">{{page.subtitle}}</span>
-					 			</div>
+					 	<div class="" style="background:url('{{page.featureImg}}') no-repeat 0px 0px;">
+						 	<div class="grid">
+						 			<div class="unit whole">
+										<span class="counter fLeft">{{ counter }}</span>
+										<span class="title">{{page.title}}</span>
+										<span class="subtitle">{{page.subtitle}}</span>
+						 			</div>
 
-							
+								
+							</div>
 						</div>
 					</a>
 
