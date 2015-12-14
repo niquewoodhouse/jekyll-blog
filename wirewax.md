@@ -51,13 +51,6 @@ tags:
 		       </div>			       		      		 	
 		 </div>
 
-		<div class="grid">
-			<div class="unit whole">
-				 <div class="iPad" style="width:900px;height:900px;">
-
-				 </div>
-			</div>
-		</div>
 
 		 
 
@@ -80,7 +73,13 @@ tags:
 		 </div>	 
 
 
+		<div class="grid">
+			<div class="unit whole">
+				 <div class="iPad" style="width:900px;height:900px;">
 
+				 </div>
+			</div>
+		</div>
 
 
 
