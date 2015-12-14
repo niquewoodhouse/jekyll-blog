@@ -9,7 +9,7 @@ year: 2015
 role: Designer
 jobRole: Creative Director, <br>Product UX/UI Designer
 jobOutput: Native responsive platform, <br>iOS App designs, branding
-img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
+featureImg: https://images.unsplash.com/photo-1424772684780-a05a720ff374?crop=entropy&fit=crop&fm=jpg&h=1250&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80
 tags:
 - work
 ---
