@@ -89,7 +89,7 @@ tags:
 		       <div class="unit two-thirds">
 		       		<p class="lead">
 			        	I worked closely with the senior stakeholders to ensure a consistent execution across the brand &amp; product.
-			        	At each company retreat I would present all staff with the vision for the next product cycle, to help drive decision making &amp; build consensus. Bearded Yellow Power Ranger was a cool look at the time.
+			        	At each company retreat I would present all staff with the vision for the next product cycle, to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
 			        </p>
 		       </div>
 	  </div>
@@ -116,15 +116,14 @@ tags:
 	<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
 		<div class="wideOverlay blackBg09"> 
 				<div class="grid ghost">
-						<div class="unit whole">
+						<div class="unit one-third">
 							<span title>Data visualtion</span>
 						</div>
-						 <div class="unit half">
+						 <div class="unit two-thirds">
 								<p class="w80">
 									We tracked everyone's movements 
 								</p>
-						 </div>
-						 <div class="unit half">
+						
 								<p class="w80">
 									I loved the process of taking abstract concepts &amp; bringing them from paper to prototype to perfecting the execution.
 								</p>
