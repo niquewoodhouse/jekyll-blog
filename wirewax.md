@@ -114,16 +114,21 @@ tags:
 
 
 	<div class="workWide" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
-		<div class="wideOverlay blackBg06">
-				<div class="grid">
+		<div class="wideOverlay blackBg0">
+				<div class="grid ghost">
 						<div class="unit whole">
 							<span title>Data visualtion</span>
 						</div>
-						 <div class="unit one-half">
+						 <div class="unit half">
 								<p class="w80">
 									Our users need to know how their videos are performing so they can learn amp; improve their output. I played with real video data generating prototypes for user testing to help define a direction.
 								</p>
-						 </div>	
+						 </div>
+						 <div class="unit half">
+								<p class="w80">
+									Our users need to know how their videos are performing so they can learn amp; improve their output. I played with real video data generating prototypes for user testing to help define a direction.
+								</p>
+						 </div>							 	
 				</div>
 		</div>
 	</div>		 
