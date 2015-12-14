@@ -132,7 +132,7 @@ ul.recentWork li a:after {
 	background-size:cover;
 	background-color:transparent;
 	background-repeat:no-repeat;
-
+	padding:300px 0px;
 }
 
 .workWide .counter {

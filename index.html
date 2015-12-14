@@ -12,7 +12,43 @@ body-class: wider
 		 </div>
 </div>	
 
+
+
 <div class="wider midnight ligGreyToWhite">
+		
+			
+				<h4>Selected work</h4>
+					{% assign counter = '0' %}
+					{% for page in site.pages %}
+					{% for tag in page.tags %}
+					{% if tag == "work" and counter < '5' %}
+					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
+					 	<div class="workWide" style="background-image:url('{{page.featureImg}}');">
+						 	<div class="grid">
+						 			<div class="unit whole">
+										<span class="counter fLeft">{{ counter }}</span>
+										<span class="title block">{{page.title}}</span>
+										<span class="subtitle block">{{page.subtitle}}</span>
+						 			</div>
+
+								
+							</div>
+						</div>
+					</a>
+
+					{% endif %}
+					{% endfor %}
+					{% endfor %}
+
+			
+		 
+</div>	
+
+
+<!--
+
+	<div class="wider midnight ligGreyToWhite">
 		<div class="grid">
 			<ul class="recentWork">
 				<li>Selected work</li>
@@ -40,41 +76,6 @@ body-class: wider
 			</ul>
 		 </div>
 </div>	
-
-
-<div class="wider midnight ligGreyToWhite">
-		
-			
-				<h4>Selected work</h4>
-					{% assign counter = '0' %}
-					{% for page in site.pages %}
-					{% for tag in page.tags %}
-					{% if tag == "work" and counter < '5' %}
-					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
-					 	<div class="workWide bigGapBottPad bigGapTopPad" style="background-image:url('{{page.featureImg}}');">
-						 	<div class="grid">
-						 			<div class="unit whole">
-										<span class="counter fLeft">{{ counter }}</span>
-										<span class="title block">{{page.title}}</span>
-										<span class="subtitle block">{{page.subtitle}}</span>
-						 			</div>
-
-								
-							</div>
-						</div>
-					</a>
-
-					{% endif %}
-					{% endfor %}
-					{% endfor %}
-
-			
-		 
-</div>	
-
-
-<!--
 
 <div class="wider midnight ligGreyToWhite">
 		<div class="grid">
