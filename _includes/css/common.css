@@ -39,7 +39,7 @@ a:hover {
 }
 
 
-/* Specific Margins */
+/* Specific Margins & Paddings */
 
 .bigGapTop {
 	margin-top:200px !important;
@@ -52,6 +52,13 @@ a:hover {
 	margin-bottom:100px !important;
 }
 
+.bigGapTopPad {
+	padding-top:200px !important;
+}
+
+.bigGapBottPad {
+	padding-bottom:200px !important;
+}
 
 /* Positions */
 
@@ -116,5 +123,13 @@ ul.recentWork li a:after {
 }
 
 
+/* Selected work */
 
+.workWide {
+	background-position:50% 0%;
+	background-size:cover;
+	background-color:transparent;
+	background-repeat:no-repeat;
+
+}
 
