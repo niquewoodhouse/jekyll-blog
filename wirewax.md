@@ -52,7 +52,18 @@ tags:
 		 </div>
 
 
-		 
+	<div class="workWide" style="background-image:('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')";>
+				<div class="grid">
+						<div class="unit whole">
+							<span title>Data visualtion</span>
+						</div>
+						 <div class="unit one-half">
+								<p class="w80">
+									Our users need to know how their videos are performing so they can learn & improve their output. I played with real video data generating prototypes for user testing to help define a direction.
+								</p>
+						 </div>	
+				</div>
+	</div>		 
 
 
 
@@ -91,7 +102,7 @@ tags:
 		       <div class="unit two-thirds">
 		       		<p class="lead">
 			        	I worked closely with the senior stakeholders to ensure a consistent execution across the brand &amp; product.
-			        	At each company retreat I would present all staff with the vision for the next product cycle, to help drive decision making &amp; build consensus.
+			        	At each company retreat I would present all staff with the vision for the next product cycle, to help drive decision making &amp; build consensus. Bearded Yellow Power Ranger was a cool look at the time.
 			        </p>
 		       </div>
 	  </div>
