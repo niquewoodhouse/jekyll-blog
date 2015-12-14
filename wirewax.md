@@ -113,7 +113,8 @@ tags:
 		 </div>	 
 
 
-	<div class="workWide" style="background-image:('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
+	<div class="workWide" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
+		<div style="width:100%;height:100%;background:rgba (55,55,55,0.3);">
 				<div class="grid">
 						<div class="unit whole">
 							<span title>Data visualtion</span>
@@ -124,6 +125,7 @@ tags:
 								</p>
 						 </div>	
 				</div>
+		</div>
 	</div>		 
 
 
