@@ -113,7 +113,7 @@ tags:
 		 </div>	 
 
 
-	<div class="workWide" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
+	<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
 		<div class="wideOverlay blackBg06"> 
 				<div class="grid ghost">
 						<div class="unit whole">
