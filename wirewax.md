@@ -141,14 +141,6 @@ tags:
 
 
 
-		<div class="grid">
-			<div class="unit whole">
-				 <div class="iPad">
-				 		<img src="http://www.fillmurray.com/g/750/492"/>
-				 </div>
-			</div>
-		</div>
-
 
 		<div class="grid">
 		      <div class="unit one-thid">
@@ -165,7 +157,9 @@ tags:
 			  		</p>
 			  </div>
 		      <div class="unit three-quarters">
-					<img src="http://niquewoodhouse.github.io/jekyll-blog//assets/wirewax/iPadEg.png"/>
+					<div class="iPad">
+				 		<img src="http://www.fillmurray.com/g/750/492"/>
+				 	</div>
 		       </div>	
 			       
 		       <!--
