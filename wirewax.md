@@ -143,7 +143,7 @@ tags:
 
 		<div class="grid">
 			<div class="unit whole">
-				 <div class="iPad" style="width:900px;height:900px;">
+				 <div class="iPad">
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 </div>
 			</div>
