@@ -12,6 +12,7 @@ jobRole: UX/UI, Motion Prototypes
 jobOutput: Responsive design, Video
 tags: 
 - work
+featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
 ---
 
 <div class="wider">
