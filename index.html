@@ -52,7 +52,7 @@ body-class: wider
 					{% if tag == "work" and counter < '5' %}
 					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
-					 	<div class="workWide bigGapBottPad bigGapTopPad" style="background:url('{{page.featureImg}}');">
+					 	<div class="workWide bigGapBottPad bigGapTopPad" style="background-image:url('{{page.featureImg}}');">
 						 	<div class="grid">
 						 			<div class="unit whole">
 										<span class="counter fLeft">{{ counter }}</span>
