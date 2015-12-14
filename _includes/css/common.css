@@ -55,9 +55,11 @@ a:hover {
 	-moz-border-radius: 15px;
 	-webkit-border-radius: 15px;
 	border-radius: 15px;
-	-webkit-box-shadow: -1px 0px 0px -0px rgba(0,0,0,0.19);
-    -moz-box-shadow: -1px 3px 28px -80px rgba(0,0,0,0.19);
-    box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);	
+	-webkit-box-shadow: 0px 2px 12px -2px rgba(0,0,0,0.19);
+    -moz-box-shadow: 0px 2px 12px -2px rgba(0,0,0,0.19);
+    box-shadow: 0px 2px 12px -2px rgba(0,0,0,0.19);
+    bottom:45%
+    right:20px;
 }
 
 
