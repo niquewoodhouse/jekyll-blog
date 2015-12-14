@@ -133,3 +133,14 @@ ul.recentWork li a:after {
 
 }
 
+.workWide .counter {
+	display:none;
+}
+
+.workWide .title:before {
+	content:"";
+	height:15px;
+	display:block;
+	width:30px;
+	border-bottom:1px solid rgba(35, 35, 35, .6);
+}
