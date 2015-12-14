@@ -21,8 +21,8 @@ tags:
 
 
 	<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io/jekyll-blog/assets/wirewax/clients@2x.png')">
-		<div class="wideOverlay blackBg09"> 
-				<div class="grid ghost">
+		<div class="wideOverlay whiteBg09"> 
+				<div class="grid midnight">
 						<div class="unit one-third">
 							<h2>One in a million</h2>
 						</div>
