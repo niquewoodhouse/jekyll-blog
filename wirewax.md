@@ -121,12 +121,12 @@ tags:
 						</div>
 						 <div class="unit half">
 								<p class="w80">
-									Our users need to know how their videos are performing so they can learn amp; improve their output. I played with real video data generating prototypes for user testing to help define a direction.
+									We tracked everyone's movements 
 								</p>
 						 </div>
 						 <div class="unit half">
 								<p class="w80">
-									Our users need to know how their videos are performing so they can learn amp; improve their output. I played with real video data generating prototypes for user testing to help define a direction.
+									I loved the process of taking abstract concepts &amp; bringing them from paper to prototype to perfecting the execution.
 								</p>
 						 </div>							 	
 				</div>
