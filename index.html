@@ -15,7 +15,7 @@ body-class: wider
 <div class="wider midnight ligGreyToWhite">
 		<div class="grid">
 			<ul class="recentWork">
-				<li>Selected workz</li>
+				<li>Selected work</li>
 					{% assign counter = '0' %}
 					{% for page in site.pages %}
 					{% for tag in page.tags %}
@@ -39,6 +39,36 @@ body-class: wider
 
 			</ul>
 		 </div>
+</div>	
+
+
+<div class="wider midnight ligGreyToWhite">
+		
+			
+				<h4>Selected work</h4>
+					{% assign counter = '0' %}
+					{% for page in site.pages %}
+					{% for tag in page.tags %}
+					{% if tag == "work" and counter < '5' %}
+					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
+					 	<div class="grid">
+					 			<div class="unit whole" style="background:url("{{page.featureImg}}") no-repeat 0px 0px;">
+									<span class="counter fLeft">{{ counter }}</span>
+									<span class="title">{{page.title}}</span>
+									<span class="subtitle">{{page.subtitle}}</span>
+					 			</div>
+
+							
+						</div>
+					</a>
+
+					{% endif %}
+					{% endfor %}
+					{% endfor %}
+
+			
+		 
 </div>	
 
 
