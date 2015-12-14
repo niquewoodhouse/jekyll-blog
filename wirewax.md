@@ -157,8 +157,8 @@ tags:
 			  		</p>
 			  </div>
 		      <div class="unit two-thirds">
-					<div class="iPad">
-						<div class="iPadDot">
+					<div class="iPad relative">
+						<div class="iPadDot absolute">
 						</div>
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 	</div>
