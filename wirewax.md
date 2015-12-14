@@ -117,7 +117,7 @@ tags:
 		<div class="wideOverlay blackBg09"> 
 				<div class="grid ghost">
 						<div class="unit one-third">
-							<span title>Data visualtion</span>
+							<h2>Data visualtion</h2>
 						</div>
 						 <div class="unit two-thirds">
 								<p>
