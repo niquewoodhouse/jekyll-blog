@@ -52,14 +52,14 @@ tags:
 		 </div>
 
 
-	<div class="workWide" style="background-image:('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')";>
+	<div class="workWide" style="background-image:('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
 				<div class="grid">
 						<div class="unit whole">
 							<span title>Data visualtion</span>
 						</div>
 						 <div class="unit one-half">
 								<p class="w80">
-									Our users need to know how their videos are performing so they can learn & improve their output. I played with real video data generating prototypes for user testing to help define a direction.
+									Our users need to know how their videos are performing so they can learn amp; improve their output. I played with real video data generating prototypes for user testing to help define a direction.
 								</p>
 						 </div>	
 				</div>
