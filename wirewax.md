@@ -151,12 +151,12 @@ tags:
 		 </div>	
 
 		<div class="grid">
-			  <div class="unit one-quarter">
+			  <div class="unit one-third">
 			  		<p>
 			  			Letting users multi-select videos helps power users save time.
 			  		</p>
 			  </div>
-		      <div class="unit three-quarters">
+		      <div class="unit two-thirds">
 					<div class="iPad">
 						<div class="iPadDot">
 						</div>
