@@ -71,13 +71,6 @@ tags:
 		 </div>	 
 
 
-		<div class="grid">
-			<div class="unit whole">
-				 <div class="iPad" style="width:900px;height:900px;">
-
-				 </div>
-			</div>
-		</div>
 
 
 
@@ -88,8 +81,8 @@ tags:
 		       </div>
 		       <div class="unit two-thirds">
 		       		<p class="lead">
-			        	I worked closely with the senior stakeholders to ensure a consistent execution across the brand &amp; product.
-			        	At each company retreat I would present all staff with the vision for the next product cycle, to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
+			        	I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features.
+			        	At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
 			        </p>
 		       </div>
 	  </div>
@@ -139,12 +132,22 @@ tags:
 		      </div>
 		      <div class="unit two-thirds">
 			        <p class="lead">
-			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  At first, an MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
 			        </p>
-			        <p>I followed by designing the next features in the pipeline, whilst also working with my own platform engineering teams to execute the currently developed feature through to completion.
+			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
 			        </p>
 		       </div>
 		 </div>
+
+
+
+		<div class="grid">
+			<div class="unit whole">
+				 <div class="iPad" style="width:900px;height:900px;">
+
+				 </div>
+			</div>
+		</div>
 
 
 		<div class="grid">
