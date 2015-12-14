@@ -42,10 +42,10 @@ body {
     font-weight:300;
 }
 
-a {text-decoration: none;}
+ul.nav a {text-decoration: none;}
 
 ul.nav a {
-    font-size:16px;
+    font-size:15px;
 }
  
 ul.recentWork span.title {
