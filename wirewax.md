@@ -156,7 +156,7 @@ tags:
 			  			Letting users multi-select videos helps power users save time.
 			  		</p>
 					<div class="iPhone relative">
-						<div class="iPhone absolute">
+						<div class="iPhoneDot absolute">
 						</div>
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 	</div>			  		

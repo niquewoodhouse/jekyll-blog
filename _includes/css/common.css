@@ -44,7 +44,7 @@ a:hover {
 
 .two-thirds .iPad img {
 	padding:45px;
-	width:645px;
+	width:100%;
 	height:414px;
 }
 
@@ -72,8 +72,8 @@ a:hover {
           box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
           border-radius: 25px;
           background-size:100%;
-          width:300px;
-          height:510px;
+          width:100%;
+          height:690px;
 }
 
 .one-third .iPhone img {
