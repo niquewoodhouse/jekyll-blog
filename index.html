@@ -7,26 +7,8 @@ body-class: wider
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit whole center-on-mobiles">
 		        <h1 class="bigGapTop mediumGapBott">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
-		        <p class="lead">Independent designer focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. <a href="/profile">More about me</a></p>
+		        <p class="lead">Independent <a href="/profile">designer</a> focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. </p>
 		      </div>
-		 </div>
-</div>	
-
-<div class="wider midnight ligGreyToWhite">
-		<div class="grid">
-			<ul class="recentWork">
-				<li>Selected workz</li>
-
-				{% for page in site.categories.work limit:5 %}
-				<li class="block">
-					<a class="midnight" href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
-						<span class="title">{{page.title}}</span>
-						<span class="subtitle">{{page.subtitle}}</span>
-					</a>
-
-				</li>
-				{% endfor %}
-			</ul>
 		 </div>
 </div>	
 
@@ -61,6 +43,29 @@ body-class: wider
 
 
 <!--
+
+<div class="wider midnight ligGreyToWhite">
+		<div class="grid">
+			<ul class="recentWork">
+				<li>Selected workz</li>
+
+				{% for page in site.categories.work limit:5 %}
+				<li class="block">
+					<a class="midnight" href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
+						<span class="title">{{page.title}}</span>
+						<span class="subtitle">{{page.subtitle}}</span>
+					</a>
+
+				</li>
+				{% endfor %}
+			</ul>
+		 </div>
+</div>	
+
+
+
+
+
 <div class="wider midnight ligGreyToWhite">
 		<div class="grid">
 			<ul class="recentWork">
