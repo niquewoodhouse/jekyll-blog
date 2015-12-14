@@ -120,12 +120,12 @@ tags:
 							<span title>Data visualtion</span>
 						</div>
 						 <div class="unit two-thirds">
-								<p class="w80">
-									We tracked everyone's movements 
+								<p>
+									We tracked every action viewers took so we could educate our users on what is/isn't working for them.
 								</p>
 						
-								<p class="w80">
-									I loved the process of taking abstract concepts &amp; bringing them from paper to prototype to perfecting the execution.
+								<p>
+									I loved the process of taking abstract concepts &amp; bringing them from paper to prototype to perfecting the execution.  And doing it over &amp; over again as new data points came into the product map.
 								</p>
 						 </div>							 	
 				</div>
