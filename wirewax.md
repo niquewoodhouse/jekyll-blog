@@ -15,7 +15,7 @@ tags:
 ---
 
 
-<div class="wider lightGreytoMidGrey">
+<div class="wider">
 
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-third">
