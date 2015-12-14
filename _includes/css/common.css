@@ -132,7 +132,6 @@ ul.recentWork li a:after {
 	background-size:cover;
 	background-color:transparent;
 	background-repeat:no-repeat;
-	padding:300px 0px;
 }
 
 .workWide .counter {
@@ -146,4 +145,11 @@ ul.recentWork li a:after {
 	width:30px;
 	margin:20px 10px;
 	border-bottom:5px solid rgba(255, 255, 255, 1);
+}
+
+.workWide .wideOverlay {
+	padding:300px 0px;
+	background:rgba (0,0,0, 0.2);
+	height:100%;
+	width:100%;
 }

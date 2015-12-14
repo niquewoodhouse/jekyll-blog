@@ -25,13 +25,15 @@ body-class: wider
 					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
 					 	<div class="workWide" style="background-image:url('{{page.featureImg}}');">
-						 	<div class="grid">
-						 			<div class="unit whole">
-										<span class="counter fLeft">{{ counter }}</span>
-										<span class="title block">{{page.title}}</span>
-										<span class="subtitle block">{{page.subtitle}}</span>
-						 			</div>	
-							</div>
+					 		<div class="wideOverlay">
+							 	<div class="grid">
+							 			<div class="unit whole">
+											<span class="counter fLeft">{{ counter }}</span>
+											<span class="title block">{{page.title}}</span>
+											<span class="subtitle block">{{page.subtitle}}</span>
+							 			</div>	
+								</div>
+							</div>	
 						</div>
 					</a>
 
