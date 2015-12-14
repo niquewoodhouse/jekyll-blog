@@ -31,7 +31,7 @@ a:hover {
 
 /* Devices */
 
-.iPad {
+.two-thirds .iPad {
 	background: #fff;
 		  -webkit-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
      	  -moz-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
@@ -42,13 +42,13 @@ a:hover {
           height:590px;
 }
 
-.iPad img {
+.two-thirds .iPad img {
 	padding:45px;
 	width:645px;
 	height:300px;
 }
 
-.iPad .iPadDot {
+.two-thirds .iPad .iPadDot {
 	width: 30px;
 	height: 30px;
 	background: #fff;

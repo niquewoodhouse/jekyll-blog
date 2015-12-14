@@ -156,7 +156,7 @@ tags:
 			  			Letting users multi-select videos helps power users save time.
 			  		</p>
 			  </div>
-		      <div class="unit two-thirds">
+		      <div class="unit two-thirds fRight">
 					<div class="iPad relative">
 						<div class="iPadDot absolute">
 						</div>
