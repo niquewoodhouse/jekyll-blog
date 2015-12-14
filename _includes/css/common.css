@@ -77,8 +77,11 @@ a:hover {
 }
 
 .one-third .iPhone img {
-	padding:45px;
+	padding:65px 25px;
+	width:87%;
+	height:79%;
 }
+
 
 .one-third .iPhone .iPhoneDot {
 	width: 32px;
