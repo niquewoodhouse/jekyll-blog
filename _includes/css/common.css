@@ -5,6 +5,8 @@ html, body {
 	overflow-x: hidden;
 }
 
+.block {display: block;}
+
 /* Links */
 
 a {
