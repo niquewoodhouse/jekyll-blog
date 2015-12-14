@@ -10,6 +10,8 @@ year: 2015
 role: Designer
 jobRole: UX/UI, Motion Prototypes
 jobOutput: Responsive design, Video
+tags: 
+- work
 ---
 
 <div class="wider">

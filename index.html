@@ -36,7 +36,7 @@ body-class: wider
 {% assign counter = '0' %}
 {% for page in site.pages %}
 {% for tag in page.tags %}
-{% if tag == "news" and counter < '5' %}
+{% if tag == "work" and counter < '5' %}
     {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 <li><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}
 </a> ({{ counter }})</li>
