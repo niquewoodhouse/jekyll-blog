@@ -139,10 +139,11 @@ ul.recentWork li a:after {
 	display:none;
 }
 
-.workWide .title:before {
+.workWide .grid:before {
 	content:"";
 	height:15px;
 	display:block;
 	width:30px;
-	border-bottom:1px solid rgba(35, 35, 35, .6);
+	margin:20px 0;
+	border-bottom:5px solid rgba(255, 255, 255, 1);
 }
