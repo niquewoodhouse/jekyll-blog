@@ -144,7 +144,7 @@ tags:
 		<div class="grid">
 			<div class="unit whole">
 				 <div class="iPad" style="width:900px;height:900px;">
-
+				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 </div>
 			</div>
 		</div>

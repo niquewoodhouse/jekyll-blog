@@ -29,12 +29,15 @@ a:hover {
 /* Devices */
 
 .iPad {
-	background: transparent url('{{site.baseurl}}/jekyll-blog/assets/device/tablet@2x.png') no-repeat left top;
-		  -webkit-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
-     -moz-box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
-          box-shadow: 0 15px 14px -6px rgba(0,0,0,0.15);
-          border-radius: 46px;
+	background: #fff;
+		  -webkit-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
+     -moz-box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
+          box-shadow: -1px 3px 28px -8px rgba(0,0,0,0.19);
+          border-radius: 35px;
           background-size:100%;
+          width:900px;
+          height:656px;
+
 }
 
 .iPad img {
