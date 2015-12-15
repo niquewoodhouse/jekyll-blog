@@ -109,6 +109,30 @@ tags:
 				<span class="bigNo absolute shark">05</span>
 				<span class="sectionTitle absolute uppercase shark">Iconography</span>
 			</div>
+			<div class="unit one-quarter">
+				Icon 1.
+			</div>
+			<div class="unit one-quarter">
+				Icon 2.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 3.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 4.
+			</div>
+			<div class="unit one-quarter">
+				Icon 5.
+			</div>
+			<div class="unit one-quarter">
+				Icon 6.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 7.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 8.
+			</div>											
 		</div>
 
 
