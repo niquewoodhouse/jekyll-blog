@@ -112,14 +112,26 @@ tags:
 		 	<div class="unit half">
 		 		
 		 		<p class="w80">
-		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
+		 			People think in spatial models.  For example, when a visitor to your home is looking for the toilet, you tell them its location. This isn’t anything new for web.  One of the first responses to this was breadcrumb navigation, which is still used today (Apple).
 		 		</p>
 		 		<p class="w80">
-		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
+					In responsive interfaces you can’t assume there is visual space for such old fashioned solutions so its best to leverage animation to explain the location of platform elements.  So using transitions like zooey.
 		 		</p>
 		 	</div>
 
-		 	
+		 	<div class="unit half">
+		 	</div>
+
+		      <div class="unit two-thirds fRight">
+				<div class="iPad relative">
+					<div class="iPadDot absolute">
+					</div>
+				 	<img src="http://www.fillmurray.com/g/750/492"/>
+				</div>
+		    </div>	
+
+
+
 		 </div>		
 
 
@@ -246,29 +258,6 @@ tags:
 				</div>
 		</div>
 	</div>		 
-
-
-
-
-		<div class="grid">
-			  <div class="unit one-third">
-			  		<p>
-			  			Letting users multi-select videos helps power users save time.
-			  		</p>
-		  		
-			  </div>
-		      <div class="unit two-thirds fRight">
-					<div class="iPad relative">
-						<div class="iPadDot absolute">
-						</div>
-				 		<img src="http://www.fillmurray.com/g/750/492"/>
-				 	</div>
-		       </div>	
-			       
-
-		 </div>	
-
-
 
 
 
