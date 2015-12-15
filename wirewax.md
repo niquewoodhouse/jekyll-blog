@@ -236,11 +236,7 @@ tags:
 			  		<p>
 			  			Letting users multi-select videos helps power users save time.
 			  		</p>
-					<div class="iPhone relative">
-						<div class="iPhoneDot absolute">
-						</div>
-				 		<img src="http://www.fillmurray.com/g/750/492"/>
-				 	</div>			  		
+		  		
 			  </div>
 		      <div class="unit two-thirds fRight">
 					<div class="iPad relative">
@@ -273,8 +269,22 @@ tags:
 		 		</p>
 
 		 	</div>
+
+		 	<div class="unit half fRight">
+					<div class="iPhone relative">
+						<div class="iPhoneDot absolute">
+						</div>
+				 		<img src="http://www.fillmurray.com/g/750/492"/>
+				 	</div>	
+				 	<p>
+				 		An example of an app.
+				 	</p>		 		
+		 	</div>
+
 		 </div>
-		 <div class="grid bigGapBott"> 
+
+
+		 <div class="grid bigGapBott bigGapTop"> 
 		 	<div class="unit half fRight">
 		 		
 		 		<p class="w80">
