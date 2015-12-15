@@ -37,6 +37,10 @@ p.smallPrint {
     font-size:0.7em;
 }
 
+p.mediumPrint {
+    font-size:0.85em;
+}
+
 .textCenter {text-align: center;}
 .uppercase {text-transform: uppercase;}
 
@@ -88,3 +92,12 @@ ul.recentWork a {
     border-bottom:5px solid #7bafa8;
     width:16%;
 }
+
+.lineBefore::before {
+    content: "";
+    display:block;
+    width:16%;
+    border-bottom:5px solid #7bafa8;
+    height:3px;
+}
+
