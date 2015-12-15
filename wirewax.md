@@ -254,7 +254,7 @@ tags:
 		 </div>	
 
 
-</div>	
+
 
 
 		 <div class="grid bigGapTop bigGapBott"> 
@@ -300,7 +300,7 @@ tags:
 		{% include disclaimer.html %}
 	</div>
 
-
+</div>	
 <!--
 
 		<div class="grid bigGapBott bigGapTop">
