@@ -109,37 +109,42 @@ tags:
 		<div class="grid bigGapBott bigGapTop">
 
 		      <div class="unit one-third">
-		      	<h5>In the deep end</h5>
-		      	<span class="">15:1</span>
+		      	
+		      	<h5>Project management</h5>
+
 		      	
 		      </div>
 		      <div class="unit two-thirds">
-		      	<p>With a team ratio of 15 developers:1 product designer (me) it was important to be as helpful &amp; quick as possible.  I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.</p>
+		      	<p>
+		      		With a team ratio of 15 developers to 1 product designer (me) it was important to be as helpful &amp; quick as possible.  The project scope, the CEO's vision &amp; our limited resources, meant using agile &amp; waterfall project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+		      	</p>
+		      	<p>
+		      		I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion. <span class="block pFocus">Team ratio of 15 developers to 1 designer (me)</span> 
+		      	</p>
+		      	<p>
+		      		Throughout this I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features. At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look. I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.
+		      	</p>
 		      </div>		      
-
-		      <div class="unit two-thirds">
-			        <p class="lead">
-			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
-			        </p>
-			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
-			        </p>
-		       </div>
 		 </div>		 
 
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit one-third">
-		        	<h2>Agile waterfalls</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-			        	The project scope &amp; our limited resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
-			        </p>
-			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
-			        </p>
+
+	  <div class="grid">
+		      <div class="unit one-third fRight">
+					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg3.png"/>
 		       </div>
-		 </div>
+		      <div class="unit one-third fRight">
+					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg4.png"/>
+		       </div>		  
+		</div>
 
-
+		<div class="grid"> 
+		      <div class="unit one-third fRight">
+					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg5.png"/>
+		       </div>		
+		      <div class="unit one-third fRight">
+					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg1.png"/>
+		       </div>		       	            
+		 </div>	 
 
 
 		<div class="grid"> 
@@ -201,35 +206,7 @@ tags:
 		</div>
 
 
-		<div class="grid bigGapTop">
-		      <div class="unit one-third">
-		      		<h5>Internal communication</h5>
-		       </div>
-		       <div class="unit two-thirds">
-		       		<p class="lead">
-			        	I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features.
-			        	At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
-			        </p>
-		       </div>
-	  </div>
 
-	  <div class="grid">
-		      <div class="unit one-third fRight">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg3.png"/>
-		       </div>
-		      <div class="unit one-third fRight">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg4.png"/>
-		       </div>		  
-		</div>
-
-		<div class="grid"> 
-		      <div class="unit one-third fRight">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg5.png"/>
-		       </div>		
-		      <div class="unit one-third fRight">
-					<img src="{{site.baseurl}}/jekyll-blog/assets/wirewax/WirewaxRetreatImg1.png"/>
-		       </div>		       	            
-		 </div>	 
 
 
 	<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
