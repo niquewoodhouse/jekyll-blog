@@ -112,7 +112,7 @@ tags:
 		 	<div class="unit half">
 		 		
 		 		<p class="w80">
-		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are within things.  One of the first responses to this was breadcrumb navigation, still used by ecomm sites today.  <span class="block pFocus">Its best to leverage the universal language of animation to explain location &amp; logic</span> For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a building people will be living in for a lifetime.
+		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are within things.  <span class="block pFocus">Its best to leverage the universal language of animation to explain location &amp; logic</span> For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a building people will be living in for a lifetime.
 		 		</p>
 
 		 	</div>
