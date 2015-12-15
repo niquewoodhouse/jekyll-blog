@@ -98,7 +98,7 @@ tags:
 		 	<div class="unit half">
 		 	
 		 		<p class="w80">
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire badly.  I find the approach of product companies like <a href="http://www.dropbox.com" target="_blank">Dropbox</a> works best.  <span class="block pFocus">Show why the product is useful, not how.</span>  Hide the technology behind a minimal human design that minimises confusion &amp; lets people focus 
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire badly.  I try to hide the technology behind a simple human interface that lets  <span class="block pFocus">Show why the product is useful, not how.</span>  people focus on why they logged in in the first place.
 		 		</p>
 		 	</div>		 	
 		 </div>
