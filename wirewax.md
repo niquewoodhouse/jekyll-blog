@@ -259,7 +259,7 @@ tags:
 		 		<span class="bigNo absolute w100 textCenter">
 		 			08
 		 		</span>
-		 		<h2 class="textCenter sectionTitle absolute w100">
+		 		<h2 class="textCenter sectionTitleAlt absolute w100">
 		 			Helping business scale up
 		 		</h2>
 		 	</div>

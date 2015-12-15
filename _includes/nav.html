@@ -6,15 +6,15 @@
 
 			<ul class="nav fRight midnight">
 				<li>
+					<a href="{{site.baseurl}}/blog/" class="{% if page.url contains 'about' or page.url contains 'about' %}current{% endif %}">
+						Blog
+					</a>
+				</li>					
+				<li>
 					<a href="{{site.baseurl}}/#work" class="{% if page.url == '/index.html' %}current{% endif %}">
 						Work
 					</a>
 				</li>
-				<li>
-					<a href="{{site.baseurl}}/blog/" class="{% if page.url contains 'about' or page.url contains 'about' %}current{% endif %}">
-						Blog
-					</a>
-				</li>	
 				<li>					
 					<a href="{{site.baseurl}}/about/" class="{% if page.url contains 'about' or page.url contains 'about' %}current{% endif %}">
 						About
