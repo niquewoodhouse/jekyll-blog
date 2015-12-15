@@ -90,7 +90,11 @@ tags:
 		 		<p class="w80">
 		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
 		 		</p>
+		 		<p class="w80">
+		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, never the other way around.  
+		 		</p>
 		 	</div>
+
 		 	<div class="unit half">
 		 	
 		 		<p class="w80">
