@@ -77,31 +77,59 @@ tags:
 		 </div>
 
 		 <div class="grid bigGapTop bigGapBott"> 
-		 	<div class="unit whole">
-		 		<h1 class="textCenter">
+		 	<div class="unit whole relative">
+		 		<h2 class="textCenter">
 		 			Design goals
-		 		</h1>
+		 		</h2>
 		 	</div>
 		 </div>		 
 
-		 <div class="grid bigGapTop bigGapBott"> 
+		 <div class="grid bigGapBott"> 
 		 	<div class="unit half">
-		 		<!--<h2>Design goals</h2>-->
+		 		
 		 		<p class="w80">
 		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
 		 		</p>
 		 		<p class="w80">
-		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, never the other way around.  
+		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
 		 		</p>
 		 	</div>
 
-		 	<div class="unit half">
-		 	
+		 	<div class="unit half">	 	
 		 		<p class="w80">
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire badly.  I try to hide the technology behind a simple human interface that lets  <span class="block pFocus">Show why the product is useful, not how.</span>  people focus on why they logged in in the first place.
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
 		 		</p>
 		 	</div>		 	
 		 </div>
+
+
+		<div class="grid bigGapBott bigGapTop">
+		      <div class="unit one-third">
+		        	<h2>Thrown in the deep end</h2>
+		      </div>
+		      <div class="unit two-thirds">
+			        <p class="lead">
+			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+			        </p>
+			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
+			        </p>
+		       </div>
+		 </div>		 
+
+		<div class="grid bigGapBott bigGapTop">
+		      <div class="unit one-third">
+		        	<h2>Agile waterfalls</h2>
+		      </div>
+		      <div class="unit two-thirds">
+			        <p class="lead">
+			        	The project scope &amp; our limited resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+			        </p>
+			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
+			        </p>
+		       </div>
+		 </div>
+
+
 
 
 		<div class="grid"> 
