@@ -102,7 +102,25 @@ tags:
 		 	</div>		 	
 		 </div>
 
+		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit whole relative">
+		 		<h2 class="textCenter">
+		 			Spatial interfaces
+		 		</h2>
+		 	</div>
 
+		 	<div class="unit half">
+		 		
+		 		<p class="w80">
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
+		 		</p>
+		 		<p class="w80">
+		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
+		 		</p>
+		 	</div>
+
+		 	
+		 </div>		
 
 
 
@@ -214,7 +232,7 @@ tags:
 		<div class="wideOverlay blackBg09"> 
 				<div class="grid ghost">
 						<div class="unit one-third">
-							<h2>Data visualtion</h2>
+							<h2>Data visualisation</h2>
 						</div>
 						 <div class="unit two-thirds">
 								<p>

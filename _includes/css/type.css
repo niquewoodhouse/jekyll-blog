@@ -31,6 +31,8 @@ h5 {
     margin:0px;
 }
 
+h2 {letter-spacing: 1px;}
+
 p {line-height: 150%;}
 
 p.smallPrint {
@@ -49,10 +51,10 @@ body {
     font-weight:300;
 }
 
-ul.nav a {text-decoration: none;}
+ul.nav a {text-decoration: none !important;}
 
 ul.nav a {
-    font-size:15px;
+    font-size:14px;
 }
  
 ul.recentWork span.title, .workWide span.title {
@@ -101,7 +103,7 @@ ul.recentWork a {
 .wirewax .whole .sectionTitleAlt {
     left:auto !important;
     border-bottom:0px;
-    top:49px;
+    top:64px;
 }
 
 .lineBefore::before {
