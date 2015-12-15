@@ -16,6 +16,28 @@ layout: default
 		      </div>
 		 </div>
 
+		<div class="grid">
+		      <div class="unit one-quarter">
+		      	<ul class="blockLi list">
+		      		<li></li>
+		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>
+		      		
+		      	</ul>
+		      </div>
+		      <div class="unit one-quarter">
+		      	<ul class="blockLi list">
+		      		<li>Year</li>
+		      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>
+		      	</ul>		      	
+		      </div>
+		      <div class="unit one-quarter none">
+		      	<ul class="blockLi list">
+		      		<li>Output</li>
+		      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
+		      	</ul>		      	
+		      </div>		            		      		      
+		 </div>		 		 
+
 		<div class="grid ghost mediumGapBott">
 		      <div class="unit half">
 		        <p class="w80">
@@ -35,9 +57,7 @@ layout: default
 		        <p class="w80">
 		        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
 		        </p>
-		        <p class="w80">
-		        	<a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>, <a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a>, <a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a>
-		        </p>
+
 
 		      </div>
 		</div>		 
