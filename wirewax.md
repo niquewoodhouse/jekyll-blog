@@ -107,14 +107,13 @@ tags:
 
 
 		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit whole">
-		        	<h2 class="textCenter">The deep end</h2>
-		      </div>
-		      <div class="unit half">
+
+		      <div class="unit one-third">
+		      	<h5>In the deep end</h5>
 		      	<span class="">15:1</span>
 		      	
 		      </div>
-		      <div class="unit half">
+		      <div class="unit two-thirds">
 		      	<p>With a team ratio of 15 developers:1 product designer (me) it was important to be as helpful &amp; quick as possible.  I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.</p>
 		      </div>		      
 
