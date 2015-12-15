@@ -72,11 +72,24 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/>
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data
 		 	</div>
 		 </div>
 
-
+		 <div class="grid"> 
+		 	<div class="unit half">
+		 		<h2>Design goals</h2>
+		 		<p class="w80">
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals this can lead to a bloated product that no one can use simply.  So I questioned every requested feature while hiding the powerful technology behind a minimal interface.
+		 		</p>
+		 	</div>
+		 	<div class="unit half">
+		 		<h2>Design goals</h2>
+		 		<p class="w80">
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals this can lead to a bloated product that no one can use simply.  So I questioned every requested feature while hiding the powerful technology behind a minimal interface.
+		 		</p>
+		 	</div>		 	
+		 </div>
 
 
 		<div class="grid bigGapTop">
