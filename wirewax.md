@@ -72,7 +72,7 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type
 		 	</div>
 		 </div>
 
@@ -106,7 +106,7 @@ tags:
 
 
 
-		<div class="grid bigGapBott bigGapTop">
+		<div class="grid bigGapTop">
 
 		      <div class="unit one-third">
 		      	
@@ -122,7 +122,7 @@ tags:
 		      		I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion. <span class="block pFocus">Team ratio of 15 developers to 1 designer (me)</span> 
 		      	</p>
 		      	<p>
-		      		Throughout this I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features. At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look. I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.
+		      		Throughout this I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features. At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
 		      	</p>
 		      </div>		      
 		 </div>		 
@@ -200,6 +200,7 @@ tags:
 			<div class="unit one-quarter bigGapBott">
 				Icon 16.
 			</div>	
+
 			<div class="unit half">
 				Nique introduced a consistent design language allowing developers to iterate on the core web application at breakneck speeds.
 			</div>														
