@@ -102,8 +102,8 @@ tags:
 
 		<div class="grid"> 
 			<div class="unit whole bigGapTop bigGapBott relative">
-				<span class="bigNo absolute">05</span>
-				<span class="sectionTitle absolute">Iconography</span>
+				<span class="bigNo absolute shark">05</span>
+				<span class="sectionTitle absolute uppercase shark">Iconography</span>
 			</div>
 		</div>
 
