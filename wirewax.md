@@ -154,7 +154,7 @@ tags:
 			<div class="unit one-quarter">
 				Icon 15.
 			</div>	
-			<div class="unit one-quarter">
+			<div class="unit one-quarter bigGapBott">
 				Icon 16.
 			</div>	
 			<div class="unit half">
