@@ -265,7 +265,7 @@ tags:
 		 <div class="grid bigGapBott"> 
 		 	<div class="unit half fLeft">
 		 		
-		 		<p class="w80">
+		 		<p class="w80 bigGapTopPad">
 		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
 		 		</p>
 
@@ -278,7 +278,7 @@ tags:
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 	</div>	
 				 	<p>
-				 		An example of an app.
+				 		Wirewax Pro Measure would allow users to track video performance &amp; perform key actions on the go.
 				 	</p>		 		
 		 	</div>
 
