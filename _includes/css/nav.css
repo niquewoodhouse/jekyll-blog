@@ -18,7 +18,7 @@ nav.header a.logo {
 }
 
 nav.header ul.nav {
-	float:right;
+	margin:0px 30px 0 0;
 }
 
 nav.header ul li {

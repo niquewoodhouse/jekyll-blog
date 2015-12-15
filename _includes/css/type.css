@@ -98,6 +98,12 @@ ul.recentWork a {
     width:16%;
 }
 
+.wirewax .whole .sectionTitle {
+    left:auto !important;
+    border-bottom:0px;
+
+}
+
 .lineBefore::before {
     content: "";
     display:block;
