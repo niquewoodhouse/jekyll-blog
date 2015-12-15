@@ -72,7 +72,7 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something.
 		 	</div>
 		 </div>
 
@@ -229,29 +229,7 @@ tags:
 	</div>		 
 
 
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit one-third">
-		        	<h2>Agile waterfalls</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-			        	The project scope &amp; our limited start up resources, meant using both various project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
-			        </p>
-			        <p>I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion.
-			        </p>
-		       </div>
-		 </div>
 
-
-
-
-		<div class="grid">
-		      <div class="unit one-thid">
-			        <ul class="blockLi">
-						<p>Your videos</p>
-			        </ul>
-		       </div>	       		       
-		 </div>	
 
 		<div class="grid">
 			  <div class="unit one-third">
@@ -272,70 +250,56 @@ tags:
 				 	</div>
 		       </div>	
 			       
-		       <!--
-		      <div class="unit half">
-		      		<center>
-						<img src="http://niquewoodhouse.github.io/jekyll-blog//assets/wirewax/iPhoneEg.png" class="one-third"/>
-					</center>
-		       </div>
-		   -->
+
 		 </div>	
 
 
 </div>	
 
 
+		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit whole relative">
+		 		<h2 class="textCenter">
+		 			Helping business scale up
+		 		</h2>
+		 	</div>
+		 </div>		 
 
+		 <div class="grid"> 
+		 	<div class="unit half fLeft">
+		 		
+		 		<p class="w80">
+		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
+		 		</p>
 
+		 	</div>
 
+		 <div class="grid"> 
+		 	<div class="unit half fRight bigGapBott">
+		 		
+		 		<p class="w80">
+		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
+		 		</p>
 
-<div class="wider">
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit whole">
-		        	<h2>Agile development &amp; atomoc design</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-						With a team ratio of 15 developers:1 product designer (me) it was important to be as helpful &amp; clear as can be.  I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.
-			        </p>
-		       </div>
-
+		 	</div>		 	
 		 </div>
-</div>	
 
-<div class="wider">
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit whole">
-		        	<h2>Agile development &amp; atomoc design</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-						With a team ratio of 15 developers:1 product designer (me) it was important to be as helpful &amp; clear as can be.  I broke down every element, to create a consistent design language to enable quick iteration on solid foundations.
-			        </p>
-		       </div>
 
+		 <div class="grid"> 
+		 	<div class="unit half fRight">
+		 		
+		 		<p class="w80">
+		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
+		 		</p>
+
+		 	</div>		 	
 		 </div>
-</div>	
 
-<div class="wider">
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit whole">
-		        	<h2>Helping business scale</h2>
-		      </div>
-		      <div class="unit two-thirds">
-			        <p class="lead">
-						Alongside designing the product, my role included generating premium features for today's users &amp; helping identify future features.  	
-			        </p>
-		       </div>
 
-		 </div>
-</div>
-
-<div class="wider">
 	<div class="grid bigGapBott bigGapTop">
 		{% include disclaimer.html %}
 	</div>
-</div>
+
 
 <!--
 
