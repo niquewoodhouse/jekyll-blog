@@ -70,7 +70,11 @@ tags:
 		       </div>		       	            
 		 </div>	 
 
-
+		 <div class="grid"> 
+		 	<div class="unit whole">
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/>
+		 	</div>
+		 </div>
 
 
 
@@ -180,9 +184,6 @@ tags:
 
 
 </div>	
-
-
-<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png" class="w100"/>
 
 
 
