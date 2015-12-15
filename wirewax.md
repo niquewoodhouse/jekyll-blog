@@ -72,7 +72,7 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type, email (you've veeb tagged etc)
 		 	</div>
 		 </div>
 
@@ -112,12 +112,15 @@ tags:
 		 	<div class="unit half">
 		 		
 		 		<p class="w80">
-		 			People think in spatial models.  For example, when a visitor to your home is looking for the toilet, you tell them its location. This isn’t anything new for web.  One of the first responses to this was breadcrumb navigation, which is still used today (Apple).
+		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are within things.  One of the first responses to this was breadcrumb navigation, still used by ecomm sites today.  <span class="block pFocus">Its best to leverage the universal language of animation to explain location &amp; logic</span> For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a building people will be living in for a lifetime.
 		 		</p>
 		 		<p class="w80">
-					In responsive interfaces you can’t assume there is visual space for such old fashioned solutions so its best to leverage animation to explain the location of platform elements.  So using transitions like zooey.
+					It involves planning as there’s many things to consider: building a foundation that will support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules allowing flexibility for the future.
 		 		</p>
 		 	</div>
+
+
+		 	
 
 		 	<div class="unit half">
 		 	</div>
