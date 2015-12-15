@@ -91,7 +91,7 @@ ul.recentWork a {
 }
 
 .wirewax .sectionTitle {
-    top:47px;
+    top:60px;
     left:24px;
     line-height:250%;
     border-bottom:5px solid #7bafa8;
@@ -101,6 +101,7 @@ ul.recentWork a {
 .wirewax .whole .sectionTitleAlt {
     left:auto !important;
     border-bottom:0px;
+    top:49px;
 }
 
 .lineBefore::before {
