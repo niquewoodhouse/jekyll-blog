@@ -85,6 +85,11 @@ ul.recentWork a {
     z-index: 90;
 }
 
+.wirewax .whole .bigNo {
+    left:auto !important;
+    opacity:0.2;
+}
+
 .wirewax .sectionTitle {
     top:60px;
     left:24px;
