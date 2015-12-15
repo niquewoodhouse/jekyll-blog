@@ -132,7 +132,31 @@ tags:
 			</div>	
 			<div class="unit one-quarter">
 				Icon 8.
-			</div>											
+			</div>	
+			<div class="unit one-quarter">
+				Icon 9.
+			</div>
+			<div class="unit one-quarter">
+				Icon 10.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 11.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 12.
+			</div>
+			<div class="unit one-quarter">
+				Icon 13.
+			</div>
+			<div class="unit one-quarter">
+				Icon 14.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 15.
+			</div>	
+			<div class="unit one-quarter">
+				Icon 16.
+			</div>															
 		</div>
 
 
