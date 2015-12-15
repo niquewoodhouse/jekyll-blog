@@ -55,7 +55,7 @@ tags:
 		       </div>			       		      		 	
 		 </div>
 
-		<div class="grid"> 
+		<div class="grid bigGapBott"> 
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"In awe of the possibilities"</li>
