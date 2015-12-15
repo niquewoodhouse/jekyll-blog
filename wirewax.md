@@ -39,7 +39,7 @@ tags:
 
 		 <div class="grid bigGapTop">
 		      <div class="unit one-third">
-		        	<h2>Praise</h2>
+		        	<h2>User feedback</h2>
 		      </div>
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
@@ -76,17 +76,25 @@ tags:
 		 	</div>
 		 </div>
 
-		 <div class="grid"> 
+		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit whole">
+		 		<h1 class="textCenter">
+		 			Design goals
+		 		</h1>
+		 	</div>
+		 </div>		 
+
+		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit half">
-		 		<h2>Design goals</h2>
+		 		<!--<h2>Design goals</h2>-->
 		 		<p class="w80">
-		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals this can lead to a bloated product that no one can use simply.  So I questioned every requested feature while hiding the powerful technology behind a minimal interface.
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
 		 		</p>
 		 	</div>
 		 	<div class="unit half">
-		 		<h2>Design goals</h2>
+		 	
 		 		<p class="w80">
-		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals this can lead to a bloated product that no one can use simply.  So I questioned every requested feature while hiding the powerful technology behind a minimal interface.
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire badly.  I find the approach of product companies like <a href="http://www.dropbox.com" target="_blank">Dropbox</a> works best.  Show why the product is useful, not how.  Hide the technology behind a minimal human design
 		 		</p>
 		 	</div>		 	
 		 </div>
