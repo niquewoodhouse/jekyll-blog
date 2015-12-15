@@ -100,6 +100,14 @@ tags:
 		 </div>
 
 
+		<div class="grid"> 
+			<div class="unit whole bigGapTop bigGapBott relative">
+				<span class="bigNo absolute">05</span>
+				<span class="sectionTitle absolute">Iconography</span>
+			</div>
+		</div>
+
+
 		<div class="grid bigGapTop">
 		      <div class="unit one-third">
 		      		<h5>Internal communication</h5>
