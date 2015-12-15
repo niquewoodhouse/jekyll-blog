@@ -156,7 +156,10 @@ tags:
 			</div>	
 			<div class="unit one-quarter">
 				Icon 16.
-			</div>															
+			</div>	
+			<div class="unit half">
+				Nique introduced a consistent design language allowing developers to iterate on the core web application at breakneck speeds.
+			</div>														
 		</div>
 
 
