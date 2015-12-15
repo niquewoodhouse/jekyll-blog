@@ -300,10 +300,20 @@ tags:
 
 
 		 <div class="grid bigGapBott bigGapTop"> 
-		 	<div class="unit half fRight">
+
+		 	<div class="unit one-third fLeft">
+
+				 		<img src="http://www.fillmurray.com/g/750/492"/>
+				 	
+				 	<p class="smallGapTop mediumPrint">
+				 		Kanye West wasn't a joke at the time.
+				 	</p>		 		
+		 	</div>
+
+		 	<div class="unit half fRight lineBefore">
 		 		
 		 		<p class="w80">
-		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
+		 			These ideas would be to sell the product to investers &amp; internally to excite employees about the potential.
 		 		</p>
 
 		 	</div>		 	
