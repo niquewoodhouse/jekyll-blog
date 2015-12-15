@@ -84,7 +84,7 @@ tags:
 		 	</div>
 		 </div>		 
 
-		 <div class="grid bigGapBott"> 
+		 <div class="grid"> 
 		 	<div class="unit half">
 		 		
 		 		<p class="w80">
