@@ -270,7 +270,7 @@ tags:
 
 		 	</div>
 
-		 	<div class="unit half fRight">
+		 	<div class="unit one-third fRight">
 					<div class="iPhone relative">
 						<div class="iPhoneDot absolute">
 						</div>
