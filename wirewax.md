@@ -72,7 +72,7 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something.
+		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping
 		 	</div>
 		 </div>
 
@@ -116,7 +116,7 @@ tags:
 		      </div>
 		      <div class="unit two-thirds">
 		      	<p>
-		      		With a team ratio of 15 developers to 1 product designer (me) it was important to be as helpful &amp; quick as possible.  The project scope, the CEO's vision &amp; our limited resources, meant using agile &amp; waterfall project management methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
+		      		With a team ratio of 15 developers to 1 product designer (me) it was important to be as helpful &amp; quick as possible.  The project scope, the CEO's vision &amp; our limited resources, meant using agile &amp; waterfall methodologies.  An MVP was defined &amp; once each feature was designed &amp; approved, the development team would begin implementation.  
 		      	</p>
 		      	<p>
 		      		I followed up by designing the next features in the pipeline, whilst also working with the development teams to execute the currently developed features through to completion. <span class="block pFocus">Team ratio of 15 developers to 1 designer (me)</span> 
@@ -265,7 +265,7 @@ tags:
 		 	</div>
 		 </div>		 
 
-		 <div class="grid"> 
+		 <div class="grid bigGapBott"> 
 		 	<div class="unit half fLeft">
 		 		
 		 		<p class="w80">
@@ -273,9 +273,9 @@ tags:
 		 		</p>
 
 		 	</div>
-
-		 <div class="grid"> 
-		 	<div class="unit half fRight bigGapBott">
+		 </div>
+		 <div class="grid bigGapBott"> 
+		 	<div class="unit half fRight">
 		 		
 		 		<p class="w80">
 		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
