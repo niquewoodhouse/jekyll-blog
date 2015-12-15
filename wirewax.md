@@ -122,7 +122,7 @@ tags:
 		 	<div class="unit half">
 		 	</div>
 
-		      <div class="unit two-thirds fRight">
+		      <div class="unit whole">
 				<div class="iPad relative">
 					<div class="iPadDot absolute">
 					</div>
