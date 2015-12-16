@@ -25,3 +25,9 @@ nav.header ul li {
 	margin:0 25px 0 0;
 }
 
+nav.header ul.nav a.current::after {
+	content:"";
+	border-top:1px solid red;
+	width:100%;
+	margin:10px 0;
+}
