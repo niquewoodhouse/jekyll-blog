@@ -87,8 +87,21 @@ layout: default
 	      </div>	      	      
 	    </div>
 
-</div>		
+	    <div class="grid">
+	    	<div class="unit one-third">
+	    		<h2>Studio</h2>
 
+	    	</div>
+
+	    	<div class="unit two-thirds">
+	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
+	    	</div>
+	    </div>
+
+</div>
+
+
+<!--
 <div class="wider">
 
 		<script type="text/javascript" src="https://raw.githubusercontent.com/stevenschobert/instafeed.js/master/instafeed.min.js"></script>  
@@ -121,3 +134,4 @@ layout: default
 				<h1 class="intro-heading tCenter">Instagram</h1>
 			</div>
 </div>
+-->
