@@ -98,7 +98,7 @@ layout: default
 
 	    	</div>
 
-	    	<div class="unit half fRight ">
+	    	<div class="unit two-thirds fRight ">
 	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
 	    	</div>	    	
 
@@ -106,10 +106,10 @@ layout: default
 	    </div>
 
 	    <div class="grid">
-	    	<div class="unit one-quarter fRight">
+	    	<div class="unit one-third fRight">
 	    		<img src="http://antonandirene.com/upload/contact-photos/1.jpg"/>
 	    	</div>
-	    	<div class="unit one-quarter fRight">
+	    	<div class="unit one-third fRight">
 	    		<img src="http://antonandirene.com/upload/contact-photos/3.jpg"/>
 	    	</div>	   	    	
 	    </div>
