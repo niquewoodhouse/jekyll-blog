@@ -77,30 +77,27 @@ tags:
 		 </div>
 
 		 <div class="grid bigGapTop bigGapBott"> 
-		 	<div class="unit whole relative">
-		 		<h2 class="textCenter">
-		 			Design goals
-		 		</h2>
+		 	<div class="unit one-third relative">
+	    		<span class="bigNo absolute">04</span>
+	    		<h2>Design goals</h2>
 		 	</div>
-		 </div>		 
+		 </div>		
 
-		 <div class="grid"> 
-		 	<div class="unit half">
+		 	<div class="unit two-thirds">
 		 		
-		 		<p class="w80">
+		 		<p>
 		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
 		 		</p>
-		 		<p class="w80">
+		 		<p>
 		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
-		 		</p>
-		 	</div>
-
-		 	<div class="unit half">	 	
-		 		<p class="w80">
+		 		</p> 	
+		 		<p>
 		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
 		 		</p>
 		 	</div>		 	
-		 </div>
+
+
+ 
 
 		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit whole relative">
@@ -337,6 +334,32 @@ tags:
 
 </div>	
 <!--
+
+		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit whole relative">
+		 		<h2 class="textCenter">
+		 			Design goals
+		 		</h2>
+		 	</div>
+		 </div>		
+	
+		 <div class="grid"> 
+		 	<div class="unit half">
+		 		
+		 		<p class="w80">
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
+		 		</p>
+		 		<p class="w80">
+		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
+		 		</p>
+		 	</div>
+
+		 	<div class="unit half">	 	
+		 		<p class="w80">
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
+		 		</p>
+		 	</div>		 	
+		 </div>
 
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit one-third">
