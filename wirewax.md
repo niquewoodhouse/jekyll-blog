@@ -89,10 +89,10 @@ tags:
 		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
 		 		</p>
 		 		<p>
-		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  
+		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  <span class="block pFocus">Show why the product is useful, not how.</span>  
 		 		</p> 	
 		 		<p>
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. That lets people focus on why they logged in in the first place.
 		 		</p>
 		 	</div>		 	
 		 </div>	
@@ -130,8 +130,8 @@ tags:
 
 		<div class="grid bigGapTop">
 
-		      <div class="unit one-third">
-		      	
+		      <div class="unit one-third relative">
+		      	<span class="bigNo absolute">06</span>
 		      	<h5>Project management</h5>
 
 		      	
