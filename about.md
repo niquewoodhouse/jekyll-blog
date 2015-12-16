@@ -88,7 +88,8 @@ layout: default
 	    </div>
 
 	    <div class="grid">
-	    	<div class="unit one-third">
+	    	<div class="unit one-third relative">
+	    		<span class="bigNo absolute">05</span>
 	    		<h2>Studio</h2>
 
 
