@@ -1,3 +1,8 @@
+---
+layout: default
+body-class: wider
+---
+
 <div class="wider midnight">
 		
 			
