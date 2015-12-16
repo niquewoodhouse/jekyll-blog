@@ -17,11 +17,10 @@ layout: default
 		      </div>
 		 </div>
 
-		<div class="grid">
+		<div class="grid mediumGapBott">
 		      <div class="unit one-third relative">
 		      	<span class="bigNo absolute">01</span>
 	    		<h2>Contact</h2> 
-
 		      </div>
 		      <div class="unit one-third">	
 			      	<ul class="blockLi list">
@@ -38,7 +37,11 @@ layout: default
 		 </div>		 		 
 
 		<div class="grid  mediumGapBott">
-		      <div class="unit half">
+		      <div class="unit one-third relative">
+		      	<span class="bigNo absolute">02</span>
+	    		<h2>Profile</h2> 
+		      </div>			
+		      <div class="unit two-thirds">
 		        <p class="w80">
 		        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.
 		        </p>
@@ -49,7 +52,6 @@ layout: default
 		        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 		        </p>
 		      </div>
-		      <div class="unit half">
 		        <p class="w80">
 		        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
 		        </p>
@@ -57,8 +59,6 @@ layout: default
 		        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
 		        </p>
 
-
-		      </div>
 		</div>		 
 
 
