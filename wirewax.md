@@ -81,7 +81,7 @@ tags:
 	    		<span class="bigNo absolute">04</span>
 	    		<h2>Design goals</h2>
 		 	</div>
-		 </div>		
+	
 
 		 	<div class="unit two-thirds">
 		 		
@@ -95,7 +95,7 @@ tags:
 		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
 		 		</p>
 		 	</div>		 	
-
+		 </div>	
 
  
 
