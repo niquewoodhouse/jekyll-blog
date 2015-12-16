@@ -18,7 +18,7 @@ layout: default
 		 </div>
 
 		<div class="grid">
-		      <div class="unit one-thid relative">
+		      <div class="unit one-third relative">
 		      	<span class="bigNo absolute">01</span>
 	    		<h2>Contact</h2> 
 
