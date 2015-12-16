@@ -5,13 +5,13 @@ layout: default
 
 
 
-<div class="wider DeepBlueToBrightPurp">
+<div class="wider">
 
 
 
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop mediumGapBott ghost">Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+		        <h1 class="bigGapTop mediumGapBott ">Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		      </div>
 		 </div>
@@ -19,7 +19,6 @@ layout: default
 		<div class="grid">
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		
 		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
 		      	</ul>
 		      </div>
@@ -27,7 +26,6 @@ layout: default
 		      </div>		      
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		
 		      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>
 		      	</ul>		      	
 		      </div>
@@ -39,7 +37,7 @@ layout: default
 		      </div>		            		      		      
 		 </div>		 		 
 
-		<div class="grid ghost mediumGapBott">
+		<div class="grid  mediumGapBott">
 		      <div class="unit half">
 		        <p class="w80">
 		        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.
@@ -95,9 +93,12 @@ layout: default
 
 	    	</div>
 
-	    	<div class="unit two-thirds">
+	    	<div class="unit one-quarter fRight">
 	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
 	    	</div>
+	    	<div class="unit one-quarter fRight">
+	    		<img src="http://antonandirene.com/upload/contact-photos/2.jpg"/>
+	    	</div>	    	
 	    </div>
 
 </div>
