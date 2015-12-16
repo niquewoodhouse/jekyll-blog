@@ -1,6 +1,6 @@
 /* Fills */
 
-.gold, p.lead a, a, .bigNo, nav a.current {color:#c69c6d}
+.gold, p.lead a, a, .bigNo, nav a.current {color:#c69c6d !important;}
 
 .shark {color:#1D2429;}
 .midnight, nav.header ul li a {color:#232323;}
