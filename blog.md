@@ -15,7 +15,7 @@ body-class: wider
 							 			<div class="unit whole">
 											<span class="counter fLeft">{{ counter }}</span>
 											<span class="title block">{{post.title}}</span>
-											<span class="subtitle block">{{post.subtitle}}</span>
+											<span class="subtitle block">{{post.subTitle}}</span>
 							 			</div>	
 								</div>
 							</div>	

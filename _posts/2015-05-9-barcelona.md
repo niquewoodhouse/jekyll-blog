@@ -2,8 +2,9 @@
 layout: post
 title: Barcelona
 meta: A day in Barcelona
-categories: travel photo
-img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
+subTitle: A city break in one of Spain's most iconic cities
+categories: travel photo blog
+img: https://images.unsplash.com/photo-1429729274510-0ca5300305d3?crop=entropy&fit=crop&fm=jpg&h=1200&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2300
 ---
 
 This is what
