@@ -17,7 +17,7 @@ layout: default
 		      </div>
 		 </div>
 
-		<div class="grid mediumGapBott">
+		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
 		      	<span class="bigNo absolute">01</span>
 	    		<h2>Contact</h2> 
@@ -36,7 +36,7 @@ layout: default
 		      </div>		            		      		      
 		 </div>		 		 
 
-		<div class="grid  mediumGapBott">
+		<div class="grid  bigGapBott">
 		      <div class="unit one-third relative">
 		      	<span class="bigNo absolute">02</span>
 	    		<h2>Profile</h2> 
@@ -61,14 +61,14 @@ layout: default
 		</div>		 
 
 
-		<div class="grid">
+		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
 		      	<span class="bigNo absolute">03</span>
 	    		<h2>Focuses &amp; Recognition</h2> 
 		      </div>				
 	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
-	        	<li>Focus</li>
+	        
 	        	<li>User centered product design</li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation </li>
@@ -79,7 +79,7 @@ layout: default
 	      </div>
 	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
-	        	<li>Awards</li>
+	        	
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>
 	        	<li>1x Linkage Site of the week </li>
