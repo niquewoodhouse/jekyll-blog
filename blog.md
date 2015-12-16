@@ -7,7 +7,7 @@ body-class: wider
 		
 			
 				
-					{% for post in site.categories.work limit:5 %}
+					{% for post in site.categories.blog limit:5 %}
 					 <a href="{{site.baseurl}}/{{post.url}} ">
 					 	<div class="workWide" style="background-image:url('{{post.featureImg}}');">
 					 		<div class="wideOverlay blackBg09">
