@@ -23,6 +23,8 @@ layout: default
 		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
 		      	</ul>
 		      </div>
+		      <div class="unit one-quarter">	      	
+		      </div>		      
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
 		      		
