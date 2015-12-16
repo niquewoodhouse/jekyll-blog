@@ -91,7 +91,12 @@ layout: default
 	    	<div class="unit one-third">
 	    		<h2>Studio</h2>
 
+
 	    	</div>
+
+	    	<div class="unit half fRight block">
+	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
+	    	</div>	    	
 
 	    	<div class="unit one-quarter fRight">
 	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
