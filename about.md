@@ -11,27 +11,27 @@ layout: default
 
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop mediumGapBott ">Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+		        <h1 class="bigGapTop mediumGapBott ">
+		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		      </div>
 		 </div>
 
 		<div class="grid">
-		      <div class="unit one-quarter">
-		      	<ul class="blockLi list">
-		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
-		      	</ul>
+		      <div class="unit one-thid relative">
+		      	<span class="bigNo absolute">01</span>
+	    		<h2>Contact</h2> 
+
 		      </div>
-		      <div class="unit one-quarter">	      	
+		      <div class="unit one-third">	
+			      	<ul class="blockLi list">
+			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
+			      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>	
+			      	</ul>		            	
 		      </div>		      
-		      <div class="unit one-quarter">
+
+		      <div class="unit one-third">
 		      	<ul class="blockLi list">
-		      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>
-		      	</ul>		      	
-		      </div>
-		      <div class="unit one-quarter">
-		      	<ul class="blockLi list">
-		      		
 		      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
 		      	</ul>		      	
 		      </div>		            		      		      
