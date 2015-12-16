@@ -97,31 +97,25 @@ tags:
 		 	</div>		 	
 		 </div>	
 
- 
-
-		 <div class="grid bigGapTop bigGapBott"> 
-		 	<div class="unit whole relative">
-		 		<h2 class="textCenter">
-		 			Spatial interfaces
-		 		</h2>
+ 		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit one-third relative">
+	    		<span class="bigNo absolute">05</span>
+	    		<h2>Spatial interfaces</h2>
 		 	</div>
+	
 
-		 	<div class="unit half">
+		 	<div class="unit two-thirds">
 		 		
-		 		<p class="w80">
+		 		<p>
 		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are within things.  <span class="block pFocus">Leverage the universal language of animation to explain location &amp; logic</span> For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a building people will be living in for a lifetime.
 		 		</p>
-
-		 	</div>
-
-
-		 	
-
-		 	<div class="unit half">
-		 		<p class="w80">
-					It involves planning as there’s many things to consider: building a foundation that will support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules allowing flexibility for the future.
-		 		</p>		 		
-		 	</div>
+		 		<p>
+		 			It involves planning as there’s many things to consider: building a foundation that will support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules allowing flexibility for the future. 
+		 		</p> 	
+		 		<p>
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
+		 		</p>
+		 	</div>		 	
 
 		      <div class="unit whole">
 				<div class="iPad relative">
@@ -130,8 +124,6 @@ tags:
 				 	<img src="http://www.fillmurray.com/g/750/492"/>
 				</div>
 		    </div>	
-
-
 
 		 </div>		
 
