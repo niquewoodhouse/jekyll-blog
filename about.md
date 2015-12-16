@@ -19,20 +19,19 @@ layout: default
 		<div class="grid">
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		<li></li>
-		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>
 		      		
+		      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
 		      	</ul>
 		      </div>
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		<li>Year</li>
+		      		
 		      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>
 		      	</ul>		      	
 		      </div>
-		      <div class="unit one-quarter none">
+		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		<li>Output</li>
+		      		
 		      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
 		      	</ul>		      	
 		      </div>		            		      		      
