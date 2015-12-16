@@ -51,7 +51,6 @@ layout: default
 				<p class="w80">
 		        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 		        </p>
-		      </div>
 		        <p class="w80">
 		        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
 		        </p>
@@ -63,7 +62,11 @@ layout: default
 
 
 		<div class="grid">
-	      <div class="unit half">
+		      <div class="unit one-third relative">
+		      	<span class="bigNo absolute">03</span>
+	    		<h2>Focuses &amp; Recognition</h2> 
+		      </div>				
+	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
 	        	<li>Focus</li>
 	        	<li>User centered product design</li>
@@ -74,7 +77,7 @@ layout: default
 	        	<li>Identity &amp; branding</li>
 	        </ul>
 	      </div>
-	      <div class="unit half">
+	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
 	        	<li>Awards</li>
 	        	<li>1x Awwwards Honorable Mention</li>
@@ -89,7 +92,7 @@ layout: default
 
 	    <div class="grid">
 	    	<div class="unit one-third relative">
-	    		<span class="bigNo absolute">05</span>
+	    		<span class="bigNo absolute">04</span>
 	    		<h2>Studio</h2>
 
 
