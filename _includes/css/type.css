@@ -51,7 +51,7 @@ body {
     font-weight:300;
 }
 
-ul.nav a {text-decoration: none !important;}
+ul.nav a {text-decoration: none !important;border:none !important;}
 
 ul.nav a {
     font-size:14px;
