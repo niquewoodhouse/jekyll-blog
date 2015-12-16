@@ -107,14 +107,13 @@ tags:
 		 	<div class="unit two-thirds">
 		 		
 		 		<p>
-		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are within things.  <span class="block pFocus">Leverage the universal language of animation to explain location &amp; logic</span> For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a building people will be living in for a lifetime.
+		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are always within bigger things/spaces. For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a home people will be living in for a lifetime.
 		 		</p>
 		 		<p>
-		 			It involves planning as there’s many things to consider: building a foundation that will support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules allowing flexibility for the future. 
+		 			It involves planning as there’s many things to consider: building a foundation to support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules to allow flexibility for the future.  This helps me organise the user interface spatially.
+		 			<span class="block pFocus">I leverage the universal language of animation to explain location &amp; logic</span> 
 		 		</p> 	
-		 		<p>
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. <span class="block pFocus">Show why the product is useful, not how.</span>  That lets people focus on why they logged in in the first place.
-		 		</p>
+
 		 	</div>		 	
 
 		      <div class="unit whole">
