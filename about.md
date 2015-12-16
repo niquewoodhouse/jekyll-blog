@@ -94,16 +94,11 @@ layout: default
 
 	    	</div>
 
-	    	<div class="unit half fRight block">
+	    	<div class="unit half fRight ">
 	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
 	    	</div>	    	
 
-	    	<div class="unit one-quarter fRight">
-	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
-	    	</div>
-	    	<div class="unit one-quarter fRight">
-	    		<img src="http://antonandirene.com/upload/contact-photos/2.jpg"/>
-	    	</div>	    	
+   	
 	    </div>
 
 	    <div class="grid">
