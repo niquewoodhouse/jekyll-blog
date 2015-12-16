@@ -62,7 +62,7 @@ layout: default
 		</div>		 
 
 
-		<div class="grid ghost">
+		<div class="grid">
 	      <div class="unit half">
 	        <ul class="blockLi list mediumGapBott">
 	        	<li>Focus</li>
@@ -100,6 +100,16 @@ layout: default
 	    		<img src="http://antonandirene.com/upload/contact-photos/2.jpg"/>
 	    	</div>	    	
 	    </div>
+
+	    <div class="grid">
+	    	<div class="unit one-quarter fRight">
+	    		<img src="http://antonandirene.com/upload/contact-photos/1.jpg"/>
+	    	</div>
+	    	<div class="unit one-quarter fRight">
+	    		<img src="http://antonandirene.com/upload/contact-photos/3.jpg"/>
+	    	</div>	   	    	
+	    </div>
+
 
 </div>
 
