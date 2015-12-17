@@ -73,7 +73,7 @@ ul.recentWork a {
 }
 
 
-.wirewax .pFocus {
+.pFocus {
     font-weight: 900;
     margin: 50px 0px;
     border-left: 5px solid #7bafa8;
@@ -81,19 +81,19 @@ ul.recentWork a {
     padding:20px; 
 }
 
-.wirewax .bigNo {
+.bigNo {
     font-size: 10em;
     font-weight: 900;
     left:13%;
     z-index: 90;
 }
 
-.wirewax .whole .bigNo {
+.whole .bigNo {
     left:auto !important;
     opacity:0.2;
 }
 
-.wirewax .sectionTitle {
+.sectionTitle {
     top:60px;
     left:24px;
     line-height:250%;
@@ -101,7 +101,7 @@ ul.recentWork a {
     width:16%;
 }
 
-.wirewax .whole .sectionTitleAlt {
+.whole .sectionTitleAlt {
     left:auto !important;
     border-bottom:0px;
     top:64px;
