@@ -53,9 +53,10 @@ body {
 
 ul.nav a {text-decoration: none !important;border:none !important;}
 
-ul.nav a {
-    font-size:14px;
+ul.nav a, .nav-header .logo {
+    font-size:1rem;
 }
+
  
 ul.recentWork span.title, .workWide span.title {
     font-size: 2rem;

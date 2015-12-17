@@ -8,16 +8,13 @@ a.current {
 	color:#c69c6d;
 }
 
-.nav-header {
-	font-size:1.25rem;
-}
 
 
 nav.header a.logo {
 	float:left;
 	border-bottom-width:0px;
 	padding-bottom: 0px;
-	width:90px;
+	width:100px;
 	overflow:hidden;
 	padding-left:50px;
 }
@@ -38,7 +35,7 @@ nav.header a.logo:hover:before {
 	width: 39vw;
     -webkit-transform: translate3d(140px,0px,0);
     transform: translate3d(140px,0px,0);
-    background:pink;
+    background:#FFCC00;
 }
 
 nav.header ul.nav {
