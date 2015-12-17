@@ -231,17 +231,20 @@ ul.recentWork li a:after {
 .workWide .grid:before {
 
 	content:"";
-	
 	display:block;
-	
 	margin:20px 10px;
-	
 	width: 2vw;
     height: 2px;
     left:0px;
     background: #c69c6d;
     transition: color 1s cubic-bezier(.19,1,.22,1),-webkit-transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
     transition: color 1s cubic-bezier(.19,1,.22,1),transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
+}
+
+.workWide .grid:hover:before {
+	width: 39vw;
+    -webkit-transform: translate3d(140px,0px,0);
+    transform: translate3d(140px,0px,0);
 }
 
 .workWide .wideOverlay {
