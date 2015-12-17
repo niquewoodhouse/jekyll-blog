@@ -229,12 +229,19 @@ ul.recentWork li a:after {
 }
 
 .workWide .grid:before {
+
 	content:"";
-	height:15px;
+	
 	display:block;
-	width:30px;
+	
 	margin:20px 10px;
-	border-bottom:5px solid rgba(255, 255, 255, 1);
+	
+	width: 2vw;
+    height: 2px;
+    left:0px;
+    background: #c69c6d;
+    transition: color 1s cubic-bezier(.19,1,.22,1),-webkit-transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
+    transition: color 1s cubic-bezier(.19,1,.22,1),transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
 }
 
 .workWide .wideOverlay {
