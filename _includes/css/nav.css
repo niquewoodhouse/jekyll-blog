@@ -35,7 +35,7 @@ nav.header a.logo:hover:before {
 	width: 39vw;
     -webkit-transform: translate3d(140px,0px,0);
     transform: translate3d(140px,0px,0);
-    background:#FFCC00;
+    
 }
 
 nav.header ul.nav {
