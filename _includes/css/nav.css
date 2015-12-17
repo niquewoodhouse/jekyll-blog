@@ -16,6 +16,7 @@ a.current {
 nav.header a.logo {
 	float:left;
 	border-bottom-width:0px;
+	padding-bottom: 0px;
 }
 
 nav.header a.logo:before {
