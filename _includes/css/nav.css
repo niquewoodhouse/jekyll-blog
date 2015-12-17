@@ -15,6 +15,7 @@ a.current {
 
 nav.header a.logo {
 	float:left;
+	border-bottom-width:0px;
 }
 
 nav.header a.logo:before {
@@ -28,7 +29,7 @@ nav.header a.logo:before {
     transition: color 1s cubic-bezier(.19,1,.22,1),transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
 }
 
-nav.header a.logo:before {
+nav.header a.logo:hover:before {
 	width: 0vw;
     -webkit-transform: translate3d(140px,8px,0);
     transform: translate3d(140px,8px,0);
@@ -42,7 +43,7 @@ nav.header ul li {
 	margin:0 25px 0 0;
 }
 
-nav.header ul.nav a.current::after {
+nav.header ul.nav a.current:after {
 	content:"";
 	border-top:1px solid red;
 	width:100%;
