@@ -88,7 +88,7 @@ tags:
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="http://niquewoodhouse.github.io./i/project/wwx/folio2015_wwxProductIntro.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type, email (you've veeb tagged etc)
+		 		<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/slackEg.png"/> collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type, email (you've veeb tagged etc)
 		 	</div>
 		 </div>
 
