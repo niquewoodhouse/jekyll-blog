@@ -121,7 +121,10 @@ ul.recentWork a {
     -webkit-transform: rotate(90deg); /* Safari */
     transform: rotate(90deg); /* Standard syntax */
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 0.9m;
     line-height: 1.2em;
+    letter-spacing: 0.3em;
 }
+
+
 
