@@ -176,10 +176,10 @@ ul.list, nav.header ul.nav {
 	padding:0px;
 	margin:0px;
 }
-
+/*
 ul.list li:first-child {
 	margin:0 0 15px 0;
-}
+}*/
 
 ul.list li {
 	line-height:2em;
