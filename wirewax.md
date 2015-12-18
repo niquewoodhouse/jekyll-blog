@@ -146,22 +146,19 @@ tags:
 		 		</p>
 		 		<p class="mediumGapBott">
 		 			I like to reward &amp; re-assure users as early as possible with the core feature, so they can learn about features as they come up in their flow.  
-		 		</p> 	
+		 		</p> 			 		
+
+		 	</div>		
+
+
+		 	<div class="unit whole">
 							 <video class="shadow screeniOSVideo" autoplay loop>
 							  <source src="http://niquewoodhouse.github.io/assets/cards3.mp4" type="video/mp4">
 							  <source src="mov_bbb.ogg" type="video/ogg">
 							  Your browser does not support HTML5 video.
 							</video>		 		
+		 	</div> 	
 
-		 	</div>		 	
-
-		      <div class="unit whole">
-				<div class="iPad relative">
-					<div class="iPadDot absolute">
-					</div>
-				 	<img src="http://www.fillmurray.com/g/750/492"/>
-				</div>
-		    </div>	
 
 		 </div>	
 
