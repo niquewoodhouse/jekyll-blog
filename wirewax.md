@@ -22,14 +22,15 @@ tags:
 
 		<div class="grid ">
 				<div class="unit one-third relative">
+					<span class="bigNo absolute">01</span>
 					<h2>Challenges</h2>
 				</div>
 				 <div class="unit two-thirds">
 						<p class="lead mediumGapBott">
-							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs.  Premium users wanted to able 
+							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs. 
 						</p>
 						<p>
-							Premium users 
+							Premium users wanted to create completely bespoke interactive video advertising, while free users wanted to very simply add some interactivity to an existing video.  I'm 
 						</p>
 
 
@@ -330,6 +331,8 @@ tags:
 	<div class="grid bigGapBott bigGapTop">
 		{% include disclaimer.html %}
 	</div>
+
+	{{next_page}}
 
 </div>	
 <!--
