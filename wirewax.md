@@ -38,7 +38,7 @@ tags:
 			<div class="wideOverlay "> 
 					<div class="grid ghost">
 							<div class="unit one-third">
-								Premium users included
+								<h2>Premium users included</h2>
 							</div>
 							 <div class="unit two-thirds">
 									<p class="lead mediumGapBott">
