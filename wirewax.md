@@ -26,15 +26,12 @@ tags:
 					<h2>Challenges</h2>
 				</div>
 				 <div class="unit two-thirds">
-						<p class="lead mediumGapBott">
+						<p class="lead">
 							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs. 
 						</p>
-						<p>
+						<p class="smallGapBott">
 							Premium users wanted to create completely bespoke interactive video advertising &amp; I am priveleged to have designed something so many respected brands trusted.
-						
 						</p>
-
-
 				 </div>							 	
 	
 				<div class="unit whole">
@@ -42,8 +39,8 @@ tags:
 				</div>
 
 				<div class="unit two-thirds fRight">
-					<p class="lead mediumGapBott">
-						Free users just wanted to easily add some interactive element to existing videos.  
+					<p class="lead mediumGapBott mediumGapTop">
+						Free users just wanted to easily add some interactive element to existing videos, but have quick access to deeper tools. From a business point of view we wanted free users to be aware of select premium features they could subscribe to. This was a challenge to balance.
 					</p>
 				</div>
 		</div>
@@ -55,26 +52,26 @@ tags:
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
 			        	<li>"A beautiful free platform"</li>
-			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" target="_blank">@tiffy</a></li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="default" target="_blank">@tiffy</a></li>
 			        </ul>
 		       </div>
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
 			        	<li>"Really easy to use"</li>
-			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" target="_blank">@tiffy</a></li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="default" target="_blank">@tiffy</a></li>
 			        </ul>
 		       </div>			       		      		 	
 
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
 			        	<li>"In awe of the possibilities"</li>
-			        	<li><a href="https://twitter.com/showloveworld/status/571021022301954048" target="_blank">@showloveworld</a></li>
+			        	<li><a href="https://twitter.com/showloveworld/status/571021022301954048" class="default" target="_blank">@showloveworld</a></li>
 			        </ul>	
 		       </div>		
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
 			        	<li>"Really cool technology"</li>
-			        	<li><a href="https://twitter.com/KiraOConnor/status/557991587947368448" target="_blank">@Kira</a></li>
+			        	<li><a href="https://twitter.com/KiraOConnor/status/557991587947368448" class="default" target="_blank">@Kira</a></li>
 			        </ul>
 		       </div>		       	            
 		 </div>	 
@@ -87,7 +84,7 @@ tags:
 
 		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<span class="bigNo absolute">04</span>
+	    		<span class="bigNo absolute">02</span>
 	    		<h2>Design goals</h2>
 		 	</div>
 	
