@@ -43,7 +43,7 @@ layout: default
 		      </div>			
 		      <div class="unit two-thirds">
 			        <p>
-			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.
+			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
 			        <p>
 			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by esteemed brands such as Spotify, NBC Universal, Nike &amp; BBC.  
@@ -52,11 +52,9 @@ layout: default
 			        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 			        </p>
 			        <p>
-			        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I am hoping to spend 1 month p/a volunteering my skills to a charity, if you have a cause to suggest <a href="mailto:nique.shjm.woodhouse@gmail.com">please let me know</a>.
+			        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I spend 1 month p/a volunteering my skills to a charity, if you have a cause to nominate <a href="mailto:nique.shjm.woodhouse@gmail.com">let me know</a>.
 			        </p>
-			        <p>
-			        	If you have an interesting project, an RFP, or just need some help, reach out. I'm available. 
-			        </p>
+
 				</div>
 		</div>		 
 
