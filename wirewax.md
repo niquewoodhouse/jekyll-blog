@@ -30,26 +30,28 @@ tags:
 							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs. 
 						</p>
 						<p>
-							Premium users wanted to create completely bespoke interactive video advertising, while free users wanted to very simply add some interactivity to an existing video.  I'm 
+							Premium users wanted to create completely bespoke interactive video advertising &amp; I am priveleged to have designed something so many respected brands trusted.
+						
 						</p>
 
 
 				 </div>							 	
+	
+				<div class="unit whole">
+					<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png"/>
+				</div>
+
+				<div class="unit two-thirds fRight">
+					<p class="lead mediumGapBott">
+						Free users just wanted to easily add some interactive element to existing videos.  
+					</p>
+				</div>
 		</div>
 
 
-		<div class="grid">
-			<div class="unit whole">
-				<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png"/>
-			</div>
-		</div>
 
+		 <div class="grid mediumGapTop">
 
-
-		 <div class="grid bigGapTop">
-		      <div class="unit one-third">
-		        	<h2>Free user feedback</h2>
-		      </div>
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
 			        	<li>"A beautiful free platform"</li>
@@ -263,7 +265,7 @@ tags:
 
 
 		 <div class="grid bigGapTop bigGapBott"> 
-		 	<div class="unit whole relative">
+		 	<div class="unit one-third relative">
 		 		<span class="bigNo absolute w100 textCenter">
 		 			08
 		 		</span>
@@ -273,16 +275,12 @@ tags:
 		 	</div>
 		 </div>		 
 
-		 <div class="grid bigGapBott"> 
-		 	<div class="unit half fLeft">
+		 
+		 	<div class="unit two-thirds">
 		 		
 		 		<p class="w80 bigGapTopPad lineBefore">
 		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
 		 		</p>
-
-		 	</div>
-
-		 	<div class="unit one-third fRight">
 					<div class="iPhone relative">
 						<div class="iPhoneDot absolute">
 						</div>
@@ -293,12 +291,12 @@ tags:
 				 	</p>		 		
 		 	</div>
 
-		 </div>
+		 
 
 
 		 <div class="grid bigGapBott bigGapTop"> 
 
-		 	<div class="unit one-third fLeft">
+		 	<div class="unit whole fLeft">
 
 				 		<img src="http://www.fillmurray.com/g/750/492"/>
 				 	
@@ -317,15 +315,6 @@ tags:
 		 </div>
 
 
-		 <div class="grid"> 
-		 	<div class="unit half fRight">
-		 		
-		 		<p class="w80">
-		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
-		 		</p>
-
-		 	</div>		 	
-		 </div>
 
 
 	<div class="grid bigGapBott bigGapTop">
