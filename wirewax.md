@@ -34,7 +34,7 @@ tags:
 						</p>
 				 </div>							 	
 	
-				<div class="unit whole">
+				<div class="unit whole mediumGapBott">
 					<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png"/>
 				</div>
 
@@ -47,7 +47,7 @@ tags:
 
 
 
-		 <div class="grid mediumGapTop">
+		 <div class="grid mediumGapTop bigGapBott">
 
 		      <div class="unit one-quarter">
 			        <ul class="blockLi list">
