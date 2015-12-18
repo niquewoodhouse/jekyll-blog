@@ -116,3 +116,12 @@ ul.recentWork a {
     margin:30px 0;
 }
 
+.share {
+     -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Safari */
+    transform: rotate(90deg); /* Standard syntax */
+    text-transform: uppercase;
+    font-size: 1em;
+    line-height: 1.2em;
+}
+
