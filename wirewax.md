@@ -37,21 +37,6 @@ tags:
 		</div>
 
 
-		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png')">
-			<div class="wideOverlay "> 
-					<div class="grid ghost">
-							<div class="unit one-third">
-								<h2>Premium users included</h2>
-							</div>
-							 <div class="unit two-thirds">
-									<p class="lead mediumGapBott">
-										
-									</p>
-							 </div>							 	
-					</div>
-			</div>
-		</div>	
-
 		<div class="grid">
 			<div class="unit whole">
 				<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png"/>
@@ -348,7 +333,20 @@ tags:
 
 </div>	
 <!--
-
+		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png')">
+			<div class="wideOverlay "> 
+					<div class="grid ghost">
+							<div class="unit one-third">
+								<h2>Premium users included</h2>
+							</div>
+							 <div class="unit two-thirds">
+									<p class="lead mediumGapBott">
+										
+									</p>
+							 </div>							 	
+					</div>
+			</div>
+		</div>	
 
 		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io/jekyll-blog/assets/wirewax/clients.png')">
 		<div class="wideOverlay blackBg09"> 
