@@ -21,12 +21,15 @@ tags:
 
 
 		<div class="grid ">
-				<div class="unit one-third">
+				<div class="unit one-third relative">
 					<h2>Challenges</h2>
 				</div>
 				 <div class="unit two-thirds">
 						<p class="lead mediumGapBott">
-							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users.
+							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs.  Premium users wanted to able 
+						</p>
+						<p>
+							Premium users 
 						</p>
 
 
@@ -49,7 +52,11 @@ tags:
 			</div>
 		</div>	
 
-	
+		<div class="grid">
+			<div class="unit whole">
+				<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png"/>
+			</div>
+		</div>
 
 
 
