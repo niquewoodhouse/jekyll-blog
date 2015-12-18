@@ -349,14 +349,14 @@ tags:
 	</div>
 
 	<div class="grid">
-		<div class="unit one-thid">
+		<div class="unit one-third">
 		</div>
 		<div class="unit two-thirds">
 			<p>
 				you've made WIREWAX a much better thing. You'll not accept that, you'll maybe suggest it was a team effort and bouncing ideas off of others, but that's all part of it. Stick it and take it.
 			</p>
 		</div>
-		<div class="unit one-thid">
+		<div class="unit one-third">
 		</div>		
 	</div>
 
