@@ -28,21 +28,28 @@ tags:
 						<p class="lead mediumGapBott">
 							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  I've had the priveledge of designing a product trusted by some of the world's most renowned brands.
 						</p>
-						<img src="http://niquewoodhouse.github.io./jekyll-blog/wirewax/wwxClients.png"/>
+						<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/wwxClients.png"/>
 				 </div>							 	
 		</div>
-	
-		<div class="grid ">
-				<div class="unit one-third">
-					<h2>One in a million</h2>
+
+
+		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/wwxClients.png')">
+		<div class="wideOverlay "> 
+				<div class="grid ghost">
+						<div class="unit one-third">
+							
+						</div>
+						 <div class="unit two-thirds">
+								<p class="lead mediumGapBott">
+									
+								</p>
+						 </div>							 	
 				</div>
-				 <div class="unit two-thirds">
-						<p class="lead mediumGapBott">
-							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  I've had the priveledge of designing a product trusted by some of the world's most renowned brands.
-						</p>
-						<img src="http://niquewoodhouse.github.io./jekyll-blog/wirewax/wwxClients.png"/>
-				 </div>							 	
 		</div>
+	</div>	
+
+	
+
 
 
 		 <div class="grid bigGapTop">
