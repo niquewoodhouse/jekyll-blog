@@ -160,6 +160,10 @@ tags:
 		 	</div> 	
 
 
+		 	<div class="unit whole">
+		 		<img src="https://cdn-images-1.medium.com/max/2000/1*HBLB2yY_k8NicTZg17jDhQ.png"/>
+		 	</div>
+
 		 </div>	
 
 		<div class="grid bigGapTop">
