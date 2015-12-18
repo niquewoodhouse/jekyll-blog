@@ -22,31 +22,32 @@ tags:
 
 		<div class="grid ">
 				<div class="unit one-third">
-					<h2>One in a million</h2>
+					<h2>Challenges</h2>
 				</div>
 				 <div class="unit two-thirds">
 						<p class="lead mediumGapBott">
-							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  I've had the priveledge of designing a product trusted by some of the world's most renowned brands.
+							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users.
 						</p>
-						<img src="http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/wwxClients.png"/>
+
+
 				 </div>							 	
 		</div>
 
 
 		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png')">
-		<div class="wideOverlay "> 
-				<div class="grid ghost">
-						<div class="unit one-third">
-							
-						</div>
-						 <div class="unit two-thirds">
-								<p class="lead mediumGapBott">
-									
-								</p>
-						 </div>							 	
-				</div>
-		</div>
-	</div>	
+			<div class="wideOverlay "> 
+					<div class="grid ghost">
+							<div class="unit one-third">
+								Premium users included
+							</div>
+							 <div class="unit two-thirds">
+									<p class="lead mediumGapBott">
+										
+									</p>
+							 </div>							 	
+					</div>
+			</div>
+		</div>	
 
 	
 
@@ -54,7 +55,7 @@ tags:
 
 		 <div class="grid bigGapTop">
 		      <div class="unit one-third">
-		        	<h2>User feedback</h2>
+		        	<h2>Free user feedback</h2>
 		      </div>
 		      <div class="unit one-third fRight">
 			        <ul class="blockLi list">
