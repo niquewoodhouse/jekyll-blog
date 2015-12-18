@@ -92,20 +92,20 @@ tags:
 		 	<div class="unit two-thirds">
 		 		
 		 		<p>
-		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features, the more powerful a product is but without the correct goals in place this can lead to a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful to users.
+		 			The technology of Wirewax is incredibly complex &amp; feature rich.  People use products because they let them do what they came to do, simply.  The more features a product has the more powerful it is but without the correct goals in place you can get a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful &amp; easy to users.
 		 		</p>
 		 		<p>
-		 			In lots of these start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified coherent experience.  The best products let users think naturally and conform to us, not the other way around.  <span class="block pFocus">Show why the product is useful, not how.</span>  
+		 			In lots of start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified experience.  <span class="block pFocus"> The best products let users think naturally and conform to us, not the other way around.  Show why the product is useful, not how.</span>  
 		 		</p> 	
 		 		<p>
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  I try to hide the technology behind a simple human interface. That lets people focus on why they logged in in the first place.
+		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  My ultimate goal was to hide the technology behind a simple human interface. That lets people focus on why they signed up in the first place.
 		 		</p>
 		 	</div>		 	
 		 </div>	
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<span class="bigNo absolute">05</span>
+	    		<span class="bigNo absolute">03</span>
 	    		<h2>Spatial interfaces</h2>
 		 	</div>
 	
@@ -113,11 +113,11 @@ tags:
 		 	<div class="unit two-thirds">
 		 		
 		 		<p>
-		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are always within bigger things/spaces. For responsive interfaces breadcrumbs don't cut it.   I try to treat products I design like architecture - as if I'm making a home people will be living in for a lifetime.
+		 			People think in 3D spaces. Books are in bookcases, bath towels are in the bathroom, &amp; the bathroom is up the stairs.  Things are always within bigger things/spaces. For responsive interfaces, breadcrumbs don't cut it. I try to treat products I design like architecture - as if I'm making a home people might be living in for a lifetime.
 		 		</p>
 		 		<p>
-		 			It involves planning as there’s many things to consider: building a foundation to support an entire project and its design, thinking about users, how they will interact with it, what they need at each step &amp; designing everything in modules to allow flexibility for the future.  This helps me organise the user interface spatially.
-		 			<span class="block pFocus">I leverage the universal language of animation to explain location &amp; logic</span> 
+		 			It involves building a foundation to support an entire project and its design, thinking how users will interact with it, what they need at each step &amp; designing in modules to allow flexibility for the future.  This helps me organise the user interface spatially.
+		 			<span class="block pFocus">I leverage the universal language of animation to explain location &amp; logic.</span> 
 		 		</p> 	
 
 		 	</div>		 	
@@ -132,7 +132,38 @@ tags:
 
 		 </div>		
 
+ 		 <div class="grid bigGapTop bigGapBott"> 
+		 	<div class="unit one-third relative">
+	    		<span class="bigNo absolute">04</span>
+	    		<h2>First time</h2>
+		 	</div>
+	
 
+		 	<div class="unit two-thirds">
+		 		
+		 		<p>
+		 			Educating users is often reduced to the easiest solution - a lengthy onboarding tour that explains every major feature, outside of its context.
+		 		</p>
+		 		<p class="mediumGapBott">
+		 			I like to reward &amp; re-assure users as early as possible with the core feature, so they can learn about features as they come up in their flow.  
+		 		</p> 	
+							 <video class="shadow screeniOSVideo" autoplay loop>
+							  <source src="http://niquewoodhouse.github.io/assets/cards3.mp4" type="video/mp4">
+							  <source src="mov_bbb.ogg" type="video/ogg">
+							  Your browser does not support HTML5 video.
+							</video>		 		
+
+		 	</div>		 	
+
+		      <div class="unit whole">
+				<div class="iPad relative">
+					<div class="iPadDot absolute">
+					</div>
+				 	<img src="http://www.fillmurray.com/g/750/492"/>
+				</div>
+		    </div>	
+
+		 </div>	
 
 		<div class="grid bigGapTop">
 
