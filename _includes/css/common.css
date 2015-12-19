@@ -156,6 +156,8 @@ a:hover {
 	padding-bottom:200px !important;
 }
 
+.mAuto {margin: 0 auto;}
+
 /* Positions */
 
 .fixed {
