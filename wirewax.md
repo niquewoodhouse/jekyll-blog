@@ -349,16 +349,23 @@ tags:
 	</div>
 
 	<div class="grid">
-		<div class="unit one-third">
-		</div>
-		<div class="unit two-thirds">
-			<p>
-				you've made WIREWAX a much better thing. You'll not accept that, you'll maybe suggest it was a team effort and bouncing ideas off of others, but that's all part of it. Stick it and take it.
+
+      <div class="unit one-third relative">
+      	<span class="bigNo absolute">07</span>
+      	<h5>Lessons learned</h5>
+      </div>
+
+
+		<div class="unit whole">
+			<p class="w80 mAuto">
+				How to manage &amp; educated internally upwards.  This was a big change in process for me.  At agencies you have account managers who will help sell your designs to the client &amp; project managers who will organise everything.  At Wirewax I had no one to sell for me; no one to project manage.  
 			</p>
-			<p>Dan, Co-founder</p>
+			<p class="80 mAuto">
+				"You've made WIREWAX a much better thing. You'll not accept that, you'll maybe suggest it was a team effort &amp; bouncing ideas off of others, but stick it and take it."
+			</p>
+			<p class="80 mAuto">Dan, Co-founder</p>
 		</div>
-		<div class="unit one-third">
-		</div>		
+	
 	</div>
 
 	{{next_page}}
