@@ -15,7 +15,7 @@ body-class: wider
 					 		<div class="wideOverlay blackBg09">
 							 	<div class="grid">
 								 		<div class="unit one-quarter">
-											<span class="counter">{{ page.date | date: '%B %d, %Y' }}</span>								 			
+											<span class="counter">{{ post.date | date: '%B %d, %Y' }}</span>								 			
 								 		</div>
 							 			<div class="unit three-quarters">
 											<span class="counter fLeft">{{ counter }}</span>
