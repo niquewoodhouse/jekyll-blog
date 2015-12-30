@@ -7,7 +7,20 @@ layout: default
 
 <div class="wider">
 
-
+		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://niquewoodhouse.github.io./jekyll-blog/assets/wirewax/clients.png')">
+			<div class="wideOverlay "> 
+					<div class="grid ghost">
+							<div class="unit one-third">
+								<h2>Premium users included</h2>
+							</div>
+							 <div class="unit two-thirds">
+									<p class="lead mediumGapBott">
+										
+									</p>
+							 </div>							 	
+					</div>
+			</div>
+		</div>	
 
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
@@ -46,7 +59,7 @@ layout: default
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
 			        <p>
-			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by esteemed brands such as Spotify, NBC Universal, Nike &amp; BBC.  
+			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by respected brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
 					<p>
 			        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
@@ -149,4 +162,9 @@ layout: default
 				<h1 class="intro-heading tCenter">Instagram</h1>
 			</div>
 </div>
+
+
+
+
+
 -->
