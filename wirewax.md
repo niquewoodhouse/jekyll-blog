@@ -134,8 +134,8 @@ tags:
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<span class="bigNo2 absolute">04</span>
-	    		<h4 class="absolute NinetyDegTitle gold">First time</h4>
+	    		<span class="bigNo2 none">04</span>
+	    		<h4 class=" NinetyDegTitle gold"> <span style="">04.</span> First time</h4>
 		 	</div>
 
 		 	<div class="unit two-thirds">		 		
