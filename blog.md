@@ -17,7 +17,7 @@ body-class: wider
 								 		<div class="unit one-quarter">
 											<span class="counter">{{ page.date | date: '%B %d, %Y' }}</span>								 			
 								 		</div>
-							 			<div class="unit whole">
+							 			<div class="unit three-quarters">
 											<span class="counter fLeft">{{ counter }}</span>
 											<span class="title block">{{post.title}}</span>
 											<span class="subtitle block">{{post.subTitle}}</span>
