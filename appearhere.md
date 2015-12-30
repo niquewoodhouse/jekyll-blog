@@ -8,7 +8,7 @@ meta: Responsive website campaign
 longTitle: Showcasing the highs of 2015 & inspiring for 2016
 year: 2015
 role: Designer
-jobRole: UX/UI, Motion Prototypes
+jobRole: UX/UI, Art Direction, Motion 
 jobOutput: Responsive design, Video
 tags: 
 - work
