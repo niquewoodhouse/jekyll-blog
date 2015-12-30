@@ -3,8 +3,7 @@ layout: default
 body-class: wider
 ---
 
-<p>
-	hello</p>
+
 
 <div class="wider midnight">
 		
@@ -15,6 +14,9 @@ body-class: wider
 					 	<div class="workWide" style="background-image:url('{{post.featureImg}}');">
 					 		<div class="wideOverlay blackBg09">
 							 	<div class="grid">
+								 		<div class="unit one-quarter">
+											<span class="counter">{{ page.date | date: '%B %d, %Y' }}</span>								 			
+								 		</div>
 							 			<div class="unit whole">
 											<span class="counter fLeft">{{ counter }}</span>
 											<span class="title block">{{post.title}}</span>
