@@ -3,14 +3,15 @@ layout: default
 body-class: wider
 ---
 
-hello
+<p>
+	hello</p>
 
 <div class="wider midnight">
 		
 			
 				
 					{% for post in site.categories.blog limit:5 %}
-					 <a href="{{site.baseurl}}/{{post.url}} ">
+					 <a href="{{site.baseurl}}/jekyll-blog/{{post.url}} ">
 					 	<div class="workWide" style="background-image:url('{{post.featureImg}}');">
 					 		<div class="wideOverlay blackBg09">
 							 	<div class="grid">
