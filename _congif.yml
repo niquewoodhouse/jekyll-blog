@@ -1,6 +1,6 @@
 markdown: redcarpet
 title: Nique Woodhouse
-baseurl: http://niquewoodhouse.github.io/jekyll-blog/
+baseurl: /jekyll-blog
 exclude: ['README.md']
 permalink: pretty
 email: nique.shjm.woodhouse@gmail.com
