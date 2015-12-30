@@ -158,6 +158,12 @@ a:hover {
 
 .mAuto {margin: 0 auto;}
 
+.mTopNone {margin-top:0px !important;}
+
+/* Cursor */
+
+.pointer {cursor:pointer;}
+
 /* Positions */
 
 .fixed {
@@ -171,6 +177,8 @@ a:hover {
 .fLeft {
 	float:left !important;
 }
+
+.z201 {z-index: 201;}
 
 /* uls */
 
@@ -230,10 +238,6 @@ ul.recentWork li a:after {
 	background-repeat:no-repeat;
 }
 
-.workWide .counter {
-	display:none;
-}
-
 .workWide .grid:before {
 
 	content:"";
@@ -262,7 +266,7 @@ ul.recentWork li a:after {
 
 .share {right:5px;top:45%;width:100px;}
 
-.share:hover {right:30px;width:200px;}
+.share:hover {right:8px;width:100px;}
 
 .share:before {
 	content: "";

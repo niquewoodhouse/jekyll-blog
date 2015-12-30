@@ -2,7 +2,7 @@
 layout: work
 title: Nickelodeon
 meta: Responsive video editing platform
-subtitle: Responsive video editing platform
+subtitle: Games & sites for kiddies
 categories: work case
 longTitle: Fun for kiddies. 
 year: 2012

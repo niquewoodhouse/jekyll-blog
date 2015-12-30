@@ -1,27 +1,21 @@
 <div class="wider ligGreyToWhite bigGapBott">
-		<div class="grid">
-		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.title }}</h1>
-		      </div>
-		 </div>
-		<div class="grid">
-
-		      <div class="unit one-quarter">
-		      	<ul class="blockLi list">
-		      		
-		      		<li>{{ page.date | date: '%B %d, %Y' }}</li>
-		      	</ul>		      	
-		      </div>
-
-		      <div class="unit three-quarters">
-		      	<ul class="blockLi list">
-		      		
-		      		<li>{{page.subTitle}}</li>
-		      	</ul>		      	
-		      </div>
-		      
-	            		      		      
-		 </div>		 
+	<div class="grid">
+	      <div class="unit whole center-on-mobiles">
+	        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.title }}</h1>
+	      </div>
+	 </div>
+	<div class="grid">
+	      <div class="unit one-quarter">
+	      	<ul class="blockLi list">	
+	      		<li>{{ page.date | date: '%B %d, %Y' }}</li>
+	      	</ul>		      	
+	      </div>
+	      <div class="unit three-quarters">
+	      	<ul class="blockLi list">	
+	      		<li>{{page.subTitle}}</li>
+	      	</ul>		      	
+	      </div>   		      		      
+	 </div>		 
 </div>		 
 
 {% assign post = page %}

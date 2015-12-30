@@ -22,7 +22,7 @@ nav.header a.logo {
 nav.header a.logo:before {
 	content: "";
     position: absolute;
-    top: 8px;
+    top: 7px;
     width: 2vw;
     height: 2px;
     left:-20px;

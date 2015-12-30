@@ -2,7 +2,7 @@
 layout: work
 title: Den
 meta: Responsive video editing platform
-subtitle: Responsive video editing platform
+subtitle: Plant care app
 categories: work case
 longTitle: The first ever free HTML5 video editor that makes anything in any video interactive. 
 year: 2015
@@ -13,3 +13,5 @@ featureImg: https://images.unsplash.com/photo-1424772684780-a05a720ff374?crop=en
 tags:
 - work
 ---
+
+<p>lol</p>

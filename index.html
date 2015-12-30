@@ -7,7 +7,7 @@ body-class: wider
 		<div class="grid bigGapBott bigGapTop">
 		      <div class="unit whole center-on-mobiles">
 		        <h1 class="bigGapTop mediumGapBott">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
-		        <p class="lead">Independent <a href="/profile">designer</a> focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. </p>
+		        <p class="lead">Independent <a href="/about">designer</a> focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. </p>
 		      </div>
 		 </div>
 </div>	
@@ -17,29 +17,31 @@ body-class: wider
 <div class="wider midnight">
 		
 			
-				<h4 class="none">Selected work</h4><a name="work"></a>
-					{% assign counter = '0' %}
-					{% for page in site.pages %}
-					{% for tag in page.tags %}
-					{% if tag == "work" and counter < '5' %}
-					    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-					 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
-					 	<div class="workWide" style="background-image:url('{{page.featureImg}}');">
-					 		<div class="wideOverlay blackBg09">
-							 	<div class="grid">
-							 			<div class="unit whole">
-											<span class="counter fLeft">{{ counter }}</span>
-											<span class="title block">{{page.title}}</span>
-											<span class="subtitle block">{{page.subtitle}}</span>
-							 			</div>	
-								</div>
-							</div>	
-						</div>
-					</a>
+		<h4 class="none">Selected work</h4><a name="work"></a>
+		{% assign counter = '0' %}
+		{% for page in site.pages %}
+		{% for tag in page.tags %}
+		{% if tag == "work" and counter < '5' %}
+		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+		 <a href="{{ page.permalink | prepend: site.baseurl }}/{{page.url}}">
+		 	<div class="workWide selectWorks" style="background-image:url('{{page.featureImg}}');">
+		 		<div class="wideOverlay blackBg09">
+				 	<div class="grid">
+				 			<div class="unit one-quarter">
+				 				<span class="counter">{{ counter }}</span>
+				 			</div>
+				 			<div class="unit two-thirds">
+								<span class="title block">{{page.title}}</span>
+								<span class="subtitle block">{{page.subtitle}}</span>
+				 			</div>	
+					</div>
+				</div>	
+			</div>
+		</a>
 
-					{% endif %}
-					{% endfor %}
-					{% endfor %}
+		{% endif %}
+		{% endfor %}
+		{% endfor %}
 
 			
 		 
