@@ -3,6 +3,8 @@ layout: default
 body-class: wider
 ---
 
+hello
+
 <div class="wider midnight">
 		
 			
