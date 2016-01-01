@@ -1,8 +1,29 @@
 ---
 layout: default
+featureImg: assets/peaceYo.jpg
 ---
 
-
+<div class="wider ligGreyToWhite bigGapBott" style="background-image:url('{{ page.featureImg}}')">
+	<div class="wideOverlay whiteBg09">
+		<div class="grid">
+		      <div class="unit whole center-on-mobiles">
+		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.longTitle }}</h1>
+		      </div>
+		 </div>
+		<div class="grid">
+		      <div class="unit one-quarter">
+		      	<ul class="blockLi list">
+		      		<li>{{ page.jobRole }}</li> 		
+		      	</ul>
+		      </div>
+		      <div class="unit one-quarter">
+		      	<ul class="blockLi list">
+		      		<li>{{ page.year }}</li>
+		      	</ul>		      	
+		      </div>	            		      		      
+		 </div>
+	</div>		 
+</div>		
 
 
 <div class="wider">
