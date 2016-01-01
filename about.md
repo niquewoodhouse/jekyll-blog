@@ -18,14 +18,15 @@ featureImg: assets/peaceYo.jpg
 		     </div>  
 			<div class="unit one-third bigGapBott">
 			      	<ul class="blockLi list">
-			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
-			      		<li><a href="http://twitter.com/niquewoodhouse">Twitter @niquewoodhouse</a></li>	
+			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
+			      		<li><a href="http://twitter.com/niquewoodhouse">Twitter</a></li>	
 			      	</ul>	
 		     </div> 
 			<div class="unit one-third bigGapBott">
 			      	<ul class="blockLi list">
-			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
-			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>	
+			      		<li><a href="tel:44747888909">+44 7478 888909</a></li>	
+			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>
+			      			
 			      	</ul>	
 		     </div>  		      		               		      		      
 		 </div>
@@ -34,23 +35,7 @@ featureImg: assets/peaceYo.jpg
 
 
 <div class="wider">
-
-
-		<div class="grid bigGapBott">
-		      <div class="unit one-third relative">
-		      	<span class="bigNo absolute">01</span>
-	    		<h2>Contact</h2> 
-		      </div>
-		      <div class="unit one-third">	
-	            	
-		      </div>		      
-
-		      <div class="unit one-third">
-		      	<ul class="blockLi list">
-		      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
-		      	</ul>		      	
-		      </div>		            		      		      
-		 </div>		 		 
+ 		 
 
 		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
