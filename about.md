@@ -47,13 +47,13 @@ featureImg: assets/peaceYo.jpg
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
 			        <p class="w80 fRight">
-			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by respected brands like Spotify, NBC Universal, Nike &amp; BBC.  
+			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
 					<p class="w80 fRight">
-			        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
+			        	I'm honored by the high regard we were held by global creative agencies, their clients &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 			        </p>
 			        <p class="w80 fRight">
-			        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I spend 1 month p/a volunteering my skills to a charity, if you have a cause to nominate <a href="mailto:nique.shjm.woodhouse@gmail.com">let me know</a>.
+			        	Today I create my own products from my London studio, alongside helping others with theirs around the world.  
 			        </p>
 
 				</div>
@@ -67,7 +67,7 @@ featureImg: assets/peaceYo.jpg
 	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
 	        
-	        	<li>User centered product design</li>
+	        	<li>Human centered product design</li>
 	        	<li>User research &amp; testing</li>
 	        	<li>Data visualisation </li>
 	        	<li>Interfaces &amp; interaction </li>
