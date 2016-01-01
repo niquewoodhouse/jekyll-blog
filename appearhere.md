@@ -15,7 +15,7 @@ tags:
 featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
 ---
 
-<img src="assets/appearhere/Frame1.png"/>
+<img class="shadow" src="assets/appearhere/Frame1.png"/>
 
 
 <div class="wider">
