@@ -23,7 +23,7 @@ body-class: wider
 		{% for tag in page.tags %}
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-		 <a href="{{ site.baseurl }}/{{page.url}}">
+		 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
 		 	<div class="workWide selectWorks" style="background-image:url('{{page.featureImg}}');">
 		 		<div class="wideOverlay blackBg09">
 				 	<div class="grid">
