@@ -15,7 +15,19 @@ featureImg: assets/peaceYo.jpg
 		        <h1 class="bigGapTop mediumGapBott ">
 		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
-		     </div>            		      		      
+		     </div>  
+			<div class="unit one-third bigGapBott">
+			      	<ul class="blockLi list">
+			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
+			      		<li><a href="http://twitter.com/niquewoodhouse">Twitter @niquewoodhouse</a></li>	
+			      	</ul>	
+		     </div> 
+			<div class="unit one-third bigGapBott">
+			      	<ul class="blockLi list">
+			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
+			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>	
+			      	</ul>	
+		     </div>  		      		               		      		      
 		 </div>
 	</div>		 
 </div>		
@@ -30,10 +42,7 @@ featureImg: assets/peaceYo.jpg
 	    		<h2>Contact</h2> 
 		      </div>
 		      <div class="unit one-third">	
-			      	<ul class="blockLi list">
-			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>	
-			      		<li><a href="http://twitter.com/niquewoodhouse">@niquewoodhouse</a></li>	
-			      	</ul>		            	
+	            	
 		      </div>		      
 
 		      <div class="unit one-third">
