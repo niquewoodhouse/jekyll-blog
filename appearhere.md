@@ -15,11 +15,7 @@ tags:
 featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
 ---
 
-<div class="wider">
-	<div class="grid bigGapBott bigGapTop">
-		{% include disclaimer.html %}
-	</div>
-</div>
+<img src="assets/appearhere/Frame1.png"/>
 
 
 <div class="wider">
@@ -39,6 +35,8 @@ featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%
 
 
 
-
+	<div class="grid bigGapBott bigGapTop">
+		{% include disclaimer.html %}
+	</div>
 
 </div>

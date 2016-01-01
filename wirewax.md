@@ -353,6 +353,37 @@ tags:
 
 <!--
 
+		 <div class="grid mediumGapTop bigGapBott">
+		      <div class="unit one-quarter">
+			        <ul class="blockLi list">
+			        	<li>"A beautiful free platform"</li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="default gold" target="_blank">@tiffy</a></li>
+			        </ul>
+		       </div>
+		      <div class="unit one-quarter">
+			        <ul class="blockLi list">
+			        	<li>"Really easy to use"</li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="gold default" target="_blank">@tiffy</a></li>
+			        </ul>
+		       </div>			       		      		 	
+		      <div class="unit one-quarter">
+			        <ul class="blockLi list">
+			        	<li>"In awe of the possibilities"</li>
+			        	<li><a href="https://twitter.com/showloveworld/status/571021022301954048" class="gold default" target="_blank">@showloveworld</a></li>
+			        </ul>	
+		       </div>		
+		      <div class="unit one-quarter">
+			        <ul class="blockLi list">
+			        	<li>"Really cool technology"</li>
+			        	<li><a href="https://twitter.com/KiraOConnor/status/557991587947368448" class="gold default" target="_blank">@Kira</a></li>
+			        </ul>
+		       </div>		       	            
+		 </div>	 
+
+
+
+
+
 
 			<div class="unit half">
 				<p class="w80 mAuto smallGapBott">
