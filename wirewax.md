@@ -78,7 +78,7 @@ tags:
 
 		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<h4 class="absolute NinetyDegTitle"><span class="gold">02</span> Design goals</h4>
+	    		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">02</span> Design goals</h4>
 		 	</div>
 
 		 	<div class="unit half fRight">	 		
