@@ -26,8 +26,7 @@ featureImg: assets/peaceYo.jpg
 			<div class="unit one-quarter bigGapBott">
 			      	<ul class="blockLi list">
 			      		<li><a href="tel:44747888909">+44 7478 888909</a></li>	
-			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>
-			      			
+			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
 			      	</ul>	
 		     </div>  		      		               		      		      
 		 </div>
@@ -62,21 +61,11 @@ featureImg: assets/peaceYo.jpg
 
 		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
-		      		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">02</span> Focuses &amp; Awards</h4>	
+		      		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">02</span> Awards</h4>	
 		      </div>				
-	      <div class="unit one-third">
-	        <ul class="blockLi list mediumGapBott">
-	        
-	        	<li>Human centered product design</li>
-	        	<li>User research &amp; testing</li>
-	        	<li>Data visualisation </li>
-	        	<li>Interfaces &amp; interaction </li>
-	        	<li>Responsive &amp; native design</li>
-	        	<li>Identity &amp; branding</li>
-	        </ul>
-	      </div>
-	      <div class="unit one-third">
-	        <ul class="blockLi list mediumGapBott">
+
+	      <div class="unit two-thirds">
+	        <ul class="w80 fRight blockLi list mediumGapBott">
 	        	
 	        	<li>1x Awwwards Honorable Mention</li>
 	        	<li>1x OnePage Most Loved of the Year</li>
