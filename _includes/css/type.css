@@ -24,6 +24,8 @@ h4 {
     text-transform: uppercase;
     font-size: 1em;
     line-height: 1.2em;
+    transform-origin: left top 0;
+    float: left;
 }
 
 h4.NinetyDegTitle {
