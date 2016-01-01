@@ -19,8 +19,7 @@ tags:
 
 		<div class="grid">
 				<div class="unit one-third relative">
-					<span class="bigNo2 absolute">01</span>
-					<h2>Challenges</h2>
+					<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Challenges</h4>
 				</div>
 				 <div class="unit two-thirds">
 						<p class="lead">
