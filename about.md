@@ -43,16 +43,16 @@ featureImg: assets/peaceYo.jpg
 				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Profile</h4>	    		
 		      </div>			
 		      <div class="unit two-thirds">
-			        <p>
+			        <p class="w80 fRight mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
-			        <p>
+			        <p class="w80 fRight">
 			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by respected brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
-					<p>
+					<p class="w80 fRight">
 			        	I'm honored by both the high regard we were held by global creative agencies &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 			        </p>
-			        <p>
+			        <p class="w80 fRight">
 			        	Today I design &amp; develop my own products from my London studio, alongside helping others with theirs.  I spend 1 month p/a volunteering my skills to a charity, if you have a cause to nominate <a href="mailto:nique.shjm.woodhouse@gmail.com">let me know</a>.
 			        </p>
 
