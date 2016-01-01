@@ -104,8 +104,7 @@ tags:
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<span class="bigNo2 absolute">03</span>
-	    		<h4 class="absolute NinetyDegTitle gold">Spatial interfaces</h4>
+	    		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">03</span> Spatial interfaces</h4>
 		 	</div>
 	
 		 	<div class="unit two-thirds">
