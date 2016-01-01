@@ -2,18 +2,18 @@
 	<div class="wideOverlay whiteBg09">
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.longTitle }}</h1>
+		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.title }}</h1>
 		      </div>
 		 </div>
 		<div class="grid">
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		<li>{{ page.jobRole }}</li> 		
+		      		<li>{{ page.date | date: '%B %d, %Y' }}</li> 		
 		      	</ul>
 		      </div>
 		      <div class="unit one-quarter">
 		      	<ul class="blockLi list">
-		      		<li>{{ page.year }}</li>
+		      		<li>{{page.subTitle}}</li>
 		      	</ul>		      	
 		      </div>	            		      		      
 		 </div>
