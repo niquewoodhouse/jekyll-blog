@@ -16,6 +16,7 @@ featureImg: assets/peaceYo.jpg
 		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		     </div>  
+		     <div class="unit one-third"></div>
 			<div class="unit one-third bigGapBott">
 			      	<ul class="blockLi list">
 			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
