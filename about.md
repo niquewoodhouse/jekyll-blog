@@ -11,16 +11,10 @@ featureImg: assets/peaceYo.jpg
 		      </div>
 		 </div>
 		<div class="grid">
-		      <div class="unit one-quarter">
-		      	<ul class="blockLi list">
-		      		<li>{{ page.jobRole }}</li> 		
-		      	</ul>
-		      </div>
-		      <div class="unit one-quarter">
-		      	<ul class="blockLi list">
-		      		<li>{{ page.year }}</li>
-		      	</ul>		      	
-		      </div>	            		      		      
+		        <h1 class="bigGapTop mediumGapBott ">
+		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+		        </h1>
+		      </div>            		      		      
 		 </div>
 	</div>		 
 </div>		
@@ -28,13 +22,6 @@ featureImg: assets/peaceYo.jpg
 
 <div class="wider">
 
-		<div class="grid">
-		      <div class="unit whole center-on-mobiles">
-		        <h1 class="bigGapTop mediumGapBott ">
-		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
-		        </h1>
-		      </div>
-		 </div>
 
 		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
