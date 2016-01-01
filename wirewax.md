@@ -131,8 +131,7 @@ tags:
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
-	    		<span class="bigNo2 absolute">04</span>
-	    		<h4 class="absolute NinetyDegTitle gold"> 04. First time</h4>
+		 		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">04</span> First time</h4>
 		 	</div>
 
 		 	<div class="unit two-thirds">		 		
@@ -161,8 +160,7 @@ tags:
 		<div class="grid bigGapTop">
 
 		      <div class="unit one-third relative">
-		      	<span class="bigNo2">06</span>
-		      	<h4 class="absolute NinetyDegTitle gold">Project management</h4>	      	
+		      	<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">06</span> Project management</h4>	      	
 		      </div>
 		      <div class="unit two-thirds">
 		      	<p class="mTopNone w80 fRight">
@@ -202,8 +200,7 @@ tags:
 
 		<div class="grid"> 
 			<div class="unit whole bigGapTop bigGapBott relative">
-				<span class="bigNo2 absolute shark">05</span>
-				<span class="sectionTitle absolute uppercase shark">Iconography</span>
+				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">07</span> Iconography</h4>
 			</div>
 			<div class="unit one-quarter">
 				Icon 1.

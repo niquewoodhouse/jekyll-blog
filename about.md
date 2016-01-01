@@ -40,8 +40,7 @@ featureImg: assets/peaceYo.jpg
 
 		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
-		      	<span class="bigNo absolute">02</span>
-	    		<h2>Profile</h2> 
+				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Profile</h4>	    		
 		      </div>			
 		      <div class="unit two-thirds">
 			        <p>
@@ -63,8 +62,7 @@ featureImg: assets/peaceYo.jpg
 
 		<div class="grid bigGapBott">
 		      <div class="unit one-third relative">
-		      	<span class="bigNo absolute">03</span>
-	    		<h2>Focuses &amp; Recognition</h2> 
+		      		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">02</span> Focuses &amp; Awards</h4>	
 		      </div>				
 	      <div class="unit one-third">
 	        <ul class="blockLi list mediumGapBott">
@@ -92,10 +90,7 @@ featureImg: assets/peaceYo.jpg
 
 	    <div class="grid">
 	    	<div class="unit one-third relative">
-	    		<span class="bigNo absolute">04</span>
-	    		<h2>Studio</h2>
-
-
+	    		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">03</span> Studio</h4>	
 	    	</div>
 
 	    	<div class="unit two-thirds fRight ">
