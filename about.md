@@ -16,14 +16,14 @@ featureImg: assets/peaceYo.jpg
 		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		     </div>  
-		     <div class="unit one-third"></div>
-			<div class="unit one-third bigGapBott">
+		     <div class="unit one-quarter"></div>
+			<div class="unit one-quarter bigGapBott">
 			      	<ul class="blockLi list">
 			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
 			      		<li><a href="http://twitter.com/niquewoodhouse">Twitter</a></li>	
 			      	</ul>	
 		     </div> 
-			<div class="unit one-third bigGapBott">
+			<div class="unit one-quarter bigGapBott">
 			      	<ul class="blockLi list">
 			      		<li><a href="tel:44747888909">+44 7478 888909</a></li>	
 			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>
