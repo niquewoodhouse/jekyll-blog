@@ -9,7 +9,7 @@ year: 2015
 role: Creative Director
 jobRole: Creative Director, <br>Product UX/UI Designer
 jobOutput: Native responsive platform, <br>iOS App designs, branding
-featureImg: assets/wirewax/clients.png
+featureImg: http://www.baptisteringot.com/img/nrk/nrk_1.jpg
 tags:
 - work
 ---
