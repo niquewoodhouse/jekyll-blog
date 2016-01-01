@@ -22,10 +22,10 @@ tags:
 					<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Challenges</h4>
 				</div>
 				 <div class="unit two-thirds">
-						<p class="lead">
+						<p class="lead w80 fRight">
 							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs. 
 						</p>
-						<p class="smallGapBott">
+						<p class="w80 fRight smallGapBott">
 							Premium users wanted to create completely bespoke interactive video advertising &amp; I am priveleged to have designed something so many respected brands trusted.
 						</p>
 				 </div>							 	
@@ -33,7 +33,7 @@ tags:
 					<img src="assets/wirewax/clients.png"/>
 				</div>
 				<div class="unit two-thirds fRight">
-					<p class="lead mediumGapBott mediumGapTop">
+					<p class="lead mediumGapBott mediumGapTop w80 fRight">
 						Free users just wanted to easily add some interactive element to existing videos, but have quick access to deeper tools. From a business point of view we wanted free users to be aware of select premium features they could subscribe to. This was a challenge to balance.
 					</p>
 				</div>
