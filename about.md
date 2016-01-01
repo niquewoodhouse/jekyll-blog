@@ -11,10 +11,11 @@ featureImg: assets/peaceYo.jpg
 		      </div>
 		 </div>
 		<div class="grid">
+			<div class="unit whole bigGapBott">
 		        <h1 class="bigGapTop mediumGapBott ">
 		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
-		      </div>            		      		      
+		     </div>            		      		      
 		 </div>
 	</div>		 
 </div>		
