@@ -98,6 +98,7 @@ tags:
 		 		<img src="assets/wirewax/iPadEg.png"/>
 		 		<p class="smallPrint mAuto w50 smallGapTop">
 		 			Clean and minimal interface / video of someone tagging something, picking template, altering it?
+		 		</p>
 		 	</div>	 	
 		 </div>
 
@@ -243,6 +244,7 @@ tags:
 			</div>													
 		</div>
 </div>
+
 <img src="assets/wirewax/Retreat1.jpg"/>
 
 <div>
