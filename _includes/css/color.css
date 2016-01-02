@@ -50,3 +50,10 @@ body {color:rgb(51, 51, 51);}
 }
 
 a.textShadow {text-shadow:rgb(255, 255, 255) 0.5px 0.5px, rgb(255, 255, 255) -0.5px 0.5px, rgb(255, 255, 255) 1px 1px, rgb(255, 255, 255) -1px 1px, rgb(255, 255, 255) 1.5px 1.5px, rgb(255, 255, 255) -1.5px 1.5px, rgb(255, 255, 255) 2px 2px, rgb(255, 255, 255) -2px 2px, rgb(255, 255, 255) 2.5px 2.5px, rgb(255, 255, 255) -2.5px 2.5px, rgb(255, 255, 255) 3px 3px, rgb(255, 255, 255) -3px 3px, rgb(255, 255, 255) 0px 0.5px, rgb(255, 255, 255) 0px 1px, rgb(255, 255, 255) 0px 1.5px, rgb(255, 255, 255) 0px 2px, rgb(255, 255, 255) 0px 2.5px, rgb(255, 255, 255) 0px 3px;}
+
+
+/* Borders */
+
+.ghostBorder {
+  border: 5px solid #fafafa;
+}
