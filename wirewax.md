@@ -99,7 +99,7 @@ tags:
 		 		<p class="smallPrint mAuto w50 smallGapTop">
 		 			Clean and minimal interface / video of someone tagging something, picking template, altering it?
 		 	</div>	 	
-		 </div>	
+		 </div>
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
@@ -141,19 +141,12 @@ tags:
 		 			I like to reward &amp; re-assure users as early as possible with the core feature, so they can learn about features as they come up in their flow.  
 		 		</p> 			 		
 		 	</div>		
-
 		 	<div class="unit whole">
 		 		<img src="assets/iceland/IMG_3956.jpg"/>
 		 		<p class="smallPrint mAuto w50 smallGapTop">
 		 			First time ux 
 		 		</p>	 		
 		 	</div> 	
-			<!--
-		 	<div class="unit whole">
-		 		<img src="https://cdn-images-1.medium.com/max/2000/1*HBLB2yY_k8NicTZg17jDhQ.png"/>
-		 	</div>
-		 	-->
-
 		 </div>	
 
 		<div class="grid bigGapTop">
@@ -196,9 +189,8 @@ tags:
 		       </div>		       	            
 		 </div>	 
 
-
 		<div class="grid"> 
-			<div class="unit whole bigGapTop bigGapBott relative">
+			<div class="unit one-third bigGapTop bigGapBott relative">
 				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">07</span> Iconography</h4>
 			</div>
 			<div class="unit one-quarter">
@@ -250,7 +242,9 @@ tags:
 				Icon 16.
 			</div>													
 		</div>
+</div>
 
+<div>
 		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
 			<div class="wideOverlay blackBg09"> 
 					<div class="grid ghost">
@@ -267,7 +261,10 @@ tags:
 							 </div>							 	
 					</div>
 			</div>
-		</div>		 
+		</div>	
+</div>
+
+<div class="wider">			 
 
 		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
@@ -282,7 +279,6 @@ tags:
 
 		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit two-thirds">
-		 		
 		 		<p class="w80 bigGapTopPad lineBefore">
 		 			Alongside designing the product, I designed numerous decks for sales, investment &amp; partnerships &amp; got to design features for the future.  It was nice to contrast the heavily iterative product process with rapid solo prototypes focused on innovation.
 		 		</p>
@@ -309,10 +305,11 @@ tags:
 		 			These ideas would be to sell the product to investers &amp; internally to excite employees about the potential.
 		 		</p>
 		 	</div>		 	
-		 </div>
-</div>	
+		 </div>	
+</div>
 
-	<div class="workWide bigGapTop bigGapBott ghostBg">
+<div>
+	<div class="bigGapTop bigGapBott ghostBg">
 		<div class="grid">
 			<div class="unit whole">
 				<p class="w50 mAuto textCenter smallGapBott gold">09. Lessons Learned</p>				
@@ -344,11 +341,13 @@ tags:
 			</center>		
 		</div>
 	</div>
+</div>
 
+<div class="wider">	
 		<div class="grid bigGapBott bigGapTop">
 			{% include disclaimer.html %}
 		</div>
-	
+</div>	
 
 
 <!--
