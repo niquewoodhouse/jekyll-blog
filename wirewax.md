@@ -36,6 +36,14 @@ tags:
 					<p class="lead mediumGapBott mediumGapTop w80 fRight">
 						Free users just wanted to easily add some interactive element to existing videos, but have quick access to deeper tools. From a business point of view we wanted free users to be aware of select premium features they could subscribe to. This was a challenge to balance.
 					</p>
+					<ul class="blockLi list">
+			        	<li>"A beautiful free platform"</li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="default gold" target="_blank">@tiffy</a></li>
+			        </ul>
+			        <ul class="blockLi list">
+			        	<li>"Really easy to use"</li>
+			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="gold default" target="_blank">@tiffy</a></li>
+			        </ul>			        						
 				</div>
 		</div>
 
