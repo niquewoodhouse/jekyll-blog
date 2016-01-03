@@ -117,6 +117,7 @@ ul.recentWork a {
 .whole .bigNo {
     left:auto !important;
     opacity:0.2;
+    font-size: 100;
 }
 
 .sectionTitle {
