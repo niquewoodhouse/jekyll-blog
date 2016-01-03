@@ -279,7 +279,8 @@ tags:
 </div>
 
 <div>
-	<div class="bigGapTop bigGapBott">
+	<div class="wider bigGapTop bigGapBott">
+
 		<div class="grid">
 			<div class="unit whole ghostBorder">
 				<p class="w50 mAuto textCenter smallGapBott smallGapTop gold">09. Lessons Learned</p>				
