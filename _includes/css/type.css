@@ -42,6 +42,7 @@ h2 {letter-spacing: 1px;}
 h2.ColourQuote {line-height:145%;font-size:2.25rem;}
 h2.ColourQuote:before {
        content: '“';
+       display: none;
        font-family: Georgia;
        font-style: italic;
 
