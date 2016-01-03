@@ -279,9 +279,9 @@ tags:
 </div>
 
 <div>
-	<div class="bigGapTop bigGapBott ghostBorder">
+	<div class="bigGapTop bigGapBott">
 		<div class="grid">
-			<div class="unit whole">
+			<div class="unit whole ghostBorder">
 				<p class="w50 mAuto textCenter smallGapBott smallGapTop gold">09. Lessons Learned</p>				
 				<h2 class="ColourQuote w50 mAuto smallGapBott textCenter">
 					You've made Wirewax a much better thing. 
@@ -302,14 +302,14 @@ tags:
 					At Wirewax, I had no one to sell or project manage.  
 					Or tell the client no or that means a new deadline.  
 					It taught me a lot about being open to change.  About being confident &amp; comfortable in the ambiguity &amp; unknwon of being a product in an agile way.  
-					Most importantly, my two years as Creative Director helped me learn how to manage &amp; sell upwards.
+					Most importantly, my two years as Creative Director helped me learn how to manage &amp; sell upwards.  
 				</p>
 			</div>
 			<div class="unit one-quarter">
 				<p class="w95 textJustify">
 					The intense exposure to agile development opened my eyes to possible inefficencies in workflow.  I created living &amp; breathing styleguides to help developers.
 				</p>
-				<p class="w95 textJustify">
+				<p class="w95 textJustify bigGapBott">
 					I learned how to use third party software like <a href="">Lookback</a> to record UX; Adobe After Effects to prototype animations for developers &amp; user journeys for the CEO.
 				</p>
 			</div>	
