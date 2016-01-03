@@ -174,6 +174,8 @@ tags:
 		      		Throughout this I worked closely with senior stakeholders to drive decision-making &amp; then ensure consistency across brand &amp; product features. At each company retreat I presented all staff with the vision for the next product cycle to help build consensus. Yes, at the time Bearded Yellow Power Ranger was a cool look.
 		      	</p>
 
+		<img src="assets/wirewax/Retreat1.jpg"/>
+	
 		      </div>		      
 		 </div>		 
 
@@ -206,11 +208,7 @@ tags:
 									
 		</div>
 
-<div class="grid">
-	<div class="unit whole">
-<img src="assets/wirewax/Retreat1.jpg"/>
-	</div>
-</div>		
+	
 </div>
 
 
