@@ -295,10 +295,14 @@ tags:
 				</div>
 			<div class="unit one-quarter">
 				<p class="w95 textJustify">
-					Wirewax was a big change in process for me.  After four straight years at creative agencies, I got used to having account managers to help sell every detail to the client &amp; project managers organising everything.  
+					Wirewax was a big change in process for me.  
+					After four straight years at creative agencies, I was used to having account managers to help sell every detail to the client &amp; project managers organising everything.  
 				</p>
 				<p class="w95 textJustify">
-					At Wirewax, I had no one to sell or project manage.  Or to tell the client no when minds changed.  It taught me a lot about being open to new ideas, workflows, challenging things &amp; most importantly how to manage &amp; sell upwards.
+					At Wirewax, I had no one to sell or project manage.  
+					Or tell the client no or that means a new deadline.  
+					It taught me a lot about being open to change.  About being confident &amp; comfortable in the ambiguity &amp; unknwon of being a product in an agile way.  
+					Most importantly, my two years as Creative Director helped me learn how to manage &amp; sell upwards.
 				</p>
 			</div>
 			<div class="unit one-quarter">
