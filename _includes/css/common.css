@@ -27,8 +27,6 @@ a:hover {
 }
 
 
-
-
 /* Devices */
 
 .two-thirds .iPad {
@@ -239,7 +237,7 @@ ul.recentWork li a:after {
 	background-repeat:no-repeat;
 }
 
-.workWide .grid:before {
+/* .workWide .grid:before {
 
 	content:"";
 	display:block;
@@ -251,6 +249,7 @@ ul.recentWork li a:after {
     transition: color 1s cubic-bezier(.19,1,.22,1),-webkit-transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
     transition: color 1s cubic-bezier(.19,1,.22,1),transform .7s cubic-bezier(.19,1,.22,1),width .8s cubic-bezier(.19,1,.22,1);
 }
+*/
 
 .workWide .grid:hover:before {
 	width: 39vw;
