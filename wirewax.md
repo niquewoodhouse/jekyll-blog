@@ -37,16 +37,16 @@ tags:
 						Free users just wanted to easily add some interactive element to existing videos, but have quick access to deeper tools. From a business point of view we wanted free users to be aware of select premium features they could subscribe to. This was a challenge to balance.
 					</p>
 					<ul class="w80 blockLi list fRight">
-			        	<li>"A beautiful free platform"</li>
-			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="default gold" target="_blank">@tiffy</a></li>
+			        	<li>"A beautiful free platform" - <a href="https://twitter.com/vipint7/status/565885441098797056" class="default gold" target="_blank">@vipin</a></li>
+			        	
 			        </ul>
 			        <ul class="w80 blockLi list fRight">
-			        	<li>"Really easy to use"</li>
-			        	<li><a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="gold default" target="_blank">@tiffy</a></li>
+			        	<li>"Really easy to use"- <a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="gold default" target="_blank">@tiffy</a><</li>
+			        	
 			        </ul>		
 			        <ul class="w80 blockLi list fRight">
-			        	<li>"Really cool technology"</li>
-			        	<li><a href="https://twitter.com/KiraOConnor/status/557991587947368448" class="gold default" target="_blank">@Kira</a></li>
+			        	<li>"It is amazing" - <a href="https://twitter.com/_renatoxavier/status/670282836704935936" class="gold default" target="_blank">@renato</a></li>
+			        	
 			        </ul>				        	        						
 				</div>
 		</div>
