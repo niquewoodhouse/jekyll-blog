@@ -136,7 +136,8 @@
 }
 
 .w80 {width:80%;}
+.w90 {width:90%;}
 .w95 {width:95%;}
 .w50 {width:50%;}
 .w100 {width:100% !important;}
-img.goesWithHeading {top:30px;left:30px;}
+img.goesWithHeading {top:60px;right:0px;}
