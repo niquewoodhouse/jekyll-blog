@@ -202,58 +202,15 @@ tags:
 			<div class="unit one-third bigGapTop bigGapBott relative">
 				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">07</span> Iconography</h4>
 			</div>
-			<div class="unit one-quarter">
-				Icon 1.
-			</div>
-			<div class="unit one-quarter">
-				Icon 2.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 3.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 4.
-			</div>
-			<div class="unit one-quarter">
-				Icon 5.
-			</div>
-			<div class="unit one-quarter">
-				Icon 6.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 7.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 8.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 9.
-			</div>
-			<div class="unit one-quarter">
-				Icon 10.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 11.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 12.
-			</div>
-			<div class="unit one-quarter">
-				Icon 13.
-			</div>
-			<div class="unit one-quarter">
-				Icon 14.
-			</div>	
-			<div class="unit one-quarter">
-				Icon 15.
-			</div>	
-			<div class="unit one-quarter bigGapBott">
-				Icon 16.
-			</div>													
+									
 		</div>
 </div>
 
+<div class="grid">
+	<div class="unit whole">
 <img src="assets/wirewax/Retreat1.jpg"/>
+	</div>
+</div>
 
 <div>
 		<div class="workWide bigGapTop bigGapBott" style="background-image:url('http://a.fastcompany.net/multisite_files/fastcompany/slideshow/2015/01/3040415-slide-s-1-how-designers-turn-data-and-sketches-12-13.jpg')">
