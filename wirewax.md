@@ -285,7 +285,7 @@ tags:
 			<div class="unit whole ghostBorder">
 				<p class="w50 mAuto textCenter smallGapBott smallGapTop gold">09. Lessons Learned</p>				
 				<h2 class="ColourQuote w50 mAuto smallGapBott textCenter">
-					You've made Wirewax a much better thing. 
+					“ You've made Wirewax a much better thing. 
 					You'll not accept that, you'll suggest it was a team effort &amp; bouncing ideas off of others, but stick it &amp; take it.
 				</h2>
 				<p class="w50 mAuto textCenter smallGapBott">Dan, Co-founder</p>	
