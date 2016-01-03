@@ -41,7 +41,7 @@ h5 {
 h2 {letter-spacing: 1px;}
 h2.ColourQuote {line-height:145%;font-size:2.25rem;}
 
-p {line-height: 150%;}
+p {line-height: 150%;font-size:1.1rem;}
 
 p.smallPrint {
     font-size:0.7em;
