@@ -282,7 +282,7 @@ tags:
 	<div class=" bigGapTop bigGapBott">
 
 		<div class="grid">
-			<div class="unit whole ghostBorder">
+			<div class="unit whole ">
 				<p class="w50 mAuto textCenter smallGapBott smallGapTop gold">09. Lessons Learned</p>				
 				<h2 class="ColourQuote w50 mAuto smallGapBott textCenter">
 					You've made Wirewax a much better thing. 
