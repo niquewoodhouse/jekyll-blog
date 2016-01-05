@@ -266,7 +266,7 @@ ul.recentWork li a:after {
 
 .share {right:5px;top:45%;width:100px;}
 
-.share:hover {right:8px;width:100px;}
+.share:hover {right:5px;width:100px;}
 
 .share:before {
 	content: "";
