@@ -130,7 +130,10 @@ ul.recentWork a {
 .whole .sectionTitleAlt {
     left:auto !important;
     border-bottom:0px;
-    top:64px;
+    top:100px;
+    font-size: 1em;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
 }
 
 .lineBefore::before {
