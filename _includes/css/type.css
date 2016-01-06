@@ -107,7 +107,7 @@ ul.recentWork a {
 }
 
 .bigNo {
-    font-size: 10em;
+    font-size: 13em;
     font-weight: 900;
     left:13%;
     z-index: 90;
@@ -116,7 +116,7 @@ ul.recentWork a {
 .whole .bigNo {
     left:auto !important;
     opacity:0.2;
-    font-size: 100;
+    font-weight: 100;
 }
 
 .sectionTitle {
