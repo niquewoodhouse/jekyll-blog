@@ -19,6 +19,8 @@ a.holdingLink {
     border-bottom: 1px solid rgba(0,0,0,0.1);	
 }
 
+.blockLi a {font-size:0.8em;}
+
 nav.header a.logo {
 	float:left;
 	border-bottom-width:0px;
