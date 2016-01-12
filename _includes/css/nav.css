@@ -16,11 +16,14 @@ img.logoSvg {height:20px;fill:#c69c6d;}
 	overflow-x:hidden;
 }
 
+
+
 a.holdingLink {
     text-decoration: none;
     padding-bottom: 6px;
     color: rgba(0,0,0,0.8);
     border-bottom: 1px solid rgba(0,0,0,0.1);	
+    margin:0px 15px 0 0;
 }
 
 a.holdingLink, .blockLi li {font-size:0.8em;}
