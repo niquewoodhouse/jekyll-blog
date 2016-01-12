@@ -12,6 +12,10 @@ img.logoSvg {height:20px;fill:#c69c6d;}
 
 .holdingP .sectionTitleAlt {font-size:0.8em;top:119px;letter-spacing: 0.5em;}
 
+.holdingP {
+	x-overlay:hidden;
+}
+
 a.holdingLink {
     text-decoration: none;
     padding-bottom: 6px;
