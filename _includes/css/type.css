@@ -157,7 +157,9 @@ ul.recentWork a {
     letter-spacing: 0.3em;
 }
 
-
+.coverplate__lock {
+    vertical-align: middle;
+}
 
 
 
