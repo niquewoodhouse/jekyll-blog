@@ -1,8 +1,13 @@
 <div class="wider bigGapBott h100 saturate1 pos5050 greyscale1" style="background-image:url('{{ page.featureImg}}')">
 	<div class="wideOverlay">
-		<div class="grid">
+		<div class="grid ghost">
+			<div class="unit half">
+		      	<ul class="blockLi list">
+		      		<li>{{ page.date | date: '%B %d, %Y' }}</li> 		
+		      	</ul>				
+			</div>
 		      <div class="unit whole">
-		        <h1 class="textCenter ghost">{{ page.title }}</h1>
+		        <h1 class="textCenter ">{{ page.title }}</h1>
 		      </div>
 		 </div> 
 		<div class="grid bigGapTop bigGapBott">
