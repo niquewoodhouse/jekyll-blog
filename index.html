@@ -14,12 +14,14 @@ body-class: wider
 
 <div class="grid">
 	<div class="unit whole">
+		<ul style="display:inline-block;">
 
 		{% assign counter = '0' %}
 		{% for page in site.pages %}
 		{% for tag in page.tags %}
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+		    <li class="one-third">
 		 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
 		 	<img src="{{page.featureImg}}">
 		 		
@@ -29,9 +31,9 @@ body-class: wider
 				 				
 				
 				
-			</div>
+			</li>
 		</a>
-
+		</ul>
 	</div>
 
 		{% endif %}
