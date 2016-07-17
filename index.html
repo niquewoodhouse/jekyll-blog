@@ -13,6 +13,7 @@ body-class: wider
 </div>	
 
 <div class="grid">
+	<div class="unit whole">
 
 		{% assign counter = '0' %}
 		{% for page in site.pages %}
@@ -20,20 +21,18 @@ body-class: wider
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 		 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
-		 	<div class="workWide selectWorks" style="background-image:url('{{page.featureImg}}');">
-		 		<div class="wideOverlay blackBg09">
-				 	<div class="grid">
-				 			<div class="unit one-quarter">
-				 				<span class="counter">{{ counter }}</span>
-				 			</div>
-				 			<div class="unit two-thirds">
+		 	<div class="" style="background-image:url('{{page.featureImg}}');">
+		 		
+	
 								<span class="title block">{{page.title}}</span>
 								<span class="subtitle block">{{page.subtitle}}</span>
-				 			</div>	
-					</div>
-				</div>	
+				 				
+				
+				
 			</div>
 		</a>
+
+	</div>
 
 		{% endif %}
 		{% endfor %}
