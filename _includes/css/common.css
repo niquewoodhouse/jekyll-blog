@@ -31,6 +31,15 @@ a:hover {
 
 .h100 {height:100vh;}
 
+.coverplate__plate {
+	height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+
 /* Backgrounds */
 
 .pos5050 {background-position: 50% 50%;}
