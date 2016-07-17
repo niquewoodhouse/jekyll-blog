@@ -55,6 +55,7 @@ a:hover {
 .hero1 {
 	margin-top:35vh !important;
 	display: inline-block !important;
+	min-width:100%;
 }
 
 /* Backgrounds */
