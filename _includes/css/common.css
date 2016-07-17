@@ -189,6 +189,10 @@ a:hover {
 	padding-bottom:200px !important;
 }
 
+.paddingNo {
+	padding: 0 !important;
+}
+
 .mAuto {margin: 0 auto;}
 
 .mTopNone {margin-top:0px !important;}
