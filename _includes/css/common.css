@@ -303,6 +303,10 @@ ul.recentWork li a:after {
 	width:100%;
 }
 
+ul.work li {
+	vertical-align: middle;
+}
+
 
 .share {right:5px;top:45%;width:100px;}
 
