@@ -36,6 +36,13 @@ body {color:rgb(51, 51, 51);}
   background: linear-gradient(to bottom, #F8F8FA 0%, , #EFEFF4 100%);
 }
 
+/* Image Treatments */
+
+.saturate1 {
+  -webkit-filter: saturate(1);
+  filter: saturate(1);
+}
+
 /* Backgrounds */
 
 .ghostBg {background:#fafafa;}
