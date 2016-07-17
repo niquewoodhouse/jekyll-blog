@@ -21,7 +21,7 @@ body-class: wider
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 		 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
-		 	<div class="" style="background-image:url('{{page.featureImg}}');">
+		 	<img src="{{page.featureImg}}">
 		 		
 	
 								<span class="title block">{{page.title}}</span>
