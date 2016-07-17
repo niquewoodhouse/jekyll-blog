@@ -31,6 +31,10 @@ a:hover {
 
 .h100 {height:100vh;}
 
+/* Backgrounds */
+
+.pos5050 {background-position: 50% 50%;}
+
 /* Devices */
 
 .two-thirds .iPad {

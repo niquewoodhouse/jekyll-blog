@@ -39,9 +39,15 @@ body {color:rgb(51, 51, 51);}
 /* Image Treatments */
 
 .saturate1 {
-  -webkit-filter: saturate(1);
-  filter: saturate(1);
+  -webkit-filter: saturate(0.5);
+  filter: saturate(0.5);
 }
+
+.greyscale1 {
+    -webkit-filter: grayscale(0.2);
+  filter: grayscale(0.2);
+}
+
 
 /* Backgrounds */
 
