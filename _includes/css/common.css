@@ -40,6 +40,18 @@ a:hover {
     width: 100%;
 }
 
+.ghost:before, .ghost__child {
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.ghost:before {
+	content: "";
+    height: 100%;
+    margin-left: -1px;
+    width: 1px;
+}
+
 /* Backgrounds */
 
 .pos5050 {background-position: 50% 50%;}
