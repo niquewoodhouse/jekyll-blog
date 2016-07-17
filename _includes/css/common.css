@@ -53,7 +53,7 @@ a:hover {
 }
 
 .hero1 {
-	margin-top:35vh;
+	margin-top:35vh !important;
 	display: inline-block;
 }
 
