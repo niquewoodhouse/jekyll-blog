@@ -45,7 +45,7 @@ a:hover {
 	vertical-align: middle;
 }
 
-.ghost:before {
+.ghost_child:before {
 	content: "";
     height: 100%;
     margin-left: -1px;
