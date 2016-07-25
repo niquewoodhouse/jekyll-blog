@@ -23,7 +23,7 @@ body-class: wider
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 		 <div class="grid_item"> 
-			 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
+			 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}" class="grid__link animate">
 			 	<img src="{{page.featureImg}}">
 			 	<div class="grid__lock block">	
 					<h4 class="grid__title block">{{page.title}}</h4>
