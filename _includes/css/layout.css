@@ -141,3 +141,18 @@
 .w50 {width:50%;}
 .w100 {width:100% !important;}
 img.goesWithHeading {top:60px;right:0px;}
+
+
+.grid_item {
+    display: inline-block;
+    padding: 0 5.5% calc(11% + 80px);
+    vertical-align: middle;
+    width: 33.333333%;
+}
+
+.grid__lock {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 20px;
+    text-align: left;
+}
