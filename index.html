@@ -15,34 +15,26 @@ body-class: wider
 <div class="wider">
 <div class="grid">
 	<div class="unit whole">
-		<div class="grid_item">
+		
 
 		{% assign counter = '0' %}
 		{% for page in site.pages %}
 		{% for tag in page.tags %}
 		{% if tag == "work" and counter < '5' %}
 		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-		   
-		 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
-		 	<img src="{{page.featureImg}}">
-		 	<div class="grid__lock block">	
-				<h4 class="grid__title block">{{page.title}}</h4>
-				<p class="subtitle block grey">{{page.subtitle}}</p>
-			</div>
-				 				
-				
-				
-			
-		</a>
-
-
+		 <div class="grid_item"> 
+			 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}">
+			 	<img src="{{page.featureImg}}">
+			 	<div class="grid__lock block">	
+					<h4 class="grid__title block">{{page.title}}</h4>
+					<p class="subtitle block grey">{{page.subtitle}}</p>
+				</div>				
+			</a>
+		</div>
 		{% endif %}
 		{% endfor %}
-		{% endfor %}	
-
-		
+		{% endfor %}			
 	</div>
-</div>
 </div>
 
 <!--
