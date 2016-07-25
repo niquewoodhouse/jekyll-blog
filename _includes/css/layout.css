@@ -145,9 +145,9 @@ img.goesWithHeading {top:60px;right:0px;}
 
 .grid_item {
     display: inline-block;
-    padding: 0 5.5% calc(11% + 80px);
+    margin-right:2%;
     vertical-align: middle;
-    width: 33.333333%;
+    width: 45%;
 }
 
 .grid__lock {
@@ -155,4 +155,8 @@ img.goesWithHeading {top:60px;right:0px;}
     padding-right: 5px;
     padding-top: 20px;
     text-align: left;
+}
+
+.grid_item:nth-child(2n) {
+  margin-right:0%;
 }
