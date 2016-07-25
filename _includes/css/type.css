@@ -19,9 +19,11 @@ h1 {
 }
 
 h4 {
-    -ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Safari */
-    transform: rotate(90deg); /* Standard syntax */
+   /*
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg); 
+    */
+
     text-transform: uppercase;
     font-size: 1em;
     line-height: 1.2em;
