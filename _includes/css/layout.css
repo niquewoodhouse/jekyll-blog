@@ -160,3 +160,5 @@ img.goesWithHeading {top:60px;right:0px;}
 .grid_item:nth-child(2n) {
   margin-right:0%;
 }
+
+a.grid__link {border-bottom-style: none;}
