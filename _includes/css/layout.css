@@ -153,8 +153,16 @@ img.goesWithHeading {top:60px;right:0px;}
 .grid__lock {
     padding-left: 5px;
     padding-right: 5px;
-    padding-top: 20px;
+    padding-top: 10px;
     text-align: left;
+}
+
+.grid__lock h4 {
+  margin: 0 auto;
+}
+
+.grid__lock p.subtitle {
+  margin: 0rem 0 0.5rem 0;
 }
 
 .grid_item:nth-child(2n) {
@@ -162,3 +170,4 @@ img.goesWithHeading {top:60px;right:0px;}
 }
 
 a.grid__link {border-bottom-style: none;}
+
