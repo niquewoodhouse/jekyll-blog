@@ -187,7 +187,6 @@ a.grid__link {border-bottom-style: none;}
    .grid_item {
     display: block;
     margin: 0 auto;
-    vertical-align: middle;
     width: 90% !important;
   }   
 }
