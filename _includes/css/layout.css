@@ -183,6 +183,15 @@ a.grid__link {border-bottom-style: none;}
  
 }
 
+@media only screen and (max-width: 640px) {
+   .grid_item {
+    display: block;
+    margin: 0 auto;
+    vertical-align: middle;
+    width: 90%;
+  } 
+}
+
 /* Expand the wrap a bit further on larger screens */
 @media screen and (max-width: 1400px) {
   .wider .grid,
@@ -192,14 +201,6 @@ a.grid__link {border-bottom-style: none;}
   }
 }
 
-@media only screen and (max-width: 640px) {
-   .grid_item {
-    display: block;
-    margin: 0 auto;
-    vertical-align: middle;
-    width: 90%;
-  } 
-}
 
 
 .w80 {width:80%;}
