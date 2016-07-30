@@ -181,7 +181,7 @@ a.grid__link {border-bottom-style: none;}
   }
 }
 
-@media screen and (max-width: 640px) {
+@media only screen and (max-width: 640px) {
   .unit .grid .unit {
     padding-left: 0px;
     padding-right: 0px;
