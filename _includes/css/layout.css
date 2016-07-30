@@ -134,7 +134,6 @@
 
 
 .grid_item {
-
   display: inline-block;
   vertical-align: middle;
   /*width: 31.4%;
@@ -142,6 +141,9 @@
   */
   margin-right:5%;
   width:47%;
+}
+.grid_item:nth-child(2n) {
+  margin-right:0%;
 }
 
 .grid__lock {
