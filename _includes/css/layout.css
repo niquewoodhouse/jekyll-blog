@@ -131,15 +131,13 @@
   margin-bottom:1.5rem;
  }
 
- /*
- */
 
 
 .grid_item {
-    display: inline-block;
-    margin-right:2.4%;
-    vertical-align: middle;
-    width: 31.4%;
+  display: inline-block;
+  margin-right:2.4%;
+  vertical-align: middle;
+  width: 31.4%;
 }
 
 .grid__lock {
@@ -189,7 +187,7 @@ a.grid__link {border-bottom-style: none;}
     padding-right: 0px;
   }
   .grid_item {
-    display: block;
+    display: none !important;
     margin: 0 auto;
     vertical-align: middle;
     width: 90% !important;
