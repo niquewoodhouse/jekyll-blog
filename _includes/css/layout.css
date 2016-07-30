@@ -195,13 +195,18 @@ a.grid__link {border-bottom-style: none;}
 
 /* Expand the wrap a bit further on larger screens */
 @media screen and (max-width: 1400px) {
-  .wider .grid,
-  .grid.wider {
+  .wider .grid, .grid.wider {
     max-width: 1280px;
     margin: 0 auto;
   }
 }
 
+@media screen and (min-width: 1401px) {
+  .wider .grid, .grid.wider {
+  padding-left: 6%;
+  padding-right:6%';
+  }
+}
 
 
 .w80 {width:80%;}
@@ -210,11 +215,6 @@ a.grid__link {border-bottom-style: none;}
 .w50 {width:50%;}
 .w100 {width:100% !important;}
 img.goesWithHeading {top:60px;right:0px;}
-
-
-/*
- * Gridism Fin
- */
 
 
 
