@@ -149,7 +149,8 @@
   margin-right:5%;
   width:47%;
   margin-top:3rem;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y:hidden;
 }
 .grid_item:nth-child(2n) {
   margin-right:0%;
