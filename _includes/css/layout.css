@@ -21,7 +21,6 @@
 .grid .unit {
   float: left;
   width: 100%;
-  padding: 10px;
 }
 
 /* This ensures the outer gutters are equal to the (doubled) inner gutters. 
@@ -100,7 +99,7 @@
 }
 
 /* Responsive Stuff */
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 640px) {
   /* Stack anything that isn’t full-width on smaller screens 
      and doesn't provide the no-stacking-on-mobiles class */
   .grid:not(.no-stacking-on-mobiles) > .unit {
@@ -112,6 +111,13 @@
     padding-left: 0px;
     padding-right: 0px;
   }
+
+.grid_item {
+    display: block;
+    margin: 0 auto;
+    vertical-align: middle;
+    width: 90%;
+}
 
   /* Sometimes, you just want to be different on small screens */
   .center-on-mobiles {
@@ -126,7 +132,7 @@
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1366px) {
   .wider {
     margin: 0 auto;
     padding-right: 6%;
@@ -136,7 +142,7 @@
 }
 
 /* Expand the wrap a bit further on larger screens */
-@media screen and (min-width: 1400px) {
+@media screen and (max-width: 1400px) {
   .wider .grid,
   .grid.wider {
     max-width: 1280px;
@@ -194,7 +200,7 @@ img.goesWithHeading {top:60px;right:0px;}
 
 .grid_item {
     display: inline-block;
-    margin-right:2.5%;
+    margin-right:2.4%;
     vertical-align: middle;
     width: 31.4%;
 }

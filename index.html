@@ -20,7 +20,7 @@ body-class: wider
 			{% assign counter = '0' %}
 			{% for page in site.pages %}
 			{% for tag in page.tags %}
-			{% if tag == "work" and counter < '5' %}
+			{% if tag == "work" and counter < '6' %}
 			    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 			 <div class="grid_item"> 
 				 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}" class="grid__link animate">
