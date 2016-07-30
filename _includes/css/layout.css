@@ -170,7 +170,7 @@ a.grid__link {border-bottom-style: none;}
     padding-right: 6%;
     padding-left: 6%;
   } 
-  .grid_item {
+  .grid_item, .grid_item:nth-child(3n) {
     display: inline-block;
     margin: 0 auto;
     vertical-align: middle;
@@ -180,6 +180,7 @@ a.grid__link {border-bottom-style: none;}
  .grid_item:nth-child(2n) {
   margin-right:0%;
 } 
+ 
 }
 
 /* Expand the wrap a bit further on larger screens */
