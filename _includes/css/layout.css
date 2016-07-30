@@ -170,6 +170,7 @@ a.grid__link {border-bottom-style: none;}
     padding-right: 6%;
     padding-left: 6%;
   } 
+  .grid_item {display: none;}
 }
 
 /* Expand the wrap a bit further on larger screens */
@@ -181,12 +182,12 @@ a.grid__link {border-bottom-style: none;}
   }
 }
 
-@media only screen and (max-width: 640px) {
+@media screen and (max-width: 640px) {
   .unit .grid .unit {
     padding-left: 0px;
     padding-right: 0px;
   }
-  .unit .grid_item {
+  .grid_item {
     display: block;
     margin: 0 auto;
     vertical-align: middle;
