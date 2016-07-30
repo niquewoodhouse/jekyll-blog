@@ -31,6 +31,7 @@ h4 {
     font-family: 'Playfair Display', serif;
     transform-origin: left top 0;
     font-weight: 500;
+    letter-spacing: 0.2rem;    
    
 }
 
@@ -168,5 +169,11 @@ ul.recentWork a {
     display: inline-block;
 }
 
+
+/* Responsive Type */
+
+@media screen and (max-width: 1000px) and (min-width:1px) {
+    .grid__lock h4 {}
+}
 
 
