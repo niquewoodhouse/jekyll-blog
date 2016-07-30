@@ -13,7 +13,9 @@
 }
 
 h1 {
-	font: 2.5rem "univers_ce_45_lightregular", Helvetica, Arial, sans-serif; 
+	/*font: 2.5rem "univers_ce_45_lightregular", Helvetica, Arial, sans-serif; */
+    font-family: 'Playfair Display', serif;
+    font-size:2.5rem;
     font-weight: 900;
     line-height: 1.2666666667;
     letter-spacing: 0.02rem;
