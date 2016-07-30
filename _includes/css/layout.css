@@ -183,22 +183,15 @@ a.grid__link {border-bottom-style: none;}
 }
 
 @media screen and (max-width: 640px) {
-  .grid_item {
+  .hide {
+    display: none !important;
+  }
+   .grid_item {
     display: block;
     margin: 0 auto;
     vertical-align: middle;
     width: 90%;
-  }
-  /* Sometimes, you just want to be different on small screens */
-  .center-on-mobiles {
-    text-align: center !important;
-  }
-  .hide-on-mobiles {
-    display: none !important;
-  }
-  .only-on-mobiles {
-    display: block !important;
-  }
+  } 
 }
 
 .w80 {width:80%;}
