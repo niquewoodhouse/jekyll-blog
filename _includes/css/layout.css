@@ -130,7 +130,7 @@
  .largeMarginBottom {
   margin-bottom:1.5rem;
  }
-/* */
+
 .grid_item {
   display: block;
   margin: 0 auto;
@@ -162,14 +162,7 @@ a.grid__link {border-bottom-style: none;}
 
 /* Responsive Stuff */
 
-@media screen and (max-width: 640px) {
-.grid_item {
-  display: block;
-  width:100%;
-}
-
-}
-@media screen and (min-width: 640px) {
+@media screen and (max-width: 1366px) {
   .wider {
     margin: 0 auto;
     padding-right: 6%;
@@ -191,7 +184,7 @@ a.grid__link {border-bottom-style: none;}
 
 
 /* Expand the wrap a bit further on larger screens */
-@media screen and (min-width: 1400px) {
+@media screen and (max-width: 1400px) {
   .wider .grid,
   .grid.wider {
     max-width: 1280px;
