@@ -132,14 +132,17 @@
  }
 
 
-/*
+
 .grid_item {
+
   display: inline-block;
-  margin-right:2.4%;
   vertical-align: middle;
-  width: 31.4%;
+  /*width: 31.4%;
+  margin-right:2.4%;
+  */
+  margin-right:5%;
+  width:47%;
 }
-*/
 
 .grid__lock {
     padding-left: 5px;
