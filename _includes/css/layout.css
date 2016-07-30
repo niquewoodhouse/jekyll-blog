@@ -187,10 +187,10 @@ a.grid__link {border-bottom-style: none;}
     padding-right: 0px;
   }
   .unit .grid_item {
-    display: none !important;
+    display: block;
     margin: 0 auto;
     vertical-align: middle;
-    width: 90% !important;
+    width: 90%;
   }
   /* Sometimes, you just want to be different on small screens */
   .center-on-mobiles {
