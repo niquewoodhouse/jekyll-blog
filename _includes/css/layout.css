@@ -98,69 +98,6 @@
   display: none !important;
 }
 
-/* Responsive Stuff */
-@media screen and (max-width: 640px) {
-  /* Stack anything that isn’t full-width on smaller screens 
-     and doesn't provide the no-stacking-on-mobiles class */
-  .grid:not(.no-stacking-on-mobiles) > .unit {
-    width: 100% !important;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-  .unit .grid .unit {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-
-.grid_item {
-    display: block;
-    margin: 0 auto;
-    vertical-align: middle;
-    width: 90%;
-}
-
-  /* Sometimes, you just want to be different on small screens */
-  .center-on-mobiles {
-    text-align: center !important;
-  }
-  .hide-on-mobiles {
-    display: none !important;
-  }
-  .only-on-mobiles {
-    display: block !important;
-  }
-}
-
-
-@media screen and (max-width: 1366px) {
-  .wider {
-    margin: 0 auto;
-    padding-right: 6%;
-    padding-left: 6%;
-  } 
-
-}
-
-/* Expand the wrap a bit further on larger screens */
-@media screen and (max-width: 1400px) {
-  .wider .grid,
-  .grid.wider {
-    max-width: 1280px;
-    margin: 0 auto;
-  }
-}
-
-.w80 {width:80%;}
-.w90 {width:90%;}
-.w95 {width:95%;}
-.w50 {width:50%;}
-.w100 {width:100% !important;}
-img.goesWithHeading {top:60px;right:0px;}
-
-
-/*
- * Gridism Fin
- */
 
 /*  Margins & Paddings 
  *  Use these for a consistent vertical rythym.
@@ -225,6 +162,74 @@ img.goesWithHeading {top:60px;right:0px;}
 }
 
 a.grid__link {border-bottom-style: none;}
+
+
+
+/* Responsive Stuff */
+@media screen and (max-width: 640px) {
+  /* Stack anything that isn’t full-width on smaller screens 
+     and doesn't provide the no-stacking-on-mobiles class */
+  .grid:not(.no-stacking-on-mobiles) > .unit {
+    width: 100% !important;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .unit .grid .unit {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+.grid_item {
+    display: block;
+    margin: 0 auto;
+    vertical-align: middle;
+    width: 90%;
+}
+
+  /* Sometimes, you just want to be different on small screens */
+  .center-on-mobiles {
+    text-align: center !important;
+  }
+  .hide-on-mobiles {
+    display: none !important;
+  }
+  .only-on-mobiles {
+    display: block !important;
+  }
+}
+
+
+@media screen and (max-width: 1366px) {
+  .wider {
+    margin: 0 auto;
+    padding-right: 6%;
+    padding-left: 6%;
+  } 
+
+}
+
+/* Expand the wrap a bit further on larger screens */
+@media screen and (max-width: 1400px) {
+  .wider .grid,
+  .grid.wider {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+}
+
+.w80 {width:80%;}
+.w90 {width:90%;}
+.w95 {width:95%;}
+.w50 {width:50%;}
+.w100 {width:100% !important;}
+img.goesWithHeading {top:60px;right:0px;}
+
+
+/*
+ * Gridism Fin
+ */
+
+
 
 
 
