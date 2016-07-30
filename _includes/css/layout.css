@@ -128,10 +128,10 @@
 
 @media screen and (max-width: 1400px) {
   .wider .grid, .grid.wider {
-    max-width:90%;
+    max-width:98%;
     margin: 0 auto;
-    padding-left:5%;
-    padding-right:5%;
+    padding-left:1%;
+    padding-right:1%;
   } 
 }
 
