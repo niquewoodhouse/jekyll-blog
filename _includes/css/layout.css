@@ -183,7 +183,7 @@ a.grid__link {border-bottom-style: none;}
     display: block;
     margin: 0 auto;
     vertical-align: middle;
-    width: 90%;
+    width: 90% !important;
 }
 
   /* Sometimes, you just want to be different on small screens */
