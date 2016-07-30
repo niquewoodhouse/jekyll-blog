@@ -184,9 +184,9 @@ a.grid__link {border-bottom-style: none;}
 }
 
 @media screen and (max-width: 1000px) {
-   .grid_item {
-    display: block;
-    margin: 0 auto;
+   .grid_item, .grid_item:nth-child(2n), .grid_item:nth-child(3n) {
+    display: inline-block;
+    margin: 2rem auto;
     width: 90% !important;
   }   
 }
