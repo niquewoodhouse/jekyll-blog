@@ -181,7 +181,6 @@ a.grid__link {border-bottom-style: none;}
  .grid_item:nth-child(2n) {
   margin-right:0%;
 } 
- 
 }
 
 @media screen and (max-width: 640px) {
@@ -189,8 +188,8 @@ a.grid__link {border-bottom-style: none;}
     display: block;
     margin: 0 auto;
     vertical-align: middle;
-    width: 90%;
-  } 
+    width: 90% !important;
+  }   
 }
 
 /* Expand the wrap a bit further on larger screens */
