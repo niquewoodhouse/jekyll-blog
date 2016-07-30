@@ -1,15 +1,16 @@
 ---
 layout: work
 title: Wirewax
-meta: Responsive video editing platform
-subtitle: Responsive video editing platform
+meta: HTML5 Video editor
+subtitle: HTML5 video editor
 categories: work case
 longTitle: The first ever free HTML5 video editor that makes anything in any video interactive. 
 year: 2015
 role: Creative Director
 jobRole: Creative Director, <br>Product UX/UI Designer
 jobOutput: Native responsive platform, <br>iOS App designs, branding
-featureImg: assets/work/Thumbnail/WirewaxPlatform@2x.png
+featureImg: http://static1.squarespace.com/static/55c8e052e4b01bd89f02a45e/563cf3b4e4b0cb0c3bcbb61f/573f4ed7e32140034604d296/1465509709087/80840013.jpg?format=1000w
+thumbNail: assets/work/Thumbnail/WirewaxPlatform@2x.png
 tags:
 - work
 ---

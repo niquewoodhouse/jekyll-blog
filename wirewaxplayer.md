@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Video Player
-subtitle: Responsive website campaign
+subtitle: Responsive / Interactive
 img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
 categories: work case
 meta: Responsive website campaign
@@ -13,6 +13,7 @@ jobOutput: Responsive design, Video
 tags: 
 - work
 featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
+thumbNail: assets/work/Thumbnail/WirewaxPlayer@2x.png
 ---
 
 <div class="wider">
