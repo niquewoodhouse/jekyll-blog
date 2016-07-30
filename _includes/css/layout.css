@@ -169,6 +169,10 @@
 a.grid__link {border-bottom-style: none;}
 
 
+.intro {
+  margin-top:10.5rem;
+}
+
 /* Responsive Stuff */
 
 @media screen and (max-width: 1366px) {
