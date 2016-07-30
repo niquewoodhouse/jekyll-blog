@@ -28,7 +28,9 @@ h4 {
     */
     font-size: 1.375rem;
     line-height: 1.4rem;
+    font-family: 'Playfair Display', serif;
     transform-origin: left top 0;
+    font-weight: 500;
    
 }
 
