@@ -183,10 +183,6 @@ a.grid__link {border-bottom-style: none;}
 }
 
 @media screen and (max-width: 640px) {
-  .unit .grid .unit {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
   .grid_item {
     display: block;
     margin: 0 auto;
