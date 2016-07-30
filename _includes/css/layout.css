@@ -184,7 +184,7 @@ a.grid__link {border-bottom-style: none;}
 }
 
 
-@media screen and (max-width: 900px) and (min-width:1px) {
+@media screen and (max-width: 1000px) and (min-width:1px) {
    .grid_item, .grid_item:nth-child(2n), .grid_item:nth-child(3n) {
     display: inline-block;
     margin: 2rem auto;
