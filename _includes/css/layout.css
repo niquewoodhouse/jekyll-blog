@@ -190,6 +190,9 @@ a.grid__link {border-bottom-style: none;}
     margin: 2rem auto;
     width: 100% !important;
   }   
+  h4 {
+    font-size:2rem;
+  }
 }
 
 /* Expand the wrap a bit further on larger screens */
