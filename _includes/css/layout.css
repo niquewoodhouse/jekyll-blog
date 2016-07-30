@@ -128,9 +128,11 @@
 
 @media screen and (max-width: 1400px) {
   .wider {
-    max-width:100%;
     margin: 0 auto;
+    padding-right: 6%;
+    padding-left: 6%;
   } 
+
 }
 
 /* Expand the wrap a bit further on larger screens */
@@ -194,7 +196,7 @@ img.goesWithHeading {top:60px;right:0px;}
     display: inline-block;
     margin-right:2.5%;
     vertical-align: middle;
-    width: 30%;
+    width: 31.4%;
 }
 
 .grid__lock {
