@@ -132,14 +132,14 @@
  }
 
 
-
+/*
 .grid_item {
-
   display: inline-block;
   margin-right:2.4%;
   vertical-align: middle;
   width: 31.4%;
 }
+*/
 
 .grid__lock {
     padding-left: 5px;
@@ -155,11 +155,11 @@
 .grid__lock p.subtitle {
   margin: 1rem 0 0.5rem 0;
 }
-
+/*
 .grid_item:nth-child(3n) {
   margin-right:0%;
 }
-
+*/
 a.grid__link {border-bottom-style: none;}
 
 
