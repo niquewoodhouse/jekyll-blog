@@ -183,7 +183,7 @@ a.grid__link {border-bottom-style: none;}
 } 
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 1000px) {
    .grid_item {
     display: block;
     margin: 0 auto;
