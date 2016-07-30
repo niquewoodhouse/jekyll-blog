@@ -143,6 +143,46 @@
 img.goesWithHeading {top:60px;right:0px;}
 
 
+/*
+ * Gridism Fin
+ */
+
+/*  Margins & Paddings 
+ *  Use these for a consistent vertical rythym.
+ */
+
+  /* Top Margins */
+
+ .smallMarginTop {
+  margin-top: 0.5rem;
+ }
+
+ .mediumMarginTop {
+  margin-top:1rem;
+ }
+
+ .largeMarginTop {
+  margin-top:1.5rem;
+ }
+
+  /* Bottom Margins */
+
+ .smallMarginBottom {
+  margin-bottom: 0.5rem;
+ }
+
+ .mediumMarginBottom {
+  margin-bottom:1rem;
+ }
+
+ .largeMarginBottom {
+  margin-bottom:1.5rem;
+ }
+
+ /*
+ */
+
+
 .grid_item {
     display: inline-block;
     margin-right:5%;
@@ -170,4 +210,6 @@ img.goesWithHeading {top:60px;right:0px;}
 }
 
 a.grid__link {border-bottom-style: none;}
+
+
 

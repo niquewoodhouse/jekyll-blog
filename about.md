@@ -3,7 +3,7 @@ layout: default
 featureImg: assets/peaceYo.jpg
 ---
 
-<div class="wider ligGreyToWhite bigGapBott" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
+<div class="wider ligGreyToWhite largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
 	<div class="wideOverlay whiteBg09">
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">

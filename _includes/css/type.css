@@ -13,9 +13,10 @@
 }
 
 h1 {
-	font: 3rem "univers_ce_45_lightregular", Helvetica, Arial, sans-serif; 
-    font-weight: 300;
+	font: 2.5rem "univers_ce_45_lightregular", Helvetica, Arial, sans-serif; 
+    font-weight: 900;
     line-height: 1.2666666667;
+    letter-spacing: 0.02rem;
 }
 
 h4 {

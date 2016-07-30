@@ -29,7 +29,7 @@ a:hover {
 
 /* Sizes */
 
-.h100 {height:100vh;}
+.h100 {min-height:100vh;}
 
 .coverplate__plate {
 	height: 100%;
@@ -161,7 +161,9 @@ a:hover {
 }
 
 
-/* Specific Margins & Paddings */
+/*  Margins & Paddings 
+ *  Use these for a consistent vertical rythym.
+ */
 
 .bigGapTop {
 	margin-top:200px !important;

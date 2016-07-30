@@ -6,36 +6,34 @@ body-class: wider
 
 
 <div class="wider">
-		<div class="grid mediumGapBott mediumGapTop h100">
-		      <div class="unit whole">
-		        <h1 class="bigGapTop mediumGapBott">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
-		        <p class="lead">Independent <a href="/about">designer</a> focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. </p>
-		      </div>
-		 </div>
+	<div class="grid largeMarginBottom largeMarginTop h100">
+	      <div class="unit whole">
+	        <h1 class="mediumMarginTop mediumMarginTop">Hey, I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
+	        <p class="lead">Independent <a href="/about">designer</a> focusing on making products <a href="/work">work</a>, feel simple &amp; a little fun. </p>
+	      </div>
+	 </div>
 </div>	
 
 <div class="wider">
-<div class="grid">
-	<div class="unit whole">
-		
-
-		{% assign counter = '0' %}
-		{% for page in site.pages %}
-		{% for tag in page.tags %}
-		{% if tag == "work" and counter < '5' %}
-		    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
-		 <div class="grid_item"> 
-			 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}" class="grid__link animate">
-			 	<img src="{{page.featureImg}}">
-			 	<div class="grid__lock block">	
-					<h4 class="grid__title block midnight">{{page.title}}</h4>
-					<p class="subtitle block grey">{{page.subtitle}}</p>
-				</div>				
-			</a>
-		</div>
-		{% endif %}
-		{% endfor %}
-		{% endfor %}			
+	<div class="grid">
+		<div class="unit whole">
+			{% assign counter = '0' %}
+			{% for page in site.pages %}
+			{% for tag in page.tags %}
+			{% if tag == "work" and counter < '5' %}
+			    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
+			 <div class="grid_item"> 
+				 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}" class="grid__link animate">
+				 	<img src="{{page.featureImg}}">
+				 	<div class="grid__lock block">	
+						<h4 class="grid__title block midnight">{{page.title}}</h4>
+						<p class="subtitle block grey">{{page.subtitle}}</p>
+					</div>				
+				</a>
+			</div>
+			{% endif %}
+			{% endfor %}
+			{% endfor %}			
 	</div>
 </div>
 
