@@ -1,10 +1,7 @@
 ---
 layout: default
 featureImg: assets/peaceYo.jpg
-Headline: Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 ---
-
-
 
 <div class="wider ligGreyToWhite largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
 	<div class="wideOverlay whiteBg09">
@@ -16,7 +13,7 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 		<div class="grid">
 			<div class="unit whole bigGapBott">
 		        <h1 class="bigGapTop mediumGapBott ">
-		        	{{ page.Headline }} 
+		        	Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 		        </h1>
 		     </div>  
 		     <div class="unit one-quarter"></div>
