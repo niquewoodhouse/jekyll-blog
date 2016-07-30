@@ -117,6 +117,10 @@
   margin-top:1.5rem;
  }
 
+  .xlargeMarginTop {
+  margin-top:10.5rem;
+ }
+
   /* Bottom Margins */
 
  .smallMarginBottom {
@@ -131,6 +135,9 @@
   margin-bottom:1.5rem;
  }
 
+  .xlargeMarginBottom {
+  margin-bottom:10.5rem;
+ }
 
 
 .grid_item {
@@ -168,10 +175,6 @@
 */
 a.grid__link {border-bottom-style: none;}
 
-
-.intro {
-  margin-top:10.5rem;
-}
 
 /* Responsive Stuff */
 
