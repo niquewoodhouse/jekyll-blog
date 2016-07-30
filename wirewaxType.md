@@ -10,6 +10,7 @@ role: Creative Director
 jobRole: Creative Director, <br>Product UX/UI Designer
 jobOutput: Native responsive platform, <br>iOS App designs, branding
 featureImg: http://static1.squarespace.com/static/55c8e052e4b01bd89f02a45e/563cf3b4e4b0cb0c3bcbb61f/564b8508e4b0e0e2748ea98f/1455926252773/?format=1500w
+thumbNail: http://static1.squarespace.com/static/55c8e052e4b01bd89f02a45e/563cf3b4e4b0cb0c3bcbb61f/564b8508e4b0e0e2748ea98f/1455926252773/?format=1500w
 tags:
 - work
 ---
