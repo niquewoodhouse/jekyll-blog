@@ -6,7 +6,7 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 
 
 
-<div class="wider ligGreyToWhite largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
+<div class="wider midnightBg largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
 	<div class="wideOverlay whiteBg09">
 		<div class="grid">
 		      <div class="unit whole center-on-mobiles">
