@@ -2,6 +2,7 @@
 layout: default
 featureImg: assets/peaceYo.jpg
 Headline: Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+bgcolor: pitchBlackBg
 ---
 
 <div class="wider bigGapBott h100 saturate1 pos5050 greyscale1_saturate1 bgCover" style="background-image:url('{{ page.featureImg}}')">
