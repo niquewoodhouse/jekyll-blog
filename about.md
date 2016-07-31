@@ -11,7 +11,7 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 				<p class="mediumPrint">{{ page.date | date: '%B %d, %Y' }}	</p>		
 			</div>
 		      <div class="unit whole paddingNo">
-		        <h1 class="textCenter">{{ page.longTitle }}</h1>
+		        <h1 class="textCenter">{{ page.HeadLine }}</h1>
 		      </div>
 		      <div class="unit whole textCenter paddingNo">
 		      	<p class="mediumPrint">{{page.subTitle}}	</p>
