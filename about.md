@@ -61,6 +61,10 @@ bgcolor: pitchBlackBg
 			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
+				 	<div class="grid__lock block">	
+						<h4 class="grid__title block midnight">{{page.title}}</h4>
+						<p class="subtitle block grey">{{page.subtitle}}</p>
+					</div>						        
 			        <p class="">
 			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
