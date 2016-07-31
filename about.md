@@ -57,7 +57,7 @@ bgcolor: pitchBlackBg
  		 
 
 		<div class="grid">		
-		      <div class="unit half mAuto">
+		      <div class="half mAuto">
 			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
