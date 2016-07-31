@@ -6,7 +6,7 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 
 <div class="wider bigGapBott h100 saturate1 pos5050 greyscale1_saturate1 bgCover" style="background-image:url('{{ page.featureImg}}')">
 	<div class="wideOverlay">
-		<div class="grid ghost hero1 w100">
+		<div class="grid midnight hero1 w100">
 			<div class="unit whole textCenter paddingNo">
 				<p class="mediumPrint">{{ page.date | date: '%B %d, %Y' }}	</p>		
 			</div>
