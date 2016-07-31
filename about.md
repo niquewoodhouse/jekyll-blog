@@ -4,12 +4,27 @@ featureImg: assets/peaceYo.jpg
 Headline: Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
 ---
 
+<div class="wider bigGapBott h100 saturate1 pos5050 greyscale1_saturate1 bgCover" style="background-image:url('{{ page.featureImg}}')">
+	<div class="wideOverlay">
+		<div class="grid ghost hero1 w100">
+			<div class="unit whole textCenter paddingNo">
+				<p class="mediumPrint">{{ page.date | date: '%B %d, %Y' }}	</p>		
+			</div>
+		      <div class="unit whole paddingNo">
+		        <h1 class="textCenter">{{ page.longTitle }}</h1>
+		      </div>
+		      <div class="unit whole textCenter paddingNo">
+		      	<p class="mediumPrint">{{page.subTitle}}	</p>
+		      </div>
+		 </div> 
+	</div>		 
+</div>		
 
-
+<!--
 <div class="wider midnightBg largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
-	<div class="wideOverlay whiteBg09">
+	<div class="wideOverlay">
 		<div class="grid">
-		      <div class="unit whole center-on-mobiles">
+		      <div class="unit whole">
 		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.longTitle }}</h1>
 		      </div>
 		 </div>
@@ -35,7 +50,7 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 		 </div>
 	</div>		 
 </div>		
-
+-->
 
 <div class="wider">
  		 
