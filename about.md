@@ -57,17 +57,17 @@ bgcolor: pitchBlackBg
  		 
 
 		<div class="grid">		
-		      <div class="unit half">
-			        <p class="w50 mTopNone">
+		      <div class="unit half mAuto">
+			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
-			        <p class="w80 fRight">
+			        <p class="">
 			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
-					<p class="w80 fRight">
+					<p class="">
 			        	I'm honored by the high regard we were held by global creative agencies, their clients &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
 			        </p>
-			        <p class="w80 fRight">
+			        <p class="">
 			        	Today I create my own products from my London studio, alongside helping others with theirs around the world.  
 			        </p>
 
