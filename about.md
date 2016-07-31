@@ -55,12 +55,9 @@ Headline: Self taught designer, with an obsessive curiosity that keeps my skills
 <div class="wider">
  		 
 
-		<div class="grid bigGapBott">
-		      <div class="unit one-third relative">
-				<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Profile</h4>	    		
-		      </div>			
-		      <div class="unit two-thirds">
-			        <p class="w80 fRight mTopNone">
+		<div class="grid">		
+		      <div class="unit half">
+			        <p class="w50 mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
 			        <p class="w80 fRight">
