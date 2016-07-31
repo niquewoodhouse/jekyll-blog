@@ -1,7 +1,7 @@
 ---
 layout: default
 featureImg: assets/peaceYo.jpg
-Headline: Self taught designer, with an obsessive curiosity that keeps my skills &amp; ambitions always growing. 
+Headline: Self taught designer in London. 
 bgcolor: pitchBlackBg
 ---
 
@@ -65,7 +65,7 @@ bgcolor: pitchBlackBg
 			        	 I was the first Creative Director at <a href="http://www.wirewax.com">Wirewax</a>, a video editing platform used by brands like Spotify, NBC Universal, Nike &amp; BBC.  
 					</p>
 					<p class="">
-			        	I'm honored by the high regard we were held by global creative agencies, their clients &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years. 
+			        	I'm honored by the high regard we were held by global creative agencies, their clients &amp; the impact my role had on the bottom line - with share value increasing 8x in my 2 years of service.
 			        </p>
 			        <p class="">
 			        	Today I create my own products from my London studio, alongside helping others with theirs around the world.  
