@@ -102,7 +102,7 @@ bgcolor: pitchBlackBg
 	    		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">03</span> Studio</h4>	
 	    	</div>
 
-	    	<div class="unit two-thirds fRight ">
+	    	<div class=" two-thirds mAuto ">
 	    		<img src="http://blog.readymag.com/wp-content/uploads/2014/11/anton-repponen-workplace-11.jpg"/>
 	    	</div>	    	
 
@@ -110,10 +110,10 @@ bgcolor: pitchBlackBg
 	    </div>
 
 	    <div class="grid">
-	    	<div class="unit one-third fRight">
+	    	<div class=" one-third mAuto">
 	    		<img src="http://antonandirene.com/upload/contact-photos/1.jpg"/>
 	    	</div>
-	    	<div class="unit one-third fRight">
+	    	<div class=" one-third mAuto">
 	    		<img src="http://antonandirene.com/upload/contact-photos/3.jpg"/>
 	    	</div>	   	    	
 	    </div>
