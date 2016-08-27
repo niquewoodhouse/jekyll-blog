@@ -41,16 +41,17 @@ client: Nickelodeon
 		 		<p class="w80 padding5">
 		 			Designing for twenty five children and their favourite children.
 		 		</p>
-		 	</div>
+		 	</div>		 		 	
+		 </div>
+
+		 <div class="grid">
 		 	<div class="unit one-third padding5">
 		 		<img src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
 		 	<div class="unit one-third padding5">
 		 		<img src="assets/work/nick/spykids4.jpg"/> 
-		 	</div>			 		 	
+		 	</div>	
 		 </div>
-
-
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
