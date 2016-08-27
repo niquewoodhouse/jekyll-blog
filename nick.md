@@ -34,7 +34,7 @@ client: Nickelodeon
 		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/>
 		 		 
 		 	</div>
-		 	<div class="unit half">
+		 	<div class="unit half mediumGapBott">
 		 		<img src="assets/work/nick/bike.png"/> 
 		 	</div>
 		 	<div class="unit half">
@@ -44,32 +44,32 @@ client: Nickelodeon
 		 	</div>		 		 	
 		 </div>
 
-		 <div class="grid">
+		 <div class="grid mediumGapBott">
 		 	<div class="unit half">
 		 		<img class="w90" src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
 		 	<div class="unit half w90">
 		 		<img class="w90" src="assets/work/nick/spykids4.jpg"/> 
 		 	</div>	
-		 </div>
+		 </div> 
 
-		 <div class="grid">
-		 	<div class="unit half">
-		 		<img class="w90" src="assets/work/nick/hugo3.jpg"/> 
-		 	</div>	
-		 	<div class="unit half w90">
-		 		<img class="w90" src="assets/work/nick/spykids4.jpg"/> 
-		 	</div>	
-		 </div>		 
-
-		 <div class="grid">
+		 <div class="grid mediumGapBott">
 		 	<div class="unit half">
 		 		<img class="w90" src="assets/work/nick/hugo1.jpg"/> 
 		 	</div>	
 		 	<div class="unit half w90">
-		 		<img class="w90" src="assets/work/nick/sesame_street1.jpg"/> 
+		 		<img class="w90" src="assets/work/nick/hugo3.jpg"/> 
 		 	</div>	
 		 </div>	
+
+		 <div class="grid mediumGapBott">
+		 	<div class="unit half">
+		 		<img class="w90" src="assets/work/nick/mirrormirror1.jpg"/> 
+		 	</div>	
+		 	<div class="unit half w90">
+		 		<img class="w90" src="assets/work/nick/mirrormirror2.jpg"/> 
+		 	</div>	
+		 </div>			 
 	
 </div>
 
