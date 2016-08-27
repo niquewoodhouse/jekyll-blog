@@ -68,13 +68,13 @@ client: Nickelodeon
 					</p>
 				</div> 	
 				<div class="unit whole mediumGapBott">
-					<img src="assets/work/nick/folio2015_gameDrawing.png"/> 
+					<img class="w50 mAuto" src="assets/work/nick/folio2015_gameDrawing.png"/> 
 				</div>
 				<div class="unit whole mediumGapBott">
-					<img src="assets/work/nick/folio2015_gameAssets.png"/>	
+					<img class="w50 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
 				
-				<video id="myVideo5b" class="" autoplay="" loop="">
+				<video id="myVideo5b" class="mAuto" autoplay="" loop="">
 						  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
 						  <source src="mov_bbb.ogg" type="video/ogg">
 						  Your browser does not support HTML5 video.
