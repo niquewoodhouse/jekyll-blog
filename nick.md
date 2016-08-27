@@ -25,16 +25,14 @@ client: Nickelodeon
 						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
 					</p>
 				</div>
-					 
+					 	
 		</div>
 
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="assets/wirewax/slackEg.png"/> 
-		 		<p class="smallPrint mAuto w50 smallGapTop">
-		 			collage of images, face recognition, name tag, overlay, template select, manage team, data, purchasing something, timeline grapping, palette, type, email (you've veeb tagged etc)
-		 		</p>
+		 		<img src="assets/nick/cinema_trailer_1.jpg"/> 
+		 		<img src="assets/nick/cinema_play_win_1.jpg"/> 
 		 	</div>
 		 </div>
 
