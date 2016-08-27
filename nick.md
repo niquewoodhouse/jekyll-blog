@@ -21,7 +21,7 @@ client: Nickelodeon
 
 		<div class="grid">
 				<div class="unit whole">
-					<p>
+					<p class="w50 mAuto">
 						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
 					</p>
 				</div>
@@ -35,10 +35,12 @@ client: Nickelodeon
 		 		 
 		 	</div>
 		 	<div class="unit half">
-		 		<img src="assets/work/nick/cinema_trailer_1.jpg"/> 
+		 		<img src="assets/work/nick/bike.png"/> 
 		 	</div>
 		 	<div class="unit half">
-		 		Designing for twenty five children and their favourite children.
+		 		<p class="w80 padding5">
+		 			Designing for twenty five children and their favourite children.
+		 		</p>
 		 	</div>
 		 </div>
 
