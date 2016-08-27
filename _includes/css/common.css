@@ -30,6 +30,7 @@ a:hover {
 /* Sizes */
 
 .h100 {min-height:100vh;}
+.h90 {min-height:90vh;}
 
 .coverplate__plate {
 	height: 100%;
