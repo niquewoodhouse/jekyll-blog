@@ -20,7 +20,7 @@ client: Nickelodeon
 <div class="wider">
 
 		<div class="grid">
-				<div class="unit whole">
+				<div class="unit whole mediumGapBott">
 					<p class="w50 mAuto">
 						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
 					</p>
@@ -42,34 +42,15 @@ client: Nickelodeon
 		 			Designing for twenty five children and their favourite children.
 		 		</p>
 		 	</div>
-		 </div>
-
-		 <div class="grid bigGapTop bigGapBott"> 
-		 	<div class="unit one-third relative">
-	    		<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">02</span> Design goals</h4>
-		 	</div>
-
-		 	<div class="unit half fRight">	 		
-		 		<p class="mTopNone">
-		 			People use products because they let them do what they came to do, simply.  The more features a product has the more powerful it is but without the correct goals in place you can get a bloated product that no one can use, simply.  So I questioned each requested feature &amp; how to make it most useful &amp; easy to users.
-		 		</p>
-		 		<p>
-		 			In lots of start ups everyone has great ideas but its important, for the end user, these ideas can fit together to make a unified experience.  
-		 			<span class="block pFocus">
-		 			The best products let users think naturally and conform to us, not the other way around.  
-		 			</span>  
-		 		</p> 	
-		 		<p>
-		 			A lot of tech start ups think talking deeply about the tech helps sell the product but that can backfire.  My ultimate goal was to hide the technology behind a simple human interface. Show why the product is useful, not how.  That lets people focus on why they signed up in the first place.
-		 		</p>
+		 	<div class="unit one-third padding5">
+		 		<img src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
-		 	<div class="unit whole smallGapTop">
-		 		<img src="assets/wirewax/iPadEg.png"/>
-		 		<p class="smallPrint mAuto w50 smallGapTop">
-		 			Clean and minimal interface / video of someone tagging something, picking template, altering it?
-		 		</p>
-		 	</div>	 	
+		 	<div class="unit one-third padding5">
+		 		<img src="assets/work/nick/spykids4.jpg"/> 
+		 	</div>			 		 	
 		 </div>
+
+
 
  		 <div class="grid bigGapTop bigGapBott"> 
 		 	<div class="unit one-third relative">
