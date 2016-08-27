@@ -72,7 +72,13 @@ client: Nickelodeon
 				</div>
 				<div class="unit whole mediumGapBott">
 					<img src="assets/work/nick/folio2015_gameAssets.png"/>	
-				</div>				
+				</div>
+				
+				<video id="myVideo5b" class="" autoplay="" loop="">
+						  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
+						  <source src="mov_bbb.ogg" type="video/ogg">
+						  Your browser does not support HTML5 video.
+				</video>				
 		</div>		 
 
 		 <div class="grid mediumGapBott">
