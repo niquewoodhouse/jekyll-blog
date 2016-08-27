@@ -55,7 +55,7 @@ client: Nickelodeon
 
 		 <div class="grid">
 		 	<div class="unit half">
-		 		<img class="w90" src="assets/work/nick/folio2015_nickKids1.png"/> 
+		 		<img class="w90" src="assets/work/nick/hugo3.jpg"/> 
 		 	</div>	
 		 	<div class="unit half w90">
 		 		<img class="w90" src="assets/work/nick/spykids4.jpg"/> 
