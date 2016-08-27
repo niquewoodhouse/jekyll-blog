@@ -45,10 +45,10 @@ client: Nickelodeon
 		 </div>
 
 		 <div class="grid">
-		 	<div class="unit one-third padding5">
+		 	<div class="unit half padding5">
 		 		<img src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
-		 	<div class="unit one-third padding5">
+		 	<div class="unit half padding5">
 		 		<img src="assets/work/nick/spykids4.jpg"/> 
 		 	</div>	
 		 </div>
