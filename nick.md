@@ -20,37 +20,12 @@ client: Nickelodeon
 <div class="wider">
 
 		<div class="grid">
-				<div class="unit one-third relative">
-					<h4 class="absolute NinetyDegTitle"><span class="gold smallGapBott">01</span> Challenges</h4>
-				</div>
-				 <div class="unit two-thirds">
-						<p class="lead w80 fRight">
-							In a world where a million videos are published every day, Wirewax is a platform that lets anyone make their videos stand out from the crowd.  The main challenges were explaining to users how they could use a feature rich product &amp; designing for both free &amp; premium users needs. 
-						</p>
-						<p class="w80 fRight smallGapBott">
-							Premium users wanted to create completely bespoke interactive video advertising &amp; I am priveleged to have designed something so many respected brands trusted.
-						</p>
-				 </div>							 	
-				<div class="unit whole mediumGapBott">
-					<img src="assets/wirewax/clients.png"/>
-				</div>
-				<div class="unit two-thirds fRight">
-					<p class="lead mediumGapBott mediumGapTop w80 fRight">
-						Free users just wanted to easily add some interactive element to existing videos, but have quick access to deeper tools. From a business point of view we wanted free users to be aware of select premium features they could subscribe to. This was a challenge to balance.
+				<div class="unit whole">
+					<p>
+						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
 					</p>
-					<ul class="w80 blockLi list fRight">
-			        	<li>"A beautiful free platform"  <a href="https://twitter.com/vipint7/status/565885441098797056" class="default gold" target="_blank">@vipin</a></li>
-			        	
-			        </ul>
-			        <ul class="w80 blockLi list fRight">
-			        	<li>"Really easy to use" <a href="https://twitter.com/Tiffy4u/status/560884998828748801" class="gold default" target="_blank">@tiffy</a></li>
-			        
-			        </ul>		
-			        <ul class="w80 blockLi list fRight">
-			        	<li>"It is amazing"  <a href="https://twitter.com/_renatoxavier/status/670282836704935936" class="gold default" target="_blank">@renato</a></li>
-			        	
-			        </ul>				        	        						
 				</div>
+					 
 		</div>
 
 
