@@ -70,6 +70,9 @@ client: Nickelodeon
 				<div class="unit whole mediumGapBott">
 					<img src="assets/work/nick/folio2015_gameDrawing.png"/> 
 				</div>
+				<div class="unit whole mediumGapBott">
+					<img src="assets/work/nick/folio2015_gameAssets.png"/>	
+				</div>				
 		</div>		 
 
 		 <div class="grid mediumGapBott">
