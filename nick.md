@@ -31,8 +31,8 @@ client: Nickelodeon
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img src="assets/nick/cinema_trailer_1.jpg"/> 
-		 		<img src="assets/nick/cinema_play_win_1.jpg"/> 
+		 		<img src="assets/work/nick/cinema_trailer_1.jpg"/> 
+		 		<img src="assets/work/nick/cinema_play_win_1.jpg"/> 
 		 	</div>
 		 </div>
 
