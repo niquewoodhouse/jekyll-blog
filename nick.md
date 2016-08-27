@@ -67,11 +67,11 @@ client: Nickelodeon
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
 					</p>
 				</div> 	
-				<div class="unit whole mediumGapBott">
-					<img class="w50 mAuto" src="assets/work/nick/folio2015_gameDrawing.png"/> 
+				<div class="unit half mediumGapBott">
+					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameDrawing.png"/> 
 				</div>
-				<div class="unit whole mediumGapBott">
-					<img class="w50 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
+				<div class="unit half mediumGapBott">
+					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
 				
 				<video id="myVideo5b" class="mAuto" autoplay="" loop="">
