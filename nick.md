@@ -62,6 +62,14 @@ client: Nickelodeon
 		 	</div>	
 		 </div>		 
 
+		 <div class="grid">
+		 	<div class="unit half">
+		 		<img class="w90" src="assets/work/nick/hugo1.jpg"/> 
+		 	</div>	
+		 	<div class="unit half w90">
+		 		<img class="w90" src="assets/work/nick/sesame_street1.jpg"/> 
+		 	</div>	
+		 </div>	
 	
 </div>
 
