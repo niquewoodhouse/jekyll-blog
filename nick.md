@@ -65,10 +65,11 @@ client: Nickelodeon
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
-						<img class="w90" src="assets/work/nick/folio2015_gameDrawing.png"/> 
-
 					</p>
 				</div> 	
+				<div class="unit whole mediumGapBott">
+					<img src="assets/work/nick/folio2015_gameDrawing.png"/> 
+				</div>
 		</div>		 
 
 		 <div class="grid mediumGapBott">
