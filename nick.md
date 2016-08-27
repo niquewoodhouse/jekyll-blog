@@ -24,8 +24,7 @@ client: Nickelodeon
 					<p class="w50 mAuto">
 						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
 					</p>
-				</div>
-					 	
+				</div> 	
 		</div>
 
 
@@ -61,6 +60,16 @@ client: Nickelodeon
 		 		<img class="w90" src="assets/work/nick/hugo3.jpg"/> 
 		 	</div>	
 		 </div>	
+
+		<div class="grid">
+				<div class="unit whole bigGapBott">
+					<p class="w50 mAuto">
+						Designing games from scratch means defining logic and laws, algorythyms and animations.  
+						<img class="w90" src="assets/work/nick/folio2015_gameDrawing.png"/> 
+
+					</p>
+				</div> 	
+		</div>		 
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit half">
