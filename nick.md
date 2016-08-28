@@ -33,11 +33,11 @@ client: Nickelodeon
 		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/>
 		 		 
 		 	</div>
-		 	<div class="unit half mediumGapBott">
-		 		<img src="assets/work/nick/bike.png"/> 
+		 	<div class="unit whole mediumGapBott">
+		 		<img <img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
 		 	</div>
-		 	<div class="unit half">
-		 		<p class="w80 padding5">
+		 	<div class="unit whole">
+		 		<p class="w50 padding5">
 		 			Designing for twenty five children and their favourite children.
 		 		</p>
 		 	</div>		 		 	
