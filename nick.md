@@ -65,7 +65,7 @@ client: Nickelodeon
 		 </div>	
 
 		<div class="grid">
-				<div class="grid_item unit whole bigGapBott">
+				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
 					</p>
@@ -73,7 +73,7 @@ client: Nickelodeon
 				<div class="grid_item unit half mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
-				<div class="unit half mediumGapBott">
+				<div class="grid_item unit half mediumGapBott">
 					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
 							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
 							  <source src="mov_bbb.ogg" type="video/ogg">
