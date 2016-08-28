@@ -12,8 +12,8 @@ jobRole: UX/UI, Art Direction, Motion
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
-thumbNail: assets/Thumbnail/AHSpaceForIdeas@2x.png
+featureImg: assets/work/Thumbnail/AHSpaceForIdeas@2x.png
+thumbNail: assets/work/Thumbnail/AHSpaceForIdeas@2x.png
 client: Appear Here
 ---
 <div class="wider">
