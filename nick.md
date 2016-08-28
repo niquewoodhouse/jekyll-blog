@@ -36,10 +36,10 @@ client: Nickelodeon
 		 </div>
 
 		 <div class="grid mediumGapBott">
-		 	<div class="unit whole">
+		 	<div class="unit whole mediumGapBott">
 		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
-		 	<div class="unit whole w90">
+		 	<div class="unit whole w90 ">
 		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
 		 	</div>	
 		 </div> 
