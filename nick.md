@@ -34,7 +34,7 @@ client: Nickelodeon
 		 		 
 		 	</div>
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
 		 	</div>
 		 	<div class="unit whole mediumGapBott">
 		 		<p class="w50 padding5">
@@ -42,7 +42,7 @@ client: Nickelodeon
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
 		 	</div>		 		 		 	
 		 </div>
 
@@ -73,7 +73,7 @@ client: Nickelodeon
 				<div class="grid_item unit half mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
-				<div class="grid_item unit half mediumGapBott">
+				<div class="unit half mediumGapBott">
 					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
 							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
 							  <source src="mov_bbb.ogg" type="video/ogg">
@@ -84,14 +84,7 @@ client: Nickelodeon
 			
 		</div>		 
 
-		 <div class="grid mediumGapBott">
-		 	<div class="unit half">
-		 		<img class="w90" src="assets/work/nick/mirrormirror1.jpg"/> 
-		 	</div>	
-		 	<div class="unit half w90">
-		 		<img class="w90" src="assets/work/nick/mirrormirror2.jpg"/> 
-		 	</div>	
-		 </div>			 
+		 
 	
 </div>
 

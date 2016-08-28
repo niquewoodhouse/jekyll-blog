@@ -140,6 +140,8 @@
  }
 
 
+.dBlock {display: block;}
+
 .grid_item {
   display: inline-block;
   vertical-align: middle;
