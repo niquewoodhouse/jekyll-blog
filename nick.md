@@ -34,13 +34,16 @@ client: Nickelodeon
 		 		 
 		 	</div>
 		 	<div class="unit whole mediumGapBott">
-		 		<img <img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
 		 	</div>
-		 	<div class="unit whole">
+		 	<div class="unit whole mediumGapBott">
 		 		<p class="w50 padding5">
 		 			Designing for twenty five children and their favourite children.
 		 		</p>
-		 	</div>		 		 	
+		 	</div>	
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w50 mAuto" src="assets/work/nick/bike.png"/> 
+		 	</div>		 		 		 	
 		 </div>
 
 		 <div class="grid mediumGapBott">
@@ -62,12 +65,12 @@ client: Nickelodeon
 		 </div>	
 
 		<div class="grid">
-				<div class="unit whole bigGapBott">
+				<div class="grid_item unit whole bigGapBott">
 					<p class="w50 mAuto">
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
 					</p>
 				</div> 	
-				<div class="unit half mediumGapBott">
+				<div class="grid_item unit half mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
 				<div class="unit half mediumGapBott">
