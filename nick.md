@@ -98,13 +98,6 @@ client: Nickelodeon
 
 
 
-<div class="wider">	
-		<div class="grid bigGapBott bigGapTop">
-			{% include disclaimer.html %}
-		</div>
-</div>	
-
-
 <!--
 
 		 <div class="grid mediumGapTop bigGapBott">
