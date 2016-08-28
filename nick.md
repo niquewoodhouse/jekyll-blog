@@ -37,10 +37,10 @@ client: Nickelodeon
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole">
-		 		<img class="w90" src="assets/work/nick/vortex1.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
 		 	</div>	
 		 	<div class="unit whole w90">
-		 		<img class="w90" src="assets/work/nick/spykids4.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
 		 	</div>	
 		 </div> 
 
@@ -57,11 +57,11 @@ client: Nickelodeon
 		 	</div>			 
 
 		 <div class="grid mediumGapBott">
-		 	<div class="unit whole">
-		 		<img class="w90" src="assets/work/nick/hugo1.jpg"/> 
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo1.jpg"/> 
 		 	</div>	
-		 	<div class="unit whole w90">
-		 		<img class="w90" src="assets/work/nick/hugo3.jpg"/> 
+		 	<div class="unit whole w90 mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo3.jpg"/> 
 		 	</div>	
 		 </div>	
 
@@ -81,10 +81,16 @@ client: Nickelodeon
 							  Your browser does not support HTML5 video.
 					</video>		
 				</div>
-
-			
 		</div>		 
 
+		 <div class="grid mediumGapBott">
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street2.jpg"/> 
+		 	</div>	
+		 	<div class="unit whole w90 mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street1.jpg"/> 
+		 	</div>	
+		 </div>	
 		 
 	
 </div>
