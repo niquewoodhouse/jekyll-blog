@@ -74,7 +74,7 @@ client: Nickelodeon
 				<div class="grid_item unit half mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
-				<div class="unit half mediumGapBott">
+				<div class="unit half mediumGapBott padding5">
 					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
 							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
 							  <source src="mov_bbb.ogg" type="video/ogg">
