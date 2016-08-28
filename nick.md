@@ -30,20 +30,9 @@ client: Nickelodeon
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/>
-		 		 
+		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/> 
 		 	</div>
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
-		 	</div>
-		 	<div class="unit whole mediumGapBott">
-		 		<p class="w50 padding5">
-		 			Taking assets from poster designs, and giving them depth for interactive.
-		 		</p>
-		 	</div>	
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
-		 	</div>		 		 		 	
+
 		 </div>
 
 		 <div class="grid mediumGapBott">
@@ -54,6 +43,18 @@ client: Nickelodeon
 		 		<img class="w90" src="assets/work/nick/spykids4.jpg"/> 
 		 	</div>	
 		 </div> 
+
+		 	<div class="unit whole mediumGapBott">
+		 		<p class="w50 padding5 dBlock mAuto">
+		 			I took assets from poster designs, and gave them extra depth and texture for interactive.
+		 		</p>
+		 	</div>	
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
+		 	</div>		 	
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
+		 	</div>			 
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit half">
