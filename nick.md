@@ -38,11 +38,11 @@ client: Nickelodeon
 		 	</div>
 		 	<div class="unit whole mediumGapBott">
 		 		<p class="w50 padding5">
-		 			Designing for twenty five children and their favourite children.
+		 			Taking assets from poster designs, and giving them depth for interactive.
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
+		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
 		 	</div>		 		 		 	
 		 </div>
 
