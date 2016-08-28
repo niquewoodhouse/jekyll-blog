@@ -68,9 +68,6 @@ client: Nickelodeon
 					</p>
 				</div> 	
 				<div class="unit half mediumGapBott">
-					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameDrawing.png"/> 
-				</div>
-				<div class="unit half mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
 				</div>
 				<div class="unit half mediumGapBott">
