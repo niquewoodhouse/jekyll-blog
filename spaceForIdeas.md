@@ -32,7 +32,7 @@ client: Appear Here
 		 		<img class="w90 dBlock mAuto borderGrey" src="assets/work/appearheresite/Designs1/About2.png"/> 
 		 	</div>	
 		 	<div class="unit whole w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/appearheresite/Designs1/DestinationCamden2.png"/> 
+		 		<img class="w90 dBlock mAuto borderGrey" src="assets/work/appearheresite/Designs1/DestinationCamden2.png"/> 
 		 	</div>	
 		 </div> 
 
