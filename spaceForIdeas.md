@@ -1,11 +1,11 @@
 ---
 layout: work
-title: Space for Ideas
-subtitle: Microsite
+title: Appear Here
+subtitle: Website / UI
 img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
 categories: work case
 meta: Responsive website campaign
-longTitle: Space for Ideas
+longTitle: Re-imaging editorial
 year: 2015
 role: Designer
 jobRole: UX/UI, Art Direction, Motion 
@@ -21,25 +21,18 @@ client: Appear Here
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
-						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
+						Appear Here has an annual contest for good ideas.  From the ideas people submit on the site, 
 					</p>
 				</div> 	
 		</div>
 
 
-		 <div class="grid"> 
-		 	<div class="unit whole">
-		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/> 
-		 	</div>
-
-		 </div>
-
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/appearheresite/Designs1/About2.png"/> 
 		 	</div>	
 		 	<div class="unit whole w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/appearheresite/Designs1/DestinationCamden2.png"/> 
 		 	</div>	
 		 </div> 
 
