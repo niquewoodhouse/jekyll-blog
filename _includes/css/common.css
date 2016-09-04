@@ -336,8 +336,8 @@ ul.work li {
     transform: translate3d(140px,0px,0);
 }
 
-/* Nav */
-.nav a.logo {
+
+.nav a.navBtn {
     width: 100px;
     height: 100px;
     background: #1a1a1a;
