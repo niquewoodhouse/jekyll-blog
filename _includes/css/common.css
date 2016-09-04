@@ -335,3 +335,15 @@ ul.work li {
     -webkit-transform: translate3d(140px,0px,0);
     transform: translate3d(140px,0px,0);
 }
+
+/* Nav */
+.nav a.logo {
+    width: 100px;
+    height: 100px;
+    background: #1a1a1a;
+    display: block;
+    position: fixed;
+    z-index: 2;
+    border-radius: 50%;
+    margin: 7%;
+}
