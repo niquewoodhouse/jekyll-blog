@@ -336,14 +336,3 @@ ul.work li {
     transform: translate3d(140px,0px,0);
 }
 
-
-.nav a.navBtn {
-    width: 100px;
-    height: 100px;
-    background: #1a1a1a;
-    display: block;
-    position: fixed;
-    z-index: 2;
-    border-radius: 50%;
-    margin: 7%;
-}
