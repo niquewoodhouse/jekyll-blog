@@ -22,7 +22,7 @@ client: Nickelodeon
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
-						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &mp; creative needs.
+						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &amp; creative needs.
 					</p>
 				</div> 	
 		</div>
@@ -30,7 +30,7 @@ client: Nickelodeon
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott" src="assets/work/nick/cinema_play_win_1.jpg"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/nick/cinema_play_win_1.jpg"/> 
 		 	</div>
 
 		 </div>

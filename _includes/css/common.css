@@ -340,9 +340,13 @@ ul.work li {
 a.navBtn
  {    width: 60px;
     height: 60px;
-    background: #191919;
+    background: black;
     display: block;
     position: fixed;
     z-index: 2;
-    border-radius: 50%;
-    margin: 4%;}
+    border-radius: 0%;
+    margin: 4%;
+    border-bottom:0px;
+}
+
+a.navBtn span img {width:20px;margin:24% 35%;}
