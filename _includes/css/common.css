@@ -347,6 +347,9 @@ a.navBtn
     border-radius: 0%;
     margin: 4%;
     border-bottom:0px;
+    padding:0px;
 }
+
+a.navBtn:hover {padding:0px;}
 
 a.navBtn span img {width:20px;margin:24% 35%;}
