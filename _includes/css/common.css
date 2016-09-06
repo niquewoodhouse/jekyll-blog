@@ -353,3 +353,8 @@ a.navBtn
 a.navBtn:hover {padding:0px;}
 
 a.navBtn span img {width:20px;margin:24% 35%;}
+
+.btn-menu-pulse {
+	animation: pulse 2.3s infinite;
+    box-shadow: 0 0 0 rgba(26,26,26,0.2);
+}
