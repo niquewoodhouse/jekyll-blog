@@ -5,7 +5,7 @@ body-class: wider
 
 
 
-<div class="wider h90 offBlackBg">
+<div class="wider h90 offBlackBg mediumMarginBottom">
 	<div class="grid xlargeMarginTop">
 	      <div class="unit whole">
 	        <h1 class="xlargeMarginTop">I'm Nique. Pro Surfer. (Web only. Afraid of sea.)</h1>
@@ -20,7 +20,7 @@ body-class: wider
 			{% assign counter = '0' %}
 			{% for page in site.pages %}
 			{% for tag in page.tags %}
-			{% if tag == "work" and counter < '6' %}
+			{% if tag == "work" and counter < '8' %}
 			    {% capture counter %}{{ counter | plus:'1' }}{% endcapture %}
 			 <div class="grid_item"> 
 				 <a href="{{site.baseurl}}/jekyll-blog/{{page.url}}" class="grid__link animate">
