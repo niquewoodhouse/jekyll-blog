@@ -5,7 +5,7 @@ subtitle: Responsive / Interactive
 img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
 categories: work case
 meta: Responsive website campaign
-longTitle: Showcasing the highs of 2015 & inspiring for 2016
+longTitle: A video player for a new kind of video
 year: 2015
 role: Designer
 jobRole: UX, UI 
@@ -14,6 +14,7 @@ tags:
 - work
 featureImg: assets/work/wwxvideoplyr/mast-sherlock3-personality-icon-high-res.jpg
 thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b2818d1dae644c6d2c2cc6c.png
+client: Wirewax
 ---
 
 <div class="wider">
