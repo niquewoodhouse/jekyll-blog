@@ -22,7 +22,7 @@ client: Wirewax
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
-						
+						Wirewax is the world's first ever free to use HTML5 video editor that can make anything in any video interactive. The video player UI needed to let viewers interact with the content, let that content be the focus, as well as satisfy functionality expectations of the most common video players.
 					</p>
 				</div> 	
 		</div>
