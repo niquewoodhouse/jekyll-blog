@@ -12,7 +12,7 @@ jobRole: UX, UI
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
+featureImg: assets/work/wwxvideoplyr/mast-sherlock3-personality-icon-high-res.jpg
 thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b2818d1dae644c6d2c2cc6c.png
 ---
 
@@ -21,7 +21,7 @@ thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b281
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
-						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &amp; creative needs.
+						
 					</p>
 				</div> 	
 		</div>
