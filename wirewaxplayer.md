@@ -17,27 +17,82 @@ thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b281
 ---
 
 <div class="wider">
-	<div class="grid">
-		<div class="unit whole">
-			<img class="x" src="assets/appearhere/Frame1.png"/>
+
+		<div class="grid">
+				<div class="unit whole bigGapBott">
+					<p class="w50 mAuto">
+						MTV wanted to boost income for the #1 kids entertainment site nick.co.uk. I helped design flexible templates to help sell microsites, games &amp; campaigns to their big brand partners. Between 2010 &amp; 2013 I worked on 30+ projects, generating ideas &amp; designs to push the templates to meet various briefs, brands &amp; creative needs.
+					</p>
+				</div> 	
 		</div>
-	</div>
 
-</div>
 
-<div class="wider">
-		<div class="grid bigGapBott bigGapTop">
-		      <div class="unit half">
-			        <p class="lead w80">
-			        	One of the best start ups I've ever met, <a href="http://www.appearhere.co.uk" target="_blank">Appear Here</a> is constantly winning awards for both its business success &amp; awesome CEO.  Airbnb for pop-up shops/special events.
-			        </p>
-		       </div>
-		      <div class="unit half">
-			        <p class="lead w80">
-			        	I spent a couple of days in their London HQ on concepts for an 'end of year' campaign, &amp; to address pain‐points related to the browse &amp; discovery experience.
-			        </p>
-		       </div>		     
+		 <div class="grid"> 
+		 	<div class="unit whole">
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/nick/cinema_play_win_1.jpg"/> 
+		 	</div>
+
 		 </div>
+
+		 <div class="grid mediumGapBott">
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
+		 	</div>	
+		 	<div class="unit whole w90 ">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
+		 	</div>	
+		 </div> 
+
+		 	<div class="unit whole mediumGapBott">
+		 		<p class="w50 padding5 dBlock mAuto">
+		 			I took assets from poster designs, and gave them extra depth and texture for interactive.
+		 		</p>
+		 	</div>	
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
+		 	</div>		 	
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
+		 	</div>			 
+
+		 <div class="grid mediumGapBott">
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo1.jpg"/> 
+		 	</div>	
+		 	<div class="unit whole w90 mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo3.jpg"/> 
+		 	</div>	
+		 </div>	
+
+		<div class="grid">
+				<div class="unit whole bigGapBott">
+					<p class="w50 mAuto">
+						Designing games from scratch means defining logic and laws, algorythyms and animations.  
+					</p>
+				</div> 	
+				<div class="grid_item unit half mediumGapBott">
+					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
+				</div>
+				<div class="unit half mediumGapBott  padding5">
+					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
+							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
+							  <source src="mov_bbb.ogg" type="video/ogg">
+							  Your browser does not support HTML5 video.
+					</video>		
+				</div>
+		</div>		 
+
+		 <div class="grid mediumGapBott">
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street2.jpg"/> 
+		 	</div>	
+		 	<div class="unit whole w90 mediumGapBott">
+		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street1.jpg"/> 
+		 	</div>	
+		 </div>	
+		 
+	
+</div>
 
 
 
