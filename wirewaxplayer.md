@@ -13,13 +13,13 @@ jobOutput: Responsive design, Video
 tags: 
 - work
 featureImg: http://ee.co.uk/content/dam/everything-everywhere/Newsroom/Newsroom%20article%20images/Ross%20Bailey%20and%20Emilie%20Holmes%202.jpg
-thumbNail: assets/work/Thumbnail/WirewaxPlayer@2x.png
+thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b2818d1dae644c6d2c2cc6c.png
 ---
 
 <div class="wider">
 	<div class="grid">
 		<div class="unit whole">
-			<img class="shadow" src="assets/appearhere/Frame1.png"/>
+			<img class="x" src="assets/appearhere/Frame1.png"/>
 		</div>
 	</div>
 
