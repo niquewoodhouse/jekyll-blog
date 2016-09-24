@@ -30,8 +30,16 @@ client: Wirewax
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="https://d13yacurqjgara.cloudfront.net/users/478803/screenshots/2974886/movie_player.png"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/wwxvideoplyr/VideoPlayerUI_1.png"/> 
 		 	</div>
+				<div class="unit whole bigGapBott">
+					<h2 class="mAuto smallGapBott">
+						Tags
+					</h2>
+					<p class="w50 mAuto">
+						Tags are the objects viewers can interact with.  
+					</p>
+				</div> 			 	
 
 		 </div>
 
