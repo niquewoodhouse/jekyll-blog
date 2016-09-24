@@ -30,7 +30,7 @@ client: Wirewax
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/nick/cinema_play_win_1.jpg"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="https://d13yacurqjgara.cloudfront.net/users/478803/screenshots/2974886/movie_player.png"/> 
 		 	</div>
 
 		 </div>
