@@ -67,15 +67,6 @@ client: Wirewax
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
 		 	</div>			 
 
-		 <div class="grid mediumGapBott">
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo1.jpg"/> 
-		 	</div>	
-		 	<div class="unit whole w90 mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/hugo3.jpg"/> 
-		 	</div>	
-		 </div>	
-
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto">
