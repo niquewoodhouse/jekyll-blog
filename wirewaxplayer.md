@@ -33,11 +33,11 @@ client: Wirewax
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/wwxvideoplyr/VideoPlayerUI_1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
-					<h2 class="mAuto smallGapBott">
+					<h2 class="w50 mAuto smallGapBott uppercase">
 						Tags
 					</h2>
 					<p class="w50 mAuto">
-						Tags are the objects viewers can interact with.  
+						Tags are the objects viewers can interact with.  With a wide user base, I designed various tags to give our users more options to customise their interactive videos.
 					</p>
 				</div> 			 	
 
@@ -53,8 +53,11 @@ client: Wirewax
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
+					<h2 class="w50 mAuto smallGapBott uppercase">
+						USER EXPECTATIONS
+					</h2>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			I took assets from poster designs, and gave them extra depth and texture for interactive.
+		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to indicate the interactive elements.
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
