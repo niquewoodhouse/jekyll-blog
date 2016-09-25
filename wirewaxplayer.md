@@ -53,9 +53,9 @@ client: Wirewax
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
-					<h2 class="w50 mAuto smallGapBott uppercase">
+					<p class="w50 mAuto bold uppercase">
 						USER EXPECTATIONS
-					</h2>		 		
+					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
 		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to indicate the interactive elements.
 		 		</p>
