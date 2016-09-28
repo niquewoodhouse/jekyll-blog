@@ -50,8 +50,8 @@ client: Appear Here
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/morethanspace1.png"/> 		 		
 		 	</div>	
 
-				<div class="unit half mediumGapBott  padding5">
-					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
+				<div class="unit half mediumGapBott">
+					<video class="mAuto w90 dBlock" autoplay="" loop="">
 							  <source src="assets/work/ahHow/bujar1.mp4" type="video/mp4">
 							  <source src="mov_bbb.ogg" type="video/ogg">
 							  Your browser does not support HTML5 video.
