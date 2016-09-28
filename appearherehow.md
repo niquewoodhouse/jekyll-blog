@@ -98,9 +98,3 @@ client: Appear Here
 
 
 
-
-	<div class="grid bigGapBott bigGapTop">
-		{% include disclaimer.html %}
-	</div>
-
-
