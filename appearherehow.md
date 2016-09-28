@@ -72,36 +72,17 @@ client: Appear Here
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="w50 dBlock mAuto" src="assets/work/ahHow/Components2@2x.png"/> 
 		 	</div>		 	
+				<p class="w50 mAuto bold uppercase">
+						MIND MAPPING	
+				</p>	
+		 		<p class="w50 padding5 dBlock mAuto">
+		 			I use mind node to gather research into plottable action points for a design or a discussion.  It means we can trace things back to the source in a visual, easy way.
+		 		</p>		 	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
+		 		<img class="dBlock mAuto" src="assets/work/ahHow/mindnode1.png"/> 
 		 	</div>			 
 
-		<div class="grid">
-				<div class="unit whole bigGapBott">
-					<p class="w50 mAuto">
-						Designing games from scratch means defining logic and laws, algorythyms and animations.  
-					</p>
-				</div> 	
-				<div class="grid_item unit half mediumGapBott">
-					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
-				</div>
-				<div class="unit half mediumGapBott  padding5">
-					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
-							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
-							  <source src="mov_bbb.ogg" type="video/ogg">
-							  Your browser does not support HTML5 video.
-					</video>		
-				</div>
-		</div>		 
-
-		 <div class="grid mediumGapBott">
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street2.jpg"/> 
-		 	</div>	
-		 	<div class="unit whole w90 mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street1.jpg"/> 
-		 	</div>	
-		 </div>	
+		
 		 
 	
 </div>
