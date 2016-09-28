@@ -34,7 +34,7 @@ client: Appear Here
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/Trusted1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
-					<p class="w50 mAuto smallGapBott uppercase bold">
+					<p class="w50 mAuto uppercase bold">
 						DIFFERENT INTERNATIONAL AUDIENCES
 					</p>
 					<p class="w50 mAuto">
