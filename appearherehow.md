@@ -31,7 +31,7 @@ client: Appear Here
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/trusted1.png"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/Trusted1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<h2 class="w50 mAuto smallGapBott uppercase">
