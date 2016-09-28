@@ -47,6 +47,7 @@ client: Appear Here
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="w90 dBlock mAuto" src="assets/work/ahHow/bujarstory1.png"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/morethanspace1.png"/> 		 		
 		 	</div>	
 
 				<div class="unit half mediumGapBott  padding5">
