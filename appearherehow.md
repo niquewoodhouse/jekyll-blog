@@ -31,7 +31,7 @@ client: Appear Here
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="https://static1.squarespace.com/static/55c8e052e4b01bd89f02a45e/t/5750684e59827ea21ada15b2/1464887393256/?format=1500w"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/trusted1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<h2 class="w50 mAuto smallGapBott uppercase">
