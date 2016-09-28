@@ -33,7 +33,7 @@ client: Appear Here
 		 	<div class="unit whole">
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/Trusted1.png"/> 
 		 	</div>
-				<div class="unit whole bigGapBott">
+				<div class="unit whole mediumGapBott">
 					<p class="w50 mAuto uppercase bold">
 						DIFFERENT INTERNATIONAL AUDIENCES
 					</p>
@@ -48,6 +48,15 @@ client: Appear Here
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="w90 dBlock mAuto" src="assets/work/ahHow/bujarstory1.png"/> 
 		 	</div>	
+
+				<div class="unit half mediumGapBott  padding5">
+					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
+							  <source src="assets/work/ahHow/bujar1.mp4" type="video/mp4">
+							  <source src="mov_bbb.ogg" type="video/ogg">
+							  Your browser does not support HTML5 video.
+					</video>		
+				</div>
+
 
 		 </div> 
 
