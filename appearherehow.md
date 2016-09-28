@@ -63,14 +63,14 @@ client: Appear Here
 
 		 	<div class="unit whole mediumGapBott">
 					<p class="w50 mAuto bold uppercase">
-						USER EXPECTATIONS
+						COMPONENT LIBRRARY
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to indicate the interactive elements.
+		 			Alongside designing the screens, I put each component into Zeplin for the developers seperately.  So we have one golden source to design from, and nothing is left undesigned/considered.
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/ahHow/Components2@2x.png"/> 
 		 	</div>		 	
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
