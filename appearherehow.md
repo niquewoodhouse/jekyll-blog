@@ -23,7 +23,7 @@ client: Appear Here
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto firstP">
 						Appear Here is the premier platform for renting short term retail space. 
-						As part of a brand &amp; brand refresh, I design how it works pages to guide possible tenants on how it works.
+						As part of a brand &amp; brand refresh, I design how it works pages to guide possible tenants and landlords on how it works.
 					</p>
 				</div> 	
 		</div>
@@ -34,11 +34,11 @@ client: Appear Here
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahHow/Trusted1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
-					<h2 class="w50 mAuto smallGapBott uppercase">
-						Tags
-					</h2>
+					<p class="w50 mAuto smallGapBott uppercase bold">
+						DIFFERENT INTERNATIONAL AUDIENCES
+					</p>
 					<p class="w50 mAuto">
-						Tags are the objects viewers can interact with.  With a wide user base, I designed various tags to give our users more options to customise their interactive videos.
+						Tenants are attracted to the concept of joining a community.  As the company expands to become international, I wanted to align product innovation with the storyline of their idea's journey, in a way that visually communicates - even if they didn't read a word.
 					</p>
 				</div> 			 	
 
@@ -46,11 +46,9 @@ client: Appear Here
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/ahHow/bujarstory1.png"/> 
 		 	</div>	
-		 	<div class="unit whole w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
-		 	</div>	
+
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">

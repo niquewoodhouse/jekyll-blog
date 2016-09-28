@@ -106,6 +106,8 @@ ul.recentWork a {
     text-decoration:none !important;
 }
 
+.bold {font-weight: 700;}
+
 
 .pFocus {
     font-weight: 900;
