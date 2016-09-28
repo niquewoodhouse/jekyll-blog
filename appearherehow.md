@@ -1,28 +1,29 @@
 ---
 layout: work
-title: Video Player
+title: How it works
 subtitle: Responsive / Interactive
 img: http://static1.squarespace.com/static/514e40ffe4b0e29595fe765d/t/5647bbb0e4b072d19f90d5f1/1447541681826/?format=750w
 categories: work case
 meta: Responsive website campaign
-longTitle: A video player for a new kind of video
-year: 2015
+longTitle: Guides 
+year: 2016
 role: Designer
 jobRole: UX, UI 
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: assets/work/wwxvideoplyr/mast-sherlock3-personality-icon-high-res.jpg
-thumbNail: https://s-media-cache-ak0.pinimg.com/originals/71/36/96/713696cc3b2818d1dae644c6d2c2cc6c.png
-client: Wirewax
+featureImg: assets/work/ahHow/hero1.jpg
+thumbNail: assets/work/ahHow/hero1.jpg
+client: Appear Here
 ---
 
 <div class="wider">
 
 		<div class="grid">
 				<div class="unit whole bigGapBott">
-					<p class="w50 mAuto">
-						Wirewax is the world's first ever free to use HTML5 video editor that can make anything in any video interactive. The video player UI needed to let viewers interact with the content, let that content be the focus, as well as satisfy functionality expectations of the most common video players.
+					<p class="w50 mAuto firstP">
+						Appear Here is the premier platform for renting short term retail space. 
+						As part of a brand &amp; brand refresh, I design how it works pages to guide possible tenants on how it works.
 					</p>
 				</div> 	
 		</div>

@@ -66,6 +66,16 @@ p.mediumPrint {
     font-size:0.85em;
 }
 
+p.firstP {
+    font-size:28px;
+    line-height: 1.47059;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    font-family: 'Playfair Display', serif;
+
+}
+
 .textCenter {text-align: center;}
 .textJustify {text-align: justify;}
 .textLeft {text-align: left;}
