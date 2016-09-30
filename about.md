@@ -32,6 +32,16 @@ bgcolor: pitchBlackBg
 			<div class="unit one-quarter">
 				<img src="assets/logos/Logos_mtv.svg"/>
 			</div>
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_spotify.svg"/>
+			</div>	
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_vans.svg"/>
+			</div>						
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_adidas.svg"/>
+			</div>	
+
 		      <div class="half mAuto">
 			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
