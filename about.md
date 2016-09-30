@@ -41,6 +41,18 @@ bgcolor: pitchBlackBg
 			<div class="unit one-quarter">
 				<img src="assets/logos/Logos_adidas.svg"/>
 			</div>	
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_appearhere.svg"/>
+			</div>
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_nick.svg"/>
+			</div>	
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_aande.svg"/>
+			</div>						
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_paramount.svg"/>
+			</div>				
 
 		      <div class="half mAuto">
 			        <p class="mTopNone">
