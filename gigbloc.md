@@ -32,7 +32,7 @@ client: Gigbloc
 		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/wwxvideoplyr/VideoPlayerUI_1.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
-					<h2 class="w50 mAuto smallGapBott uppercase">
+					<h2 class="w50 mAuto smallGapBott textCenter uppercase">
 						Vision
 					</h2>
 					<p class="w50 mAuto">
@@ -44,15 +44,15 @@ client: Gigbloc
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit half w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit half w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>			 	
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
-					<p class="w50 mAuto bold uppercase">
+					<p class="w50 mAuto bold textCenter uppercase">
 						BRANDING
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
@@ -61,11 +61,11 @@ client: Gigbloc
 		 	</div>			 
 
 		 	<div class="unit whole mediumGapBott">
-					<p class="w50 mAuto bold uppercase">
+					<p class="w50 mAuto bold textCenter uppercase">
 						FEATURE TEASE
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			In the early stages of a start up, 
+		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
