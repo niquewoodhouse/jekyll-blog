@@ -75,7 +75,7 @@ client: Appear Here
 						COMPONENT LIBRRARY
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			Alongside designing the screens, I put each component into Zeplin for the developers seperately.  So we have one golden source to design from, and nothing is left undesigned/considered.
+		 			Alongside designing the screens, I put each component into Zeplin for the developers seperately.  So we have one golden source to build from, and nothing is left undesigned/considered.  Sometimes, if you just think 
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
