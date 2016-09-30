@@ -44,7 +44,7 @@ client: Gigbloc
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/screen1@2x.png"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit whole w90 ">
 		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
