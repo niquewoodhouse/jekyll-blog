@@ -43,12 +43,12 @@ client: Gigbloc
 		 </div>
 
 		 <div class="grid mediumGapBott">
-		 	<div class="unit whole mediumGapBott">
+		 	<div class="unit half w90 ">
 		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
-		 	<div class="unit whole w90 ">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
-		 	</div>	
+		 	<div class="unit half w90 ">
+		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 	</div>			 	
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
