@@ -21,42 +21,17 @@ bgcolor: pitchBlackBg
 	</div>		 
 </div>		
 
-<!--
-<div class="wider midnightBg largeMarginTop" style="background-image:url('{{ page.featureImg}}');background-position:center top;">
-	<div class="wideOverlay">
-		<div class="grid">
-		      <div class="unit whole">
-		        <h1 class="bigGapTop mediumGapBott bigGapTop">{{ page.longTitle }}</h1>
-		      </div>
-		 </div>
-		<div class="grid">
-			<div class="unit whole bigGapBott">
-		        <h1 class="bigGapTop mediumGapBott ">
-		        	{{ page.Headline }} 
-		        </h1>
-		     </div>  
-		     <div class="unit one-quarter"></div>
-			<div class="unit one-quarter bigGapBott">
-			      	<ul class="blockLi list">
-			      		<li><a href="http://linkedin.com/in/niquewoodhouse">Linkedin</a></li>
-			      		<li><a href="http://twitter.com/niquewoodhouse">Twitter</a></li>	
-			      	</ul>	
-		     </div> 
-			<div class="unit one-quarter bigGapBott">
-			      	<ul class="blockLi list">
-			      		<li><a href="tel:44747888909">+44 7478 888909</a></li>	
-			      		<li><a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a></li>		
-			      	</ul>	
-		     </div>  		      		               		      		      
-		 </div>
-	</div>		 
-</div>		
--->
 
 <div class="wider">
  		 
 
 		<div class="grid">		
+			<div class="unit half dBlock mediumGapBottom">
+				<h2>I work with bold brands I believe in.</h2>
+			</div>
+			<div class="unit one-quarter">
+				<img src="assets/logos/Logos_mtv.svg"/>
+			</div>
 		      <div class="half mAuto">
 			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
