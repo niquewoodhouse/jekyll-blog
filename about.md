@@ -3,7 +3,7 @@ layout: default
 featureImg: assets/peaceYo.jpg
 Headline: I'm a self-taught designer in London, available for freelance work.
 bgcolor: pitchBlackBg
-subTitle: <a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>
+subTitle: <a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a> +44 0 7948 888 909
 ---
 
 <div class="wider bigGapBott h100 saturate1 pos5050 greyscale1_saturate1 bgCover" style="background-image:url('{{ page.featureImg}}')">
@@ -27,7 +27,7 @@ subTitle: <a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@g
  		 
 
 		<div class="grid">		
-			<div class="unit whole dBlock mediumGapBottom">
+			<div class="unit whole dBlock largeGapBottom largeGapTop">
 				<h2 class="w50 mAuto textCenter ghost">I work with bold brands I believe in.</h2>
 			</div>
 			<div class="unit one-fifth">
@@ -62,7 +62,7 @@ subTitle: <a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@g
 			</div>			
 
 
-			<div class="unit whole dBlock mediumGapBottom">
+			<div class="unit whole dBlock largeGapBottom largeGapTop">
 				<h2 class="w50 mAuto textCenter ghost">I'm passionate .</h2>
 			</div>
 		      <div class="half mAuto">

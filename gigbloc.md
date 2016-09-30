@@ -21,12 +21,11 @@ client: Gigbloc
 
 		<div class="grid">
 				<div class="unit whole bigGapBott">
-					<p class="w50 mAuto">
-						Wirewax is the world's first ever free to use HTML5 video editor that can make anything in any video interactive. The video player UI needed to let viewers interact with the content, let that content be the focus, as well as satisfy functionality expectations of the most common video players.
+					<p class="w50 mAuto firstP">
+						Citymapper for music gigs. 
 					</p>
 				</div> 	
 		</div>
-
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
@@ -34,10 +33,10 @@ client: Gigbloc
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<h2 class="w50 mAuto smallGapBott uppercase">
-						Tags
+						Vision
 					</h2>
 					<p class="w50 mAuto">
-						Tags are the objects viewers can interact with.  With a wide user base, I designed various tags to give our users more options to customise their interactive videos.
+						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
 					</p>
 				</div> 			 	
 
@@ -45,7 +44,7 @@ client: Gigbloc
 
 		 <div class="grid mediumGapBott">
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/vortex1.jpg"/> 
+		 		<img class="w90 dBlock mAuto" src="assets/work/gigbloc/screen1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit whole w90 ">
 		 		<img class="w90 dBlock mAuto" src="assets/work/nick/spykids4.jpg"/> 
@@ -54,10 +53,19 @@ client: Gigbloc
 
 		 	<div class="unit whole mediumGapBott">
 					<p class="w50 mAuto bold uppercase">
-						USER EXPECTATIONS
+						BRANDING
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to indicate the interactive elements.
+		 			I went with a light interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night.  Pop it like its hot.
+		 		</p>
+		 	</div>			 
+
+		 	<div class="unit whole mediumGapBott">
+					<p class="w50 mAuto bold uppercase">
+						FEATURE TEASE
+					</p>		 		
+		 		<p class="w50 padding5 dBlock mAuto">
+		 			In the early stages of a start up, 
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
