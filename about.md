@@ -29,30 +29,36 @@ bgcolor: pitchBlackBg
 			<div class="unit full dBlock mediumGapBottom">
 				<h2 class="w50 mAuto ghost dBlock">I work with bold brands I believe in.</h2>
 			</div>
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_mtv.svg"/>
 			</div>
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_spotify.svg"/>
 			</div>	
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_vans.svg"/>
 			</div>						
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_adidas.svg"/>
 			</div>	
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_appearhere.svg"/>
 			</div>
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_nick.svg"/>
 			</div>	
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_aande.svg"/>
 			</div>						
-			<div class="unit one-quarter">
+			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_paramount.svg"/>
 			</div>				
+			<div class="unit one-fifth">
+				<img src="assets/logos/Logos_remington.svg"/>
+			</div>
+			<div class="unit one-fifth">
+				<img src="assets/logos/Logos_nike.svg"/>
+			</div>			
 
 		      <div class="half mAuto">
 			        <p class="mTopNone">
