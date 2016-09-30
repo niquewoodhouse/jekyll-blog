@@ -26,8 +26,8 @@ bgcolor: pitchBlackBg
  		 
 
 		<div class="grid">		
-			<div class="unit half dBlock mediumGapBottom">
-				<h2>I work with bold brands I believe in.</h2>
+			<div class="unit full dBlock mediumGapBottom">
+				<h2 class="w50 mAuto ghost dBlock">I work with bold brands I believe in.</h2>
 			</div>
 			<div class="unit one-quarter">
 				<img src="assets/logos/Logos_mtv.svg"/>
