@@ -13,7 +13,7 @@
 }
 
 h1 {
-	font: 2.5rem 'Roboto', serif;
+	font: 2.5rem 'Lora', serif;
     font-weight: 900;
     line-height: 1.2666666667;
     letter-spacing: 0.02rem;
@@ -28,7 +28,7 @@ h4 {
     */
     font-size: 1.375rem;
     line-height: 1.4rem;
-    font-family: 'Roboto', serif;
+    font-family: 'Lora', serif;
     transform-origin: left top 0;
     font-weight: 500;
     letter-spacing: 0.05rem;    
@@ -82,7 +82,7 @@ p.firstP {
 
 body {
     /*font-family:"univers_ce_45_lightregular", Helvetica, Arial, sans-serif;*/
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', serif;
 
 }
 
