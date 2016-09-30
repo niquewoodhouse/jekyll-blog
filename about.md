@@ -3,6 +3,7 @@ layout: default
 featureImg: assets/peaceYo.jpg
 Headline: I'm a self-taught designer in London, available for freelance work.
 bgcolor: pitchBlackBg
+subTitle: <a href="mailto:nique.shjm.woodhouse@gmail.com">nique.shjm.woodhouse@gmail.com</a>
 ---
 
 <div class="wider bigGapBott h100 saturate1 pos5050 greyscale1_saturate1 bgCover" style="background-image:url('{{ page.featureImg}}')">
@@ -27,7 +28,7 @@ bgcolor: pitchBlackBg
 
 		<div class="grid">		
 			<div class="unit whole dBlock mediumGapBottom">
-				<h2 class="w50 mAuto ghost">I work with bold brands I believe in.</h2>
+				<h2 class="w50 mAuto textCenter ghost">I work with bold brands I believe in.</h2>
 			</div>
 			<div class="unit one-fifth">
 				<img src="assets/logos/Logos_mtv.svg"/>
@@ -60,7 +61,12 @@ bgcolor: pitchBlackBg
 				<img src="assets/logos/Logos_nike.svg"/>
 			</div>			
 
+
+			<div class="unit whole dBlock mediumGapBottom">
+				<h2 class="w50 mAuto textCenter ghost">I'm passionate .</h2>
+			</div>
 		      <div class="half mAuto">
+
 			        <p class="mTopNone">
 			        	I'm passionate about transforming complex problems into simple &amp; obvious solutions. I can't swim.  
 			        </p>
