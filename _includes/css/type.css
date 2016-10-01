@@ -13,7 +13,7 @@
 }
 
 h1 {
-	font: 2.5rem 'Lora', serif;
+	font: 2.5rem;
     font-weight: 900;
     line-height: 1.2666666667;
     letter-spacing: 0.02rem;
@@ -28,7 +28,6 @@ h4 {
     */
     font-size: 1.375rem;
     line-height: 1.4rem;
-    font-family: 'Lora', serif;
     transform-origin: left top 0;
     font-weight: 500;
     letter-spacing: 0.05rem;    
