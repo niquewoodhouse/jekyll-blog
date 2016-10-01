@@ -45,13 +45,13 @@ client: Appear Here, 2016
 		 <div class="grid mediumGapBott maxwidth1400 mAuto">
 
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/ahdestination/hackneymobile1@2x.png"/> 
+		 		<img class="dBlock mAuto w90" src="assets/work/ahdestination/hackneymobile1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit one-third w90 ">
 		 		<img class="dBlock mAuto" src="assets/work/ahdestination/hackneymobile2@2x.png"/> 
 		 	</div>
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/ahdestination/hackneymobile3@2x.png"/> 
 		 	</div>				 				 	
 		 </div> 
 
