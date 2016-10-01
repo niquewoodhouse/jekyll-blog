@@ -78,9 +78,14 @@ client: Appear Here, 2016
 		 		</p>
 		 	</div>	
 	
-		 	<div class="unit whole mediumGapBott">
+		 	<div class="unit whole smallestGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/ahdestination/parislady1@2x.jpg"/> 
-		 	</div>			 
+		 	</div>		
+			<div class="unit whole mediumGapBott">
+					<p class="w50 mAuto grey">
+						Part of the design involved selecting imagery from freelance photographers.  
+					</p>						 		 
+			</div>
 
 		<div class="grid  mAuto maxwidth1400">
 				<div class="unit whole bigGapBott">
