@@ -27,7 +27,7 @@ client: Gigbloc, 2015
 				</div> 	
 		</div>
 
-		 <div class="grid maxwidth1400"> 
+		 <div class="grid maxwidth1400 mAuto"> 
 		 	<div class="unit whole">
 		 		<img class="mediumGapBott dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>
@@ -42,7 +42,7 @@ client: Gigbloc, 2015
 
 		 </div>
 
-		 <div class="grid mediumGapBott maxwidth1400">
+		 <div class="grid mediumGapBott maxwidth1400 mAuto">
 
 		 	<div class="unit one-third w90 ">
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
@@ -55,7 +55,7 @@ client: Gigbloc, 2015
 		 	</div>				 				 	
 		 </div> 
 
-		 	<div class="unit whole mediumGapBott">
+		 	<div class="unit whole mediumGapBott mAuto maxwidth1400">
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						BRANDING
 					</p>		 		
@@ -64,7 +64,7 @@ client: Gigbloc, 2015
 		 		</p>
 		 	</div>			 
 
-		 	<div class="unit whole mediumGapBott">
+		 	<div class="unit whole mediumGapBott mAuto maxwidth1400">
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						FEATURE TEASE
 					</p>		 		
@@ -72,14 +72,14 @@ client: Gigbloc, 2015
 		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
-		 	<div class="unit whole mediumGapBott">
+		 	<div class="unit whole mediumGapBott mAuto maxwidth1400">
 		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>		 	
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
 		 	</div>			 
 
-		<div class="grid">
+		<div class="grid  mAuto maxwidth1400">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto darkgrey">
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
@@ -97,7 +97,7 @@ client: Gigbloc, 2015
 				</div>
 		</div>		 
 
-		 <div class="grid mediumGapBott">
+		 <div class="grid mediumGapBott mAuto maxwidth1400">
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street2.jpg"/> 
 		 	</div>	
