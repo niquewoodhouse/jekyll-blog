@@ -40,6 +40,11 @@ client: Appear Here, 2016
 					</p>
 				</div> 			 	
 
+		 	<div class="unit whole">
+		 		<img class="mediumGapBott dBlock mAuto" src="https://d13yacurqjgara.cloudfront.net/users/40433/screenshots/1748038/userguide__1_.gif"/> 
+		 	</div>
+				
+
 		 </div>
 
 		 <div class="grid mediumGapBott maxwidth1400 mAuto">
