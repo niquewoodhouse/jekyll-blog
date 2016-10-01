@@ -12,8 +12,8 @@ jobRole: UX, UI
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: assets/work/ahHow/hero1.jpg
-thumbNail: assets/work/ahHow/hero1.jpg
+featureImg: assets/work/ahHow/hero1b.jpg
+thumbNail: assets/work/ahHow/hero1b.jpg
 client: Appear Here
 ---
 
