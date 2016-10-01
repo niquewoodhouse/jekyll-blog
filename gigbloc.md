@@ -27,7 +27,7 @@ client: Gigbloc, 2015
 				</div> 	
 		</div>
 
-		 <div class="grid"> 
+		 <div class="grid maxwidth1400"> 
 		 	<div class="unit whole">
 		 		<img class="mediumGapBott dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>
@@ -42,16 +42,16 @@ client: Gigbloc, 2015
 
 		 </div>
 
-		 <div class="grid mediumGapBott">
+		 <div class="grid mediumGapBott maxwidth1400">
 
 		 	<div class="unit one-third w90 ">
-		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit one-third w90 ">
-		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>
 		 	<div class="unit one-third w90 ">
-		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>				 				 	
 		 </div> 
 
