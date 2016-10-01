@@ -13,7 +13,7 @@ jobOutput: Responsive design, Video
 tags: 
 - work
 featureImg: assets/work/wwxvideoplyr/mast-sherlock3-personality-icon-high-res.jpg
-thumbNail: assets/work/Thumbnail/WirewaxPlatform@2x.png
+thumbNail: assets/work/Thumbnail/WirewaxPlatform@2x.jpg
 client: Wirewax
 ---
 
