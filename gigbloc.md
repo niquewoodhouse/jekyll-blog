@@ -53,19 +53,19 @@ client: Gigbloc
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
-					<p class="w50 mAuto bold textCenter uppercase smallestGapBott">
+					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						BRANDING
 					</p>		 		
-		 		<p class="w50 padding5 dBlock mAuto">
+		 		<p class="w50 darkgrey mAuto">
 		 			I went with a light interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night.  Pop it like its hot.
 		 		</p>
 		 	</div>			 
 
 		 	<div class="unit whole mediumGapBott">
-					<p class="w50 mAuto bold textCenter uppercase">
+					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						FEATURE TEASE
 					</p>		 		
-		 		<p class="w50 padding5 dBlock mAuto">
+		 		<p class="w50 mAuto darkgrey">
 		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
@@ -78,7 +78,7 @@ client: Gigbloc
 
 		<div class="grid">
 				<div class="unit whole bigGapBott">
-					<p class="w50 mAuto">
+					<p class="w50 mAuto darkgrey">
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
 					</p>
 				</div> 	
