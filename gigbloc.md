@@ -14,7 +14,7 @@ tags:
 - work
 featureImg: https://hd.unsplash.com/photo-1466812088935-5031240e09b7
 thumbNail: https://hd.unsplash.com/photo-1466812088935-5031240e09b7
-client: Gigbloc
+client: Gigbloc, 2015
 ---
 
 <div class="wider">
@@ -105,6 +105,10 @@ client: Gigbloc
 		 
 	
 </div>
+
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/bigimg1@2x.jpg"/> 
+		 	</div>	
 
 
 
