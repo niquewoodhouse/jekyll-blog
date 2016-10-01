@@ -251,6 +251,7 @@ a.grid__link {border-bottom-style: none;}
 .w50 {width:50%;}
 .w100 {width:100% !important;}
 img.goesWithHeading {top:60px;right:0px;}
+.maxwidth500 {max-width: 500px !important;}
 
 
 

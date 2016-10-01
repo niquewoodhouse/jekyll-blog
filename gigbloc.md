@@ -35,7 +35,7 @@ client: Gigbloc
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						Vision
 					</p>
-					<p class="w50 mAuto darkgrey">
+					<p class="w50 mAuto darkgrey maxwidth500">
 						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
 					</p>
 				</div> 			 	
@@ -56,7 +56,7 @@ client: Gigbloc
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						BRANDING
 					</p>		 		
-		 		<p class="w50 darkgrey mAuto">
+		 		<p class="w50 darkgrey mAuto maxwidth500">
 		 			I went with a light interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night.  Pop it like its hot.
 		 		</p>
 		 	</div>			 
@@ -65,7 +65,7 @@ client: Gigbloc
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						FEATURE TEASE
 					</p>		 		
-		 		<p class="w50 mAuto darkgrey">
+		 		<p class="w50 mAuto darkgrey maxwidth500">
 		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
