@@ -29,7 +29,7 @@ client: Appear Here, 2016
 
 		 <div class="grid maxwidth1400 mAuto"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahdestination/hackneytop1@2x.jpg"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/ahdestination/hackneytop1@2x.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
