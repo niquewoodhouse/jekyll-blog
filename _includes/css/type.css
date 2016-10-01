@@ -66,11 +66,13 @@ p.mediumPrint {
 }
 
 p.firstP {
-    font-size:28px;
-    line-height: 1.47059;
-    font-weight: 300;
+    font-size:2rem;
+    line-height: 1.37059;
+    font-weight: 700;
     font-stretch: normal;
     font-style: normal;
+    text-align: center;
+
 
 }
 
