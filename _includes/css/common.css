@@ -181,6 +181,14 @@ a:hover {
 	margin-bottom:50px !important;
 }
 
+.smallestGapTop {
+	margin-top:25px !important;
+}
+
+.smallestGapBott {
+	margin-bottom: 25px !important;
+}
+
 .mediumGapBott {
 	margin-bottom:100px !important;
 }
@@ -192,6 +200,8 @@ a:hover {
 .bigGapBottPad {
 	padding-bottom:200px !important;
 }
+
+
 
 .paddingNo {
 	padding: 0 !important;

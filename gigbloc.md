@@ -32,9 +32,9 @@ client: Gigbloc
 		 		<img class="mediumGapBott dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
-					<h2 class="w50 mAuto smallGapBott textCenter uppercase">
+					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						Vision
-					</h2>
+					</p>
 					<p class="w50 mAuto">
 						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
 					</p>
@@ -53,7 +53,7 @@ client: Gigbloc
 		 </div> 
 
 		 	<div class="unit whole mediumGapBott">
-					<p class="w50 mAuto bold textCenter uppercase">
+					<p class="w50 mAuto bold textCenter uppercase smallestGapBott">
 						BRANDING
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
