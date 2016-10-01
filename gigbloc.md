@@ -35,7 +35,7 @@ client: Gigbloc
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
 						Vision
 					</p>
-					<p class="w50 mAuto">
+					<p class="w50 mAuto darkgrey">
 						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
 					</p>
 				</div> 			 	

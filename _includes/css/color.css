@@ -9,6 +9,11 @@ body {color:rgb(51, 51, 51);}
 .ghost a {color:#fafafa;}
 .yello {color:#FFCC00;}
 .grey, .pFocus {color:rgb(153, 153, 153);}
+.darkestgrey {color:rgb(87, 87, 87);}
+.darkgrey {color:rgb(124,124,124);}
+.lightgrey {color:rgb(172,172,172);}
+.lightestgrey {color:rgb(214,214,214);}
+
 
 /* Borders */
 
