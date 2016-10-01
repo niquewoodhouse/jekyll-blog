@@ -83,7 +83,7 @@ client: Appear Here, 2016
 		 	</div>		
 			<div class="unit whole mediumGapBott">
 					<p class="w50 mAuto grey">
-						Part of the design involved selecting imagery from freelance photographers.  
+						Part of the design involved selecting imagery from freelance photographers, to help tell the story of each location. 
 					</p>						 		 
 			</div>
 
@@ -94,7 +94,7 @@ client: Appear Here, 2016
 					</p>
 				</div> 	
 				<div class="grid_item unit half mediumGapBott">
-					<img class="w90 mAuto" src="assets/work/nick/folio2015_gameAssets.png"/>	
+					<img class="w90 mAuto" src="assets/work/ahdestination/guideModal1@2x.png"/>	
 				</div>
 				<div class="unit half mediumGapBott  padding5">
 					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
