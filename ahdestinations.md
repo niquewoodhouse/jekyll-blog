@@ -77,11 +77,9 @@ client: Appear Here, 2016
 		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
-		 	<div class="unit whole mediumGapBott mAuto maxwidth1400">
-		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
-		 	</div>		 	
+	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
+		 		<img class="dBlock mAuto" src="assets/work/ahdestination/parislady1@2x.jpg"/> 
 		 	</div>			 
 
 		<div class="grid  mAuto maxwidth1400">
