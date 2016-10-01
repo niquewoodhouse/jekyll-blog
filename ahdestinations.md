@@ -36,7 +36,7 @@ client: Appear Here, 2016
 						Exploring cities
 					</p>
 					<p class="w50 mAuto darkgrey maxwidth500">
-						I split the large 
+						I split the screen to give the locations a strong visual while delivering content.  It also helped the 
 					</p>
 				</div> 			 	
 
@@ -45,7 +45,7 @@ client: Appear Here, 2016
 		 <div class="grid mediumGapBott maxwidth1400 mAuto">
 
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/ahdestination/hackneymobile1@2x.png"/> 
 		 	</div>	
 		 	<div class="unit one-third w90 ">
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
