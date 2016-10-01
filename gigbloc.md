@@ -12,8 +12,8 @@ jobRole: UX, UI
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: assets/wotk/Thumbnail/gigbloc.jpg
-thumbNail: assets/wotk/Thumbnail/gigbloc.jpg
+featureImg: assets/work/Thumbnail/gigbloc.jpg
+thumbNail: assets/work/Thumbnail/gigbloc.jpg
 client: Gigbloc, 2015
 ---
 
