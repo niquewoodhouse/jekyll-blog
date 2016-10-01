@@ -12,8 +12,8 @@ jobRole: UX, UI
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: https://hd.unsplash.com/photo-1466812088935-5031240e09b7
-thumbNail: https://hd.unsplash.com/photo-1466812088935-5031240e09b7
+featureImg: assets/wotk/Thumbnail/gigbloc.jpg
+thumbNail: assets/wotk/Thumbnail/gigbloc.jpg
 client: Gigbloc, 2015
 ---
 
@@ -22,7 +22,7 @@ client: Gigbloc, 2015
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto firstP">
-						Citymapper for music gigs. 
+						Citymapper for music gigs.
 					</p>
 				</div> 	
 		</div>
@@ -60,7 +60,7 @@ client: Gigbloc, 2015
 						BRANDING
 					</p>		 		
 		 		<p class="w50 darkgrey mAuto maxwidth500">
-		 			I went with a light interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night.  Pop it like its hot.
+		 			I went with a dark interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night and I wanted the experience to help users feel that sense of night.
 		 		</p>
 		 	</div>			 
 
