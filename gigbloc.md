@@ -43,6 +43,10 @@ client: Gigbloc
 		 </div>
 
 		 <div class="grid mediumGapBott">
+		 	<div class="unit whole mediumGapBott">
+		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
+		 	</div>	
+		 	
 		 	<div class="unit half w90 ">
 		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
@@ -69,7 +73,7 @@ client: Gigbloc
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>		 	
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
