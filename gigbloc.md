@@ -29,7 +29,7 @@ client: Gigbloc
 
 		 <div class="grid"> 
 		 	<div class="unit whole">
-		 		<img class="mediumGapBott dBlock mAuto" src="assets/work/wwxvideoplyr/VideoPlayerUI_1.png"/> 
+		 		<img class="mediumGapBott dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<h2 class="w50 mAuto smallGapBott textCenter uppercase">
@@ -43,10 +43,7 @@ client: Gigbloc
 		 </div>
 
 		 <div class="grid mediumGapBott">
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
-		 	</div>	
-		 	
+
 		 	<div class="unit half w90 ">
 		 		<img class="w50 dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
 		 	</div>	
