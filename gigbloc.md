@@ -103,12 +103,13 @@ client: Gigbloc, 2015
 		 	</div>	
 		 </div>	
 		 
-	
-</div>
-
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/bigimg1@2x.jpg"/> 
 		 	</div>	
+
+	
+</div>
+
 
 
 
