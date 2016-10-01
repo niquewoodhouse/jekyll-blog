@@ -12,8 +12,8 @@ jobRole: UX, UI
 jobOutput: Responsive design, Video
 tags: 
 - work
-featureImg: assets/work/Thumbnail/ahdestinations1@2x.jpg
-thumbNail: assets/work/Thumbnail/ahdestinations1@2x.jpg
+featureImg: assets/work/Thumbnail/ahdestinations2@2x.png
+thumbNail: assets/work/Thumbnail/ahdestinations2@2x.png
 client: Appear Here, 2016
 ---
 
@@ -22,7 +22,7 @@ client: Appear Here, 2016
 		<div class="grid">
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto firstP">
-						Appear Here, the #1 
+						Appear Here, the #1 site for booking retail space around the world, has guides helping people explore locations in more detail.  I designed a microsite to showcase the locations.
 					</p>
 				</div> 	
 		</div>
@@ -33,10 +33,10 @@ client: Appear Here, 2016
 		 	</div>
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
-						Vision
+						Exploring cities
 					</p>
 					<p class="w50 mAuto darkgrey maxwidth500">
-						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
+						I split the large 
 					</p>
 				</div> 			 	
 
