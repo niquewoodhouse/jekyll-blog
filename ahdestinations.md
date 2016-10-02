@@ -93,30 +93,10 @@ client: Appear Here, 2016
 						Designing games from scratch means defining logic and laws, algorythyms and animations.  
 					</p>
 				</div> 	
-				<div class="grid_item unit half mediumGapBott">
+				<div class="grid_item unit whole mediumGapBott">
 					<img class="w90 mAuto" src="assets/work/ahdestination/guideModal1@2x.png"/>	
 				</div>
-				<div class="unit half mediumGapBott  padding5">
-					<video id="myVideo5b" class="mAuto" autoplay="" loop="">
-							  <source src="assets/work/nick/thomasCookGame1.mp4" type="video/mp4">
-							  <source src="mov_bbb.ogg" type="video/ogg">
-							  Your browser does not support HTML5 video.
-					</video>		
-				</div>
-		</div>		 
 
-		 <div class="grid mediumGapBott mAuto maxwidth1400">
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street2.jpg"/> 
-		 	</div>	
-		 	<div class="unit whole w90 mediumGapBott">
-		 		<img class="w90 dBlock mAuto" src="assets/work/nick/sesame_street1.jpg"/> 
-		 	</div>	
-		 </div>	
-		 
-		 	<div class="unit whole mediumGapBott">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/bigimg1@2x.jpg"/> 
-		 	</div>	
 
 	
 </div>

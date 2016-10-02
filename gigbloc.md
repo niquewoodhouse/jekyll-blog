@@ -31,18 +31,23 @@ client: Gigbloc, 2015
 		 	<div class="unit whole">
 		 		<img class="mediumGapBott dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
 		 	</div>
+
 				<div class="unit whole bigGapBott">
 					<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
-						Vision
+						Constraints
 					</p>
 					<p class="w50 mAuto darkgrey maxwidth500">
-						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.
+						Some friends asked me to create a vision for their new start-up.  With no real budget or time, I just went with my instincts.  Constraints of time and budget can help drive design decisions, to quick simple solutions that hopefully lead to a simple interface.
 					</p>
 				</div> 			 	
 
 		 </div>
 
 		 <div class="grid mediumGapBott maxwidth1400 mAuto">
+
+		 	<div class="unit whole">
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/home1@2x.png"/> 
+		 	</div>
 
 		 	<div class="unit one-third w90 ">
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
