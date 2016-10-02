@@ -50,14 +50,14 @@ client: Gigbloc, 2015
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/show1@2x.png"/> 
 		 	</div>
 
-		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/home1small@2x.png"/> 
+		 	<div class="unit one-third  ">
+		 		<img class="dBlock mAuto w90" src="assets/work/gigbloc/home1small@2x.png"/> 
 		 	</div>	
-		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/show1small@2x.png"/> 
+		 	<div class="unit one-third  ">
+		 		<img class="dBlock mAuto w90" src="assets/work/gigbloc/show1small@2x.png"/> 
 		 	</div>
-		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/allgenres1small@2x.png"/> 
+		 	<div class="unit one-third">
+		 		<img class="dBlock mAuto w90" src="assets/work/gigbloc/allgenres1small@2x.png"/> 
 		 	</div>				 				 	
 		 </div> 
 
