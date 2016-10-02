@@ -47,6 +47,7 @@ client: Gigbloc, 2015
 
 		 	<div class="unit whole">
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/home1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/show1@2x.png"/> 
 		 	</div>
 
 		 	<div class="unit one-third w90 ">
