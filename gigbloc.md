@@ -50,9 +50,17 @@ client: Gigbloc, 2015
 		 		<img class="dBlock mAuto" src="assets/work/gigbloc/show1@2x.png"/> 
 		 	</div>
 
-		 	<div class="unit one-third  ">
+		 	<div class="unit half">
 		 		<img class="dBlock mAuto w90" src="assets/work/gigbloc/home1small@2x.png"/> 
 		 	</div>	
+		 	<div class="unit half fRight">
+				<p class="w50 mAuto textCenter bold uppercase smallestGapBott">
+					BRANDING
+				</p>		 		
+		 		<p class="w50 darkgrey mAuto maxwidth500">
+		 			I went with a dark interface for a few reasons, but chief among them (does anyone say that in real life) was gigs tend to happen at night and I wanted the experience to help users feel that sense of night.
+		 		</p> 
+		 	</div>
 		 	<div class="unit one-third  ">
 		 		<img class="dBlock mAuto w90" src="assets/work/gigbloc/show1small@2x.png"/> 
 		 	</div>
