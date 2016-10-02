@@ -51,13 +51,13 @@ client: Gigbloc, 2015
 		 	</div>
 
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/home1small@2x.png"/> 
 		 	</div>	
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/show1small@2x.png"/> 
 		 	</div>
 		 	<div class="unit one-third w90 ">
-		 		<img class="dBlock mAuto" src="assets/work/gigbloc/Screen1@2x.png"/> 
+		 		<img class="dBlock mAuto" src="assets/work/gigbloc/allgenres1small@2x.png"/> 
 		 	</div>				 				 	
 		 </div> 
 
@@ -78,9 +78,6 @@ client: Gigbloc, 2015
 		 			When looking for investment its good to think of features that might be the difference maker for possible users.  I thought a share feature would help increase users, as going to gigs is really a social activity.
 		 		</p>
 		 	</div>	
-		 	<div class="unit whole mediumGapBott mAuto maxwidth1400">
-		 		<img class="w50 dBlock mAuto" src="http://www.chris-wang.com/work/images/meter/meter-detail-01.png"/> 
-		 	</div>		 	
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 
 		 	</div>			 
