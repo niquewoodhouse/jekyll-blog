@@ -1,9 +1,9 @@
 ---
 ---
 
-{% include css/common.css %}
-{% include css/nav.css %}
-{% include css/type.css %}
-{% include css/layout.css %}
-{% include css/color.css %}
-{% include css/animate.css %}
+{% include ../css/common.css %}
+{% include ../css/nav.css %}
+{% include ../css/type.css %}
+{% include ../css/layout.css %}
+{% include ../css/color.css %}
+{% include ../css/animate.css %}
