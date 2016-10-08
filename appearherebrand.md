@@ -53,11 +53,11 @@ client: Appear Here
 						USER EXPECTATIONS
 					</p>		 		
 		 		<p class="w50 padding5 dBlock mAuto">
-		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to indicate the interactive elements.
+		 			Knowing that users would interact with the scrubber to scroll through the video, I wanted to use that key functionality to help indicate the interactive elements.
 		 		</p>
 		 	</div>	
 		 	<div class="unit whole mediumGapBott">
-		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> 
+		 		<img class="w50 dBlock mAuto" src="assets/work/nick/bike.png"/> - INTERACTIVE TIMELINE STUFF 
 		 	</div>		 	
 		 	<div class="unit whole mediumGapBott">
 		 		<img class="dBlock mAuto" src="assets/work/nick/sesameBg2.jpg"/> 

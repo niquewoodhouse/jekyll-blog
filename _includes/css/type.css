@@ -193,3 +193,7 @@ ul.recentWork a {
 }
 
 
+h1, h2, p {
+    max-width:700px;
+}
+
